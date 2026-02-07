@@ -97,7 +97,7 @@
   },
   {
     "count": 1,
-    "name": "Tostarena Outfit",
+    "name": "Sombrero",
     "category": [
       "Shop"
     ],
@@ -105,7 +105,7 @@
   },
   {
     "count": 1,
-    "name": "Lake Lamode Outfit",
+    "name": "Poncho",
     "category": [
       "Shop"
     ],
@@ -113,7 +113,7 @@
   },
   {
     "count": 1,
-    "name": "Steam Gardens Outfit",
+    "name": "Swim Goggles",
     "category": [
       "Shop"
     ],
@@ -121,7 +121,39 @@
   },
   {
     "count": 1,
-    "name": "New Donk City Outfit",
+    "name": "Swimwear",
+    "category": [
+      "Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Explorer Hat",
+    "category": [
+      "Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Explorer Outfit",
+    "category": [
+      "Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Builder Helmet",
+    "category": [
+      "Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Builder Outfit",
     "category": [
       "Shop"
     ],
