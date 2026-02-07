@@ -1,0 +1,138 @@
+[
+  {
+    "count": "5",
+    "name": "Cascade Moon",
+    "category": [
+      "Moons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Kingdom Unlock",
+    "category": [
+      "Kingdoms"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Split Path Unlock Lake Kingdom",
+    "category": [
+      "Kingdoms"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Split Path Unlock Wooded Kingdom",
+    "category": [
+      "Kingdoms"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cascade Kingdom Madame Broode Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sand Kingdom Hariet Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sand Kingdom Knucklotec Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lake Kingdom Rango Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wooded Kingdom Spewart Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wooded Kingdom Torkdrift Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Metro Kingdom Mechawiggler Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Metro Kingdom Festival Multi Moon",
+    "category": [
+      "Multimoons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "16",
+    "name": "Sand Moon",
+    "category": [
+      "Moons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Lake Moon",
+    "category": [
+      "Moons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "16",
+    "name": "Wooded Moon",
+    "category": [
+      "Moons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Lost Moon",
+    "category": [
+      "Moons"
+    ],
+    "progression": true
+  },
+  {
+    "count": "20",
+    "name": "Metro Moon",
+    "category": [
+      "Moons"
+    ],
+    "progression": true
+  }
+]
