@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "SMOFestGenericEasyV2",
+  "game": "Super Mario Odyssey",
   "creator": "Haunteon",
   "filler_item_name": "Coin",
   "starting_items": []
