@@ -1,0 +1,122 @@
+{
+  "Cap Kingdom First Visit": {
+    "starting": true,
+    "connects_to": [
+      "Cascade Kingdom First Visit"
+    ],
+    "requires": ""
+  },
+  "Cap Kingdom Post Peace": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Cascade Kingdom First Visit": {
+    "connects_to": [
+      "Cascade Kingdom Post Peace"
+    ],
+    "requires": "",
+    "starting": true
+  },
+  "Cascade Kingdom Post Peace": {
+    "connects_to": [
+      "Sand Kingdom First Visit"
+    ],
+    "requires": "|Cascade Kingdom Madame Broode Multi Moon|"
+  },
+  "Cascade Kingdom 2nd Visit": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Sand Kingdom First Visit": {
+    "connects_to": [
+      "Sand Kingdom Post Hariet",
+      "Lake Kingdom First Visit",
+      "Wooded Kingdom First Visit",
+      "Cascade Kingdom 2nd Visit",
+      "Cap Kingdom Post Peace"
+    ],
+    "requires": "|Power Moon:5| AND |Progressive Kingdom Unlock:1|"
+  },
+  "Sand Kingdom Post Hariet": {
+    "connects_to": [
+      "Sand Kingdom Post Peace"
+    ],
+    "requires": "|Sand Kingdom Hariet Multi Moon|"
+  },
+  "Sand Kingdom Post Peace": {
+    "connects_to": [],
+    "requires": "|Sand Kingdom Knucklotec Multi Moon|"
+  },
+  "Lake Kingdom First Visit": {
+    "connects_to": [
+      "Lake Kingdom Post Peace",
+      "Cloud Kingdom First Visit"
+    ],
+    "requires": "|Power Moon:21| AND |Split Path Unlock Lake Kingdom|"
+  },
+  "Lake Kingdom Post Peace": {
+    "connects_to": [],
+    "requires": "|Lake Kingdom Rango Multi Moon|"
+  },
+  "Wooded Kingdom First Visit": {
+    "connects_to": [
+      "Wooded Kingdom Post Spewart",
+      "Cloud Kingdom First Visit"
+    ],
+    "requires": "|Power Moon:21| AND |Split Path Unlock Wooded Kingdom|"
+  },
+  "Wooded Kingdom Post Spewart": {
+    "connects_to": [
+      "Wooded Kingdom Post Peace"
+    ],
+    "requires": "|Wooded Kingdom Spewart Multi Moon|"
+  },
+  "Wooded Kingdom Post Peace": {
+    "connects_to": [],
+    "requires": "|Wooded Kingdom Torkdrift Multi Moon|"
+  },
+  "Cloud Kingdom First Visit": {
+    "connects_to": [
+      "Lost Kingdom First Visit"
+    ],
+    "requires": "|Power Moon:45| AND |Progressive Kingdom Unlock:2| AND |Split Path Unlock Lake Kingdom| AND |Split Path Unlock Wooded Kingdom|"
+  },
+  "Cloud Kingdom Post Peace": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Lost Kingdom First Visit": {
+    "connects_to": [
+      "Night Metro Kingdom"
+    ],
+    "requires": ""
+  },
+  "Lost Kingdom 2nd Visit": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Night Metro Kingdom": {
+    "connects_to": [
+      "Day Metro Kingdom",
+      "Cloud Kingdom Post Peace",
+      "Lost Kingdom 2nd Visit"
+    ],
+    "requires": "|Power Moon:55| AND |Progressive Kingdom Unlock:3|"
+  },
+  "Day Metro Kingdom": {
+    "connects_to": [
+      "Metro Kingdom Post Peace"
+    ],
+    "requires": "|Metro Kingdom Mechawiggler Multi Moon|"
+  },
+  "Metro Kingdom Post Peace": {
+    "connects_to": [
+      "Victory"
+    ],
+    "requires": "|Metro Kingdom Festival Multi Moon|"
+  },
+  "Victory": {
+    "connects_to": [],
+    "requires": "|Power Moon:75|"
+  }
+}
