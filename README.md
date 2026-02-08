@@ -14,6 +14,7 @@ What do you need to go to the next kingdom?
 
 
 How many moons do you need to leave a kingdom?
+
 For generic moons:
 - Cascade: 5
 - Sand: 21
