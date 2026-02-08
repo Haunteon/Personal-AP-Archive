@@ -70,3 +70,5 @@ Action Rando Starting Actions
 - Enter Pipe
 - Cap Throw and Hold
 - Jump/Double Jump
+- Cappy Return Jump
+- Cappy Return Air Stall
