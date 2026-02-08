@@ -52,7 +52,7 @@ Roadmap
   - every 25 Coins colected will be a location
 - Shops
   - You can add locations for every shop item that costs Gold and/or Regional coins
-  - Items cannot be used in game until you receive them as an item
+  - Outfits Door Outfits cannot be used in game until you receive them as an item
 - Warp Painting Logic
 - More Goals
   - Main Ending
