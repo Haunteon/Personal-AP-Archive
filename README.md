@@ -45,20 +45,18 @@ Roadmap
 - Action Rando
   - Basic actions in Action Guide
 - Capture Sanity
-  - Captures are location checks. If you don't have the item for it, immediately uncapture.
-- Checkpoint Sanity
-  - Checkpoints are location checks. Checkpoints are free to warp to, they are not items.
+  - Captures are given as items. If you don't have the item for it, immediately uncapture.
+- Outfit Doors
+  - Outfits will be Items
 - Regional Coin Checks
-  - every 25 Coins colected will be a location
-- Shops
-  - You can add locations for every shop item that costs Gold and/or Regional coins
-  - Outfits Door Outfits cannot be used in game until you receive them as an item
+  - Just enough to get you all the Outfit Door Moons
 - Warp Painting Logic
 - More Goals
   - Main Ending
   - World Peace
+  - Darker Side
 
-Capture Sanity Starting Items - These Captures do not give Checks
+Capture Sanity Starting Items
 - Frog
 - Spark Pylon (Wire)
 - Chain Chomp
@@ -70,5 +68,12 @@ Action Rando Starting Actions
 - Enter Pipe
 - Cap Throw and Hold
 - Jump/Double Jump
+
+Other Starting Inventory
+- Slingshot
+- Scarecrow
+- Cappy Return Jump
+- Cappy Return Air Stall
+- Ledge Grab
 - Cappy Return Jump
 - Cappy Return Air Stall
