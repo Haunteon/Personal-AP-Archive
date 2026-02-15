@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Frog-Jumping Above the Fog",
+    "region": "Cap Kingdom Post Peace",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": "|Frog|"
+  },
+  {
+    "name": "Frog-Jumping from the Top Deck",
+    "region": "Cap Kingdom Post Peace",
+    "victory": true,
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": "|Frog|",
+    "place_item": [
+      "|Sand Kingdom Knucklotec Multimoon|"
+    ]
+  }
+]
