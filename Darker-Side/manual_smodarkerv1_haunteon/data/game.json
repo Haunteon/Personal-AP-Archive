@@ -3,5 +3,16 @@
   "game": "SuperMarioOdyssey",
   "creator": "Haunteon",
   "filler_item_name": "Coin",
-  "starting_items": []
+  "starting_items": [
+    {
+            "items": ["Frog", "Spark Pylon", "Chain Chomp", "Broode's Chain Chomp", "Slingshot", "Scarecrow"]
+        },
+    {
+            "items": ["Capture", "Cap Throw/Hold", "Enter Pipe", "Ledge Grab",]
+        },
+    {
+            "items": ["Big Chain Chomp", "T-rex"],
+            "random": 1
+        }
+  ]
 }
