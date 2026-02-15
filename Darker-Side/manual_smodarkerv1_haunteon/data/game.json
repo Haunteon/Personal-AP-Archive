@@ -3,7 +3,6 @@
   "game": "SuperMarioOdyssey",
   "creator": "Haunteon",
   "filler_item_name": "Coin",
-  "death_link": true
   "starting_items": [
     {
             "items": ["Frog", "Spark Pylon", "Chain Chomp", "Broode's Chain Chomp", "Slingshot", "Scarecrow"]
