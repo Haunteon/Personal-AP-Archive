@@ -201,6 +201,14 @@
   },
   {
     "count": 1,
+    "name": "Dark Side Mecha-Broodal Multimoon",
+    "category": [
+      "Story Moons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Moon Rock Fragment",
     "category": [
       "Souvenir/Sticker"
