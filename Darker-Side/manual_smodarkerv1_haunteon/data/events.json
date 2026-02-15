@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Trick Jumps are cool",
+    "region": "That one jump",
+    "requires": "|Long One| and (|Mushroom| or |Superman|)",
+    "visible": false
+  }
+]
