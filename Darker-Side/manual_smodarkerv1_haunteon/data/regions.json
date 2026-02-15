@@ -411,11 +411,21 @@
     "requires": "|Moon Rock Fragment|"
   },
   "Dark Side": {
-    "connects_to": [],
+    "connects_to": [
+      "Dark Side Post Boss"
+    ],
     "requires": "|Power Moon:250|"
+  },
+  
+  "Dark Side Post Boss": {
+    "connects_to": [],
+    "requires": "|Dark Side Mecha-Broodal Multimoon|"
   },
   "Darker Side": {
     "connects_to": [],
     "requires": "|Power Moon:500|"
   }
+
+Dark Side Mecha-Broodal Multimoon
+  
 }
