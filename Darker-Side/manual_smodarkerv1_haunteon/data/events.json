@@ -1,8 +1,8 @@
 [
   {
-    "name": "Trick Jumps are cool",
+    "name": "High Jump",
     "region": "That one jump",
-    "requires": "|Long One| and (|Mushroom| or |Superman|)",
+    "requires": "|Triple Jump| and (|Mushroom| or |Superman|)",
     "visible": false
   }
 ]
