@@ -1,11 +1,5 @@
 [
   {
-    "name": "Example Event",
-    "region": "Example Region",
-    "requires": "|Item| or (|Example:1| and |Oops|)",
-    "visible": false
-  },
-  {
     "name": "High Jump",
     "requires": "|Triple Jump| or |Back Flip| or |Side Flip| or (|Ground Pound| and |Ground Pound Jump|)",
     "visible": false
