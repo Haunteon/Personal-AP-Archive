@@ -63,10 +63,5 @@
     "name": "Moon Cave Skip",
     "requires": "",
     "visible": false
-  },
-  {
-    "name": "",
-    "requires": "",
-    "visible": false
-  },
+  }
 ]

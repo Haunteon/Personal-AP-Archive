@@ -75,7 +75,7 @@
                 "complex_ui",
                 "template"
             ],
-            "default": true
+            "default": true,
             "group": "Example Options"
         }
     }
