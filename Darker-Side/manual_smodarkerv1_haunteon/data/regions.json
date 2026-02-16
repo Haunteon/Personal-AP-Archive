@@ -67,17 +67,19 @@
   "Wooded Kingdom 1st Visit": {
     "connects_to": [
       "Wooded Kingdom Deep Woods",
-      "Wooded Kingdom Maze Skip",
-      "Cloud Kingdom 1st Visit"
+      "Wooded Kingdom Maze Skip"
     ],
     "requires": "(|Power Moon:21| AND |Kingdom Split Path Wooded Kingdom|) OR (|Power Moon:29| AND |Kingdom Split Path Lake Kingdom|)"
   },
   "Wooded Kingdom Deep Woods": {
-    "connects_to": [],
+    "connects_to": [
+      "Cloud Kingdom 1st Visit",
+    ],
     "requires": "|Hold/Throw|"
   },
   "Wooded Kingdom Maze Skip": {
     "connects_to": [
+      "Cloud Kingdom 1st Visit",
       "Wooded Kingdom Post Spewart"
     ],
     "requires": "|Uproot| OR (|Cap Jump| AND |Dive|)"
