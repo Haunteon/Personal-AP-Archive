@@ -14,6 +14,7 @@
       "Kingdoms"
     ],
     "progression": true
+	"sort-key": "row-0-1"
   },
   {
     "count": "2",
@@ -22,6 +23,7 @@
       "Kingdoms"
     ],
     "progression": true
+	"sort-key": "row-0-2"
   },
   {
     "count": "2",
@@ -30,6 +32,7 @@
       "Kingdoms"
     ],
     "progression": true
+	"sort-key": "row-0-3"
   },
   {
     "count": 1,
@@ -38,6 +41,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-1-1"
 	"local": true
   },
   {
@@ -47,6 +51,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-2-1"
   },
   {
     "count": 1,
@@ -55,6 +60,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-2-2"
   },
   {
     "count": 1,
@@ -63,6 +69,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-3-1"
   },
   {
     "count": 1,
@@ -71,6 +78,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-4-1"
   },
   {
     "count": 1,
@@ -79,6 +87,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-4-2"
   },
   {
     "count": 1,
@@ -87,6 +96,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-5-1"
   },
   {
     "count": 1,
@@ -95,6 +105,7 @@
       "Multimoons"
     ],
     "progression": true
+	"sort-key": "row-5-2"
   },
   {
     "count": 1,
