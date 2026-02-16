@@ -189,17 +189,17 @@
     "connects_to": [
       "Luncheon Kingdom Post Peace"
     ],
-    "requires": "|Luncheon Kingdom Cave Story Moon|\n"
+    "requires": "|Luncheon Kingdom Cave Story Moon|"
   },
   "Luncheon Kingdom Post Peace": {
     "connects_to": [],
-    "requires": "|Luncheon Kingdom Cookatiel Multimoon|\n"
+    "requires": "|Luncheon Kingdom Cookatiel Multimoon|"
   },
   "Ruined Kingdom 1st Visit": {
     "connects_to": [
       "Ruined Kingdom Post Peace"
     ],
-    "requires": "|Power Moon:113| AND |Progressive Kingdom Unlock:6|\n"
+    "requires": "|Power Moon:113| AND |Progressive Kingdom Unlock:6|"
   },
   "Ruined Kingdom Post Peace": {
     "connects_to": [
