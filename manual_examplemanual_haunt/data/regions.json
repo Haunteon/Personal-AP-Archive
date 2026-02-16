@@ -1,0 +1,19 @@
+{
+  "Starting Region": {
+    "starting": true,
+    "connects_to": [
+      "Tutorial Region"
+    ],
+    "requires": ""
+  },
+  "Tutorial Region": {
+    "connects_to": [
+      "Final Region"
+    ],
+    "requires": "|Important Item|"
+  },
+  "Final Region": {
+    "connects_to": [],
+    "requires": ""
+  }
+}

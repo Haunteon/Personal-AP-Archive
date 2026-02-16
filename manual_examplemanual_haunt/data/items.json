@@ -1,0 +1,38 @@
+[
+  {
+    "count": 1,
+    "name": "Important Item",
+    "category": [
+      "Weapon",
+      "Tutorial"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Buff Item",
+    "category": [
+      "Refill",
+      "Power Up"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Where's my item",
+    "category": [
+      "Filler",
+      "Joke"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "It's a Tarp!!!",
+    "category": [
+      "Trap",
+      "Oops"
+    ],
+    "trap": true
+  }
+]

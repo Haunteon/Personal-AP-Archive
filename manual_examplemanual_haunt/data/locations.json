@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Small Chest",
+    "region": "Starting Region",
+    "category": [],
+    "requires": "",
+    "place_item": [
+      ""
+    ]
+  },
+  {
+    "name": "Big Chest",
+    "region": "Starting Region",
+    "category": [],
+    "requires": "",
+    "place_item": [
+      "Important Item"
+    ]
+  },
+  {
+    "region": "Tutorial Region",
+    "name": "Signpost",
+    "category": [],
+    "requires": "",
+    "place_item_category": [
+      "Trap"
+    ]
+  },
+  {
+    "region": "Final Region",
+    "name": "Final Boss",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "Princess Smooch",
+    "region": "Final Region",
+    "victory": true,
+    "category": [],
+    "requires": ""
+  }
+]
