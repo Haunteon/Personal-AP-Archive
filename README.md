@@ -1,4 +1,4 @@
-Personal Super Mario odyssey Manual AP world for use with Archipelago Multiworld Randomizer
+Super Mario odyssey Manual AP world for use with Archipelago Multiworld Randomizer
 
 Goals
 - Festival
