@@ -1,7 +1,8 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "SMOFestGenericEasyV2",
+  "game": "SMO_Festival",
   "creator": "Haunteon",
   "filler_item_name": "Coin",
+  "Deathlink": true
   "starting_items": []
 }
