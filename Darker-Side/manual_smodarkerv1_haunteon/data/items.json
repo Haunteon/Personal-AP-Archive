@@ -849,6 +849,22 @@
   },
   {
     "count": 1,
+    "name": "Climb",
+    "category": [
+      "Actions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crouch",
+    "category": [
+      "Actions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Caveman Headwear",
     "category": [
       "Outfits"
