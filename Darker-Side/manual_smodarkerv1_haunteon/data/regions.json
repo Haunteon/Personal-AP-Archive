@@ -412,11 +412,11 @@
   },
   "Dark Side": {
     "connects_to": [
-      "Dark Side Post Boss"
+      "Dark Side Post Mech"
     ],
     "requires": "|Power Moon:250|"
   },
-  "Dark Side Post Boss": {
+  "Dark Side Post Mech": {
     "connects_to": [],
     "requires": "|Dark Side Mecha-Broodal Multimoon|"
   },
