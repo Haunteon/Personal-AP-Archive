@@ -10,14 +10,10 @@
   {
     "name": "Frog-Jumping from the Top Deck",
     "region": "Cap Kingdom Post Peace",
-    "victory": true,
     "category": [
       "Cap Kingdom"
     ],
     "requires": "|Frog|",
-    "place_item": [
-      "|Sand Kingdom Knucklotec Multimoon|"
-    ]
   },
   {
     "name": "Cap Kingdom Timer Challenge 1",
@@ -25,7 +21,47 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "|Momentum|"
+  },
+  {
+    "name": "Good Evening, Captain Toad!",
+    "region": "Cap Kingdom Post Peace",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Shopping in Bonneton",
+    "region": "Cap Kingdom Post Peace",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Skimming the Poison Tide",
+    "region": "Cap Kingdom Post Peace",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": "|Paragoomba|"
+  },
+  {
+    "name": "Slipping Through the Poison Tide",
+    "region": "Cap Kingdom Post Peace",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": "|Paragoomba|"
+  },
+  {
+    "name": "Push-Block Peril",
+    "region": "Cap Kingdom Post Peace",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": "|Spark Pylon|"
   },
   {
     "name": "Frog-Jumping Above the Fog",
@@ -36,7 +72,15 @@
     "requires": "|Frog|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
+    "name": "Hidden Among the Push-Blocks",
+    "region": "Cap Kingdom Post Peace",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": "|Spark Pylon|"
+  },
+  {
+    "name": "Searching the Frog Pond",
     "region": "Cap Kingdom Post Peace",
     "category": [
       "Cap Kingdom"
@@ -44,7 +88,7 @@
     "requires": "|Frog|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
+    "name": "Secrets of the Frog Pond",
     "region": "Cap Kingdom Post Peace",
     "category": [
       "Cap Kingdom"
@@ -52,155 +96,51 @@
     "requires": "|Frog|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
+    "name": "The Forgotten Treasure",
+    "region": "Cap Kingdom Post Game",
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "|Ground Pound|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
+    "name": "Taxi Flying Through Bonneton",
+    "region": "Cap Kingdom Post Game",
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "|Binoculars|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
+    "name": "Bonneter Blockade",
+    "region": "Cap Kingdom Post Game",
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "|Paragoomba|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
+    "name": "Cap Kingdom Regular Cup",
+    "region": "Cap Kingdom Post Game",
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "|Momentum|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
+    "name": "Peach in the Cap Kingdom",
+    "region": "Cap Kingdom Post Game",
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": ""
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
+    "name": "Found with Cap Kingdom Art",
+    "region": "Cap Kingdom Post Game",
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
+    "requires": "|Ground Pound|"
+  }
 ]
