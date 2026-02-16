@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example Event",
+    "region": "Example Region",
+    "requires": "|Item| or (|Example:1| and |Oops|)",
+    "visible": false
+  },
+]
