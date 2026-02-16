@@ -5,27 +5,68 @@
     "visible": false
   },
   {
-    "name": "Example Event",
-    "region": "Example Region",
-    "requires": "|Item| or (|Example:1| and |Oops|)",
+    "name": "Momentum",
+    "requires": "|Long Jump| or |Roll| or |Dive|",
     "visible": false
   },
   {
-    "name": "Example Event",
-    "region": "Example Region",
-    "requires": "|Item| or (|Example:1| and |Oops|)",
+    "name": "Cap Vault",
+    "requires": "|Dive| and |Cap Jump|",
     "visible": false
   },
   {
-    "name": "Example Event",
-    "region": "Example Region",
-    "requires": "|Item| or (|Example:1| and |Oops|)",
+    "name": "Pyramid Skip",
+    "requires": "|Bullet Bill| or ((|Long Jump| or |Triple Jump|) + Cap Vault)",
     "visible": false
   },
   {
-    "name": "Example Event",
-    "region": "Example Region",
-    "requires": "|Item| or (|Example:1| and |Oops|)",
+    "name": "Into the Lake",
+    "requires": "(|Cap Jump| + ((|High Jump| + |Dive|) or (|Triple| + |Wall Jump| + (|Dive| or |Goomba|)) or (|Long Jump| + |Dive|))) or (|Zipper| + |Swim|)",
+    "visible": false
+  },
+  {
+    "name": "Above the Lake",
+    "requires": "|Cheep Cheep| or |Swim| or |Cap Vault|",
+    "visible": false
+  },
+  {
+    "name": "Get to Spewart",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "Get to Cheese",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "Get to Meat",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "Enter the Courtyard",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "Over the Moat",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "Parabones Skip",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "Moon Cave Skip",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "",
+    "requires": "",
     "visible": false
   },
 ]
