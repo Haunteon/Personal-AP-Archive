@@ -21,7 +21,7 @@
   },
   {
     "name": "Into the Lake",
-    "requires": "(|Cap Jump| + ((|High Jump| + |Dive|) or (|Triple| + |Wall Jump| + (|Dive| or |Goomba|)) or (|Long Jump| + |Dive|))) or (|Zipper| + |Swim|)",
+    "requires": "(|Zipper| and |Swim|) or (|Cap Vault| and (|High Jump| OR |Long Jump| OR (|Triple Jump| AND |Wall Jump|))) OR (|Cap Jump| AND |Triple Jump| AND |Wall Jump| AND |Goomba|)",
     "visible": false
   },
   {
@@ -61,17 +61,22 @@
   },
   {
     "name": "Enter the Courtyard",
-    "requires": "|Dive| and ((|Ground Pound Jump| + |Ground Pound|) or |Backflip| or |Wall Jump|)",
+    "requires": "|Pokio| or (|Dive| and ((|Ground Pound Jump| + |Ground Pound|) or |Backflip| or |Wall Jump|))",
     "visible": false
   },
   {
     "name": "Over the Moat",
-    "requires": "",
+    "requires": "|Pokio| OR ",
     "visible": false
   },
   {
     "name": "Parabones Skip",
     "requires": "|Parabones| or (|Cap Vault| and (|Long Jump| or |Triple Jump|))",
+    "visible": false
+  },
+  {
+    "name": "Moon Cave Gauntlet",
+    "requires": "|Parabones Skip| and |Banzai Bill| and |Spark Pylon|",
     "visible": false
   },
   {
