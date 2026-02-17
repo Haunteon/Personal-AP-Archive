@@ -64,14 +64,6 @@
     "requires": "|Spark Pylon|"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": "|Frog|"
-  },
-  {
     "name": "Hidden Among the Push-Blocks",
     "region": "Cap Kingdom Post Peace",
     "category": [
@@ -142,5 +134,117 @@
       "Cap Kingdom"
     ],
     "requires": "|Ground Pound|"
+  },
+  {
+    "name": "Next to Glasses Bridge",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Danger Sign",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Under the Big One's Brim",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fly to the Edge of the Fog",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Spin the Hat, Get a Prize",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hidden in a Sunken Hat",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fog-Shrouded Platform",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bird Traveling in the Fog",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Caught Hopping Near the Ship!",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Taking Notes: In the Fog",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cap Kingdom Timer Challenge 2",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cap Kingdom Master Cup",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Roll On and On",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Precision Rolling",
+    "region": "Cap Kingdom Moon Rock",
+    "category": [
+      "Cap Kingdom"
+    ],
+    "requires": ""
   }
 ]
