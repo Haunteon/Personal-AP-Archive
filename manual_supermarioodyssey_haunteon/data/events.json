@@ -30,6 +30,21 @@
     "visible": false
   },
   {
+    "name": "Maze Skip",
+    "requires": "",
+    "visible": false
+  },
+  {
+    "name": "Sherm Wall",
+    "requires": "(|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|)) and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|))",
+    "visible": false
+  },
+  {
+    "name": "View of Lost",
+    "requires": "|Ground Pound| and |Wall Jump|",
+    "visible": false
+  },
+  {
     "name": "Get to Spewart",
     "requires": "",
     "visible": false
@@ -46,7 +61,7 @@
   },
   {
     "name": "Enter the Courtyard",
-    "requires": "",
+    "requires": "|Dive| and ((|Ground Pound Jump| + |Ground Pound|) or |Backflip| or |Wall Jump|)",
     "visible": false
   },
   {
@@ -56,12 +71,12 @@
   },
   {
     "name": "Parabones Skip",
-    "requires": "",
+    "requires": "|Parabones| or (|Cap Vault| and (|Long Jump| or |Triple Jump|))",
     "visible": false
   },
   {
     "name": "Moon Cave Skip",
-    "requires": "",
+    "requires": "(|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)) and |Cap Jump| and |Wall Jump|",
     "visible": false
   }
 ]
