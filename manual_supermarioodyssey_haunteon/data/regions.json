@@ -278,7 +278,7 @@
   },
   "Cap Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Rock Fragment| and |Paragoomba|"
   },
   "Cascade Kingdom Post Game": {
     "connects_to": [
