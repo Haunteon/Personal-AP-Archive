@@ -27,16 +27,18 @@
             "default": true
         },
         "Example_Toggle":{
-            "description": [
+            "display_name": "Example Toggle",
+			"type": "Toggle",
+			"description": [
                 "This is a Toggle",
                 "A simple boolean, aka True or False set the initial value with \"default\""
             ],
-            "type": "Toggle",
             "default": false,
             "group": "Example Options"
         },
         "Example_Choice":{
-            "type": "Choice",
+            "display_name":  "Example Choice",
+			"type": "Choice",
             "description": [
                 "This is a Choice",
                 "Let the user pick from a list of values",
@@ -52,7 +54,8 @@
             "group": "Example Options"
         },
         "Example_Range":{
-            "type": "Range",
+            "display_name": "Example Range",
+			"type": "Range",
             "description": [
                 "This is a Range",
                 "Allow the player to specify a value between 'start' and 'end'",
@@ -77,7 +80,27 @@
             ],
             "default": true,
             "group": "Example Options"
-        }
+        },
+		"capture_randomizer":{
+            "display_name": "Shuffle Captures",
+			"description": [
+                "Adds all 52 Captures to the item pool.",
+                "If you don't have the item for it, immediately uncapture."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+		"capture_randomizer_plus":{
+            "display_name": "Shuffle Slingshot and Scarecrow",
+			"description": [
+                "Requires Shuffle Captures",
+                "Adds Slingshot and Scarecrow to the item pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
     }
 
 }
