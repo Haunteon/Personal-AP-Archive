@@ -91,16 +91,55 @@
             "default": false,
             "group": "Item Options"
         },
-		"capture_randomizer_plus":{
-            "display_name": "Shuffle Slingshot and Scarecrow",
+		"capture_randomizer_extra":{
+            "display_name": "Shuffle Extra Captures",
 			"description": [
-                "Requires Shuffle Captures",
+                "Requires Shuffle Captures.",
                 "Adds Slingshot and Scarecrow to the item pool."
             ],
             "type": "Toggle",
             "default": false,
             "group": "Item Options"
         },
+		"action_randomizer":{
+            "display_name": "Shuffle Actions",
+			"description": [
+                "Adds all basic actions from the action guide to the item pool.",
+                "Try your best to not use moves you don't have."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+		"action_randomizer_extra":{
+            "display_name": "Shuffle Extra Actions",
+			"description": [
+                "Requires Shuffle Actions.",
+                "Adds Ledge Grab, Climb, and Crouch to the item pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+		"outfit_items":{
+            "display_name": "Shuffle Outfits",
+			"description": [
+                "Requires Outfit Doors.",
+				"Adds Outfits to the item pool."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+		"outfit_moons":{
+            "display_name": "Outfit Doors",
+			"description": [
+				"Adds Outfit Door moons as locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        }
     }
 
 }
