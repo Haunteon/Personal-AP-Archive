@@ -219,7 +219,8 @@
     "count": 1,
     "name": "Frog",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -227,7 +228,8 @@
     "count": 1,
     "name": "Spark Pylon",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -235,7 +237,8 @@
     "count": 1,
     "name": "Paragoomba",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -243,7 +246,8 @@
     "count": 1,
     "name": "Chain Chomp",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -251,7 +255,8 @@
     "count": 1,
     "name": "Big Chain Chomp",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -259,7 +264,8 @@
     "count": 1,
     "name": "Broode's Chain Chomp",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -267,7 +273,8 @@
     "count": 1,
     "name": "T-Rex",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -275,7 +282,8 @@
     "count": 1,
     "name": "Binoculars",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -283,7 +291,8 @@
     "count": 1,
     "name": "Bullet Bill",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -291,7 +300,8 @@
     "count": 1,
     "name": "Moe-Eye",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -299,7 +309,8 @@
     "count": 1,
     "name": "Cactus",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -307,7 +318,8 @@
     "count": 1,
     "name": "Goomba",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -315,7 +327,8 @@
     "count": 1,
     "name": "Knuckloetec's Fist",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -323,7 +336,8 @@
     "count": 1,
     "name": "Mini Rocket",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -331,7 +345,8 @@
     "count": 1,
     "name": "Glydon",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -339,7 +354,8 @@
     "count": 1,
     "name": "Lakitu",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -347,7 +363,8 @@
     "count": 1,
     "name": "Zipper",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -355,7 +372,8 @@
     "count": 1,
     "name": "Cheep Cheep",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -363,7 +381,8 @@
     "count": 1,
     "name": "Puzzle Part (Lake)",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -371,7 +390,8 @@
     "count": 1,
     "name": "Poison Piranha Plant",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -379,7 +399,8 @@
     "count": 1,
     "name": "Uproot",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -387,7 +408,8 @@
     "count": 1,
     "name": "Fire Bro",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -395,7 +417,8 @@
     "count": 1,
     "name": "Sherm",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -403,7 +426,8 @@
     "count": 1,
     "name": "Coin Coffer",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -411,7 +435,8 @@
     "count": 1,
     "name": "Tree",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -419,7 +444,8 @@
     "count": 1,
     "name": "Boulder",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -427,7 +453,8 @@
     "count": 1,
     "name": "Picture Match Part (Goomba)",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -435,7 +462,8 @@
     "count": 1,
     "name": "Tropical Wiggler",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -443,7 +471,8 @@
     "count": 1,
     "name": "Pole",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -451,7 +480,8 @@
     "count": 1,
     "name": "Manhole",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -459,7 +489,8 @@
     "count": 1,
     "name": "Taxi",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -467,7 +498,8 @@
     "count": 1,
     "name": "RC Car",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -475,7 +507,8 @@
     "count": 1,
     "name": "Ty-foo",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -483,7 +516,8 @@
     "count": 1,
     "name": "Shiverian Racer",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -491,7 +525,8 @@
     "count": 1,
     "name": "Cheep Cheep (Snow)",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -499,7 +534,8 @@
     "count": 1,
     "name": "Gushen",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -507,7 +543,8 @@
     "count": 1,
     "name": "Lava Bubble",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -515,7 +552,8 @@
     "count": 1,
     "name": "Volbonan",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -523,7 +561,8 @@
     "count": 1,
     "name": "Hammer Bro",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -531,7 +570,8 @@
     "count": 1,
     "name": "Meat",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -539,7 +579,8 @@
     "count": 1,
     "name": "Fire Piranha Plant",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -547,7 +588,8 @@
     "count": 1,
     "name": "Pokio",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -555,7 +597,8 @@
     "count": 1,
     "name": "Jizo",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -563,7 +606,8 @@
     "count": 1,
     "name": "Bowser Statue",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -571,7 +615,8 @@
     "count": 1,
     "name": "Parabones",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -579,7 +624,8 @@
     "count": 1,
     "name": "Banzai Bill",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -587,7 +633,8 @@
     "count": 1,
     "name": "Chargin' Chuck",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -595,7 +642,8 @@
     "count": 1,
     "name": "Bowser",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -603,7 +651,8 @@
     "count": 1,
     "name": "Letter",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -611,7 +660,8 @@
     "count": 1,
     "name": "Puzzle Part (Metro)",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -619,7 +669,8 @@
     "count": 1,
     "name": "Picture Match Part (Mario)",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -627,7 +678,8 @@
     "count": 1,
     "name": "Yoshi",
     "category": [
-      "Captures"
+      "Captures",
+	  "Basic Captures"
     ],
     "progression": true
   },
@@ -635,7 +687,8 @@
     "count": 1,
     "name": "Slingshot",
     "category": [
-      "Captures"
+      "Captures",
+	  "Extra Captures"
     ],
     "progression": true
   },
@@ -643,7 +696,8 @@
     "count": 1,
     "name": "Scarecrow",
     "category": [
-      "Captures"
+      "Captures",
+	  "Extra Captures"
     ],
     "progression": true
   },
@@ -651,7 +705,8 @@
     "count": 1,
     "name": "Long Jump",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -659,7 +714,8 @@
     "count": 1,
     "name": "Roll",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -667,7 +723,8 @@
     "count": 1,
     "name": "Ground Pound",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -675,7 +732,8 @@
     "count": 1,
     "name": "Dive",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -683,7 +741,8 @@
     "count": 1,
     "name": "Ground Pound Jump",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -691,7 +750,8 @@
     "count": 1,
     "name": "Capture",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -699,7 +759,8 @@
     "count": 1,
     "name": "Up Throw",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -707,7 +768,8 @@
     "count": 1,
     "name": "Down Throw",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -715,7 +777,8 @@
     "count": 1,
     "name": "Spin Throw",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -723,7 +786,8 @@
     "count": 1,
     "name": "Cap Throw/Hold",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -731,7 +795,8 @@
     "count": 1,
     "name": "Cap Jump",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -739,7 +804,8 @@
     "count": 1,
     "name": "Homing Cap Throw",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -747,7 +813,8 @@
     "count": 1,
     "name": "Back Flip",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -755,7 +822,8 @@
     "count": 1,
     "name": "Side Flip",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -763,7 +831,8 @@
     "count": 1,
     "name": "Triple Jump",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -771,7 +840,8 @@
     "count": 1,
     "name": "Wall Jump",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -779,7 +849,8 @@
     "count": 1,
     "name": "Hold/Throw",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -787,7 +858,8 @@
     "count": 1,
     "name": "Swim",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -795,7 +867,8 @@
     "count": 1,
     "name": "Quick Swim",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -803,7 +876,8 @@
     "count": 1,
     "name": "Spin",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -811,7 +885,8 @@
     "count": 1,
     "name": "Dash (2D)",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -819,7 +894,8 @@
     "count": 1,
     "name": "Enter Pipe",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -827,7 +903,8 @@
     "count": 1,
     "name": "Jaxi",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -835,7 +912,8 @@
     "count": 1,
     "name": "Motor Scooter",
     "category": [
-      "Actions"
+      "Actions",
+	  "Basic Actions"
     ],
     "progression": true
   },
@@ -843,7 +921,8 @@
     "count": 1,
     "name": "Ledge Grab",
     "category": [
-      "Actions"
+      "Actions",
+	  "Extra Actions"
     ],
     "progression": true
   },
@@ -851,7 +930,8 @@
     "count": 1,
     "name": "Climb",
     "category": [
-      "Actions"
+      "Actions",
+	  "Extra Actions"
     ],
     "progression": true
   },
@@ -859,7 +939,8 @@
     "count": 1,
     "name": "Crouch",
     "category": [
-      "Actions"
+      "Actions",
+	  "Extra Actions"
     ],
     "progression": true
   },
@@ -867,7 +948,8 @@
     "count": 1,
     "name": "Caveman Headwear",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -875,7 +957,8 @@
     "count": 1,
     "name": "Caveman Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -883,7 +966,8 @@
     "count": 1,
     "name": "Sombrero",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -891,7 +975,8 @@
     "count": 1,
     "name": "Poncho",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -899,7 +984,8 @@
     "count": 1,
     "name": "Cowboy Hat",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -907,7 +993,8 @@
     "count": 1,
     "name": "Cowboy Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -915,7 +1002,8 @@
     "count": 1,
     "name": "Swim Goggles",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -923,7 +1011,8 @@
     "count": 1,
     "name": "Swimwear",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -931,7 +1020,8 @@
     "count": 1,
     "name": "Explorer Hat",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -939,7 +1029,8 @@
     "count": 1,
     "name": "Explorer Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -947,7 +1038,8 @@
     "count": 1,
     "name": "Builder Helmet",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -955,7 +1047,8 @@
     "count": 1,
     "name": "Builder Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -963,7 +1056,8 @@
     "count": 1,
     "name": "Snow Hood",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -971,7 +1065,8 @@
     "count": 1,
     "name": "Snow Suit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -979,7 +1074,8 @@
     "count": 1,
     "name": "Resort Hat",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -987,7 +1083,8 @@
     "count": 1,
     "name": "Resort Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -995,7 +1092,8 @@
     "count": 1,
     "name": "Chef Hat",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1003,7 +1101,8 @@
     "count": 1,
     "name": "Chef Suit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1011,7 +1110,8 @@
     "count": 1,
     "name": "Samurai Helmet",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1019,7 +1119,8 @@
     "count": 1,
     "name": "Samurai Armor",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1027,7 +1128,8 @@
     "count": 1,
     "name": "Space Helmet",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1035,7 +1137,8 @@
     "count": 1,
     "name": "Space Suit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1043,7 +1146,8 @@
     "count": 1,
     "name": "Mario 64 Cap",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1051,7 +1155,8 @@
     "count": 1,
     "name": "Mario 64 Suit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1059,7 +1164,8 @@
     "count": 1,
     "name": "Boxer Shorts",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1067,7 +1173,8 @@
     "count": 1,
     "name": "Mechanic Cap",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1075,7 +1182,8 @@
     "count": 1,
     "name": "Mechanic Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1083,7 +1191,8 @@
     "count": 1,
     "name": "Pirate Hat",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1091,7 +1200,8 @@
     "count": 1,
     "name": "Pirate Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1099,7 +1209,8 @@
     "count": 1,
     "name": "Clown Hat",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1107,7 +1218,8 @@
     "count": 1,
     "name": "Clown Suit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1115,7 +1227,8 @@
     "count": 1,
     "name": "Doctor Headwear",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   },
@@ -1123,7 +1236,8 @@
     "count": 1,
     "name": "Doctor Outfit",
     "category": [
-      "Outfits"
+      "Outfits",
+	  "Outfit Items"
     ],
     "progression": true
   }
