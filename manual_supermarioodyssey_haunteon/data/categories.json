@@ -34,5 +34,17 @@
 	"Hard Trick Jumps": {
 		"yaml_option": ["hard_trick_jumps"],
 		"hidden": true
+	},
+	"Post Peace": {
+		"yaml_option": ["post_peace_moons"],
+		"hidden": true
+	},
+	"Post Game": {
+		"yaml_option": ["post_game_moons"],
+		"hidden": true
+	},
+	"Moon Rock": {
+		"yaml_option": ["moon_rock_moons"],
+		"hidden": true
 	}
 }
