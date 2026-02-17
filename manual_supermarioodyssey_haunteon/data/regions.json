@@ -278,7 +278,7 @@
   },
   "Cap Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment| and |Paragoomba|"
+    "requires": "|Moon Power| and |Paragoomba|"
   },
   "Cascade Kingdom Post Game": {
     "connects_to": [
@@ -288,7 +288,7 @@
   },
   "Cascade Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Sand Kingdom Post Game": {
     "connects_to": [
@@ -298,7 +298,7 @@
   },
   "Sand Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Lake Kingdom Post Game": {
     "connects_to": [
@@ -308,7 +308,7 @@
   },
   "Lake Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Wooded Kingdom Post Game": {
     "connects_to": [
@@ -318,7 +318,7 @@
   },
   "Wooded Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Cloud Kingdom Post Game": {
     "connects_to": [
@@ -328,7 +328,7 @@
   },
   "Cloud Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Lost Kingdom Post Game": {
     "connects_to": [
@@ -338,7 +338,7 @@
   },
   "Lost Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Metro Kingdom Post Game": {
     "connects_to": [
@@ -348,7 +348,7 @@
   },
   "Metro Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Snow Kingdom Post Game": {
     "connects_to": [
@@ -358,7 +358,7 @@
   },
   "Snow Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Seaside Kingdom Post Game": {
     "connects_to": [
@@ -368,7 +368,7 @@
   },
   "Seaside Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Luncheon Kingdom Post Game": {
     "connects_to": [
@@ -378,7 +378,7 @@
   },
   "Luncheon Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Ruined Kingdom Post Game": {
     "connects_to": [
@@ -388,7 +388,7 @@
   },
   "Ruined Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Bowser Kingdom Post Game": {
     "connects_to": [
@@ -398,7 +398,7 @@
   },
   "Bowser Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Moon Kingdom Post Game": {
     "connects_to": [
@@ -408,7 +408,7 @@
   },
   "Moon Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Rock Fragment|"
+    "requires": "|Moon Power|"
   },
   "Dark Side": {
     "connects_to": [
