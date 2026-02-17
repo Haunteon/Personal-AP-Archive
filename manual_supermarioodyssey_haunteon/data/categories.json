@@ -3,23 +3,27 @@
 		"yaml_option": ["example_yaml_option"],
 		"hidden": true
 	},
-	"Captures": {
+	"Basic Captures": {
 		"yaml_option": ["capture_randomizer"],
 		"hidden": true
 	},
-	"Other Captures": {
-		"yaml_option": ["capture_randomizer", "capture_randomizer_plus"],
+	"Extra Captures": {
+		"yaml_option": ["capture_randomizer", "capture_randomizer_extra"],
 		"hidden": true
 	},
-	"Actions": {
+	"Basic Actions": {
 		"yaml_option": ["action_randomizer"],
 		"hidden": true
 	},
-	"Other Actions": {
-		"yaml_option": ["action_randomizer", "action_randomizer_plus"],
+	"Extra Actions": {
+		"yaml_option": ["action_randomizer", "action_randomizer_extra"],
 		"hidden": true
 	},
-	"Outfits": {
+	"Outfit Items": {
+		"yaml_option": ["outfit_items", "outfit_moons"],
+		"hidden": true
+	},
+	"Outfit Moons": {
 		"yaml_option": ["outfit_moons"],
 		"hidden": true
 	},
