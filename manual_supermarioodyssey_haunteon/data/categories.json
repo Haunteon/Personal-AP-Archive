@@ -7,12 +7,16 @@
 		"yaml_option": ["capture_randomizer"],
 		"hidden": true
 	},
-	"CapturesPlus": {
+	"Other Captures": {
 		"yaml_option": ["capture_randomizer", "capture_randomizer_plus"],
 		"hidden": true
 	},
 	"Actions": {
 		"yaml_option": ["action_randomizer"],
+		"hidden": true
+	},
+	"Other Actions": {
+		"yaml_option": ["action_randomizer", "action_randomizer_plus"],
 		"hidden": true
 	},
 	"Outfits": {
