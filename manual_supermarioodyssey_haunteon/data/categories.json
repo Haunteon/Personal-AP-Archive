@@ -1,1 +1,30 @@
-{}
+{
+	"Example Category": {
+		"yaml_option": ["example_yaml_option"],
+		"hidden": true
+	},
+	"Captures": {
+		"yaml_option": ["capture_randomizer"],
+		"hidden": true
+	},
+	"CapturesPlus": {
+		"yaml_option": ["capture_randomizer", "capture_randomizer_plus"],
+		"hidden": true
+	},
+	"Actions": {
+		"yaml_option": ["action_randomizer"],
+		"hidden": true
+	},
+	"Outfits": {
+		"yaml_option": ["outfit_moons"],
+		"hidden": true
+	},
+	"Easy Trick Jumps": {
+		"yaml_option": ["easy_trick_jumps"],
+		"hidden": true
+	},
+	"Hard Trick Jumps": {
+		"yaml_option": ["hard_trick_jumps"],
+		"hidden": true
+	}
+}
