@@ -139,6 +139,34 @@
             "type": "Toggle",
             "default": false,
             "group": "Location Options"
+        },
+		"post_peace_moons":{
+            "display_name": "Include Post Peace Moons",
+			"description": [
+				"Adds Kingdom Peace Moons as locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+		"post_game_moons":{
+            "display_name": "Include Post Game Moons",
+			"description": [
+				"Adds Post Game moons as locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+		"moon_rock_moons":{
+            "display_name": "Include Moon Rock Moons",
+			"description": [
+				"Requires Post Game Moons",
+				"Adds Moon Rock moons as locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
         }
     }
 
