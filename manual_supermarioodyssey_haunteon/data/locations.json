@@ -5,7 +5,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "{OptOne(|Frog|)}"
   },
   {
     "name": "Frog-Jumping from the Top Deck",
@@ -13,7 +13,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "{OptOne(|Frog|)}"
   },
   {
     "name": "Cap Kingdom Timer Challenge 1",
@@ -45,7 +45,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Paragoomba|"
+    "requires": "{OptOne(|Paragoomba|)}"
   },
   {
     "name": "Slipping Through the Poison Tide",
@@ -53,7 +53,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Paragoomba|"
+    "requires": "{OptOne(|Paragoomba|)}"
   },
   {
     "name": "Push-Block Peril",
@@ -61,7 +61,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Spark Pylon|"
+    "requires": "{OptOne(|Spark Pylon|)}"
   },
   {
     "name": "Hidden Among the Push-Blocks",
@@ -69,7 +69,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Spark Pylon|"
+    "requires": "{OptOne(|Spark Pylon|)}"
   },
   {
     "name": "Searching the Frog Pond",
@@ -77,7 +77,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "{OptOne(|Frog|)}"
   },
   {
     "name": "Secrets of the Frog Pond",
@@ -85,7 +85,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Frog|"
+    "requires": "{OptOne(|Frog|)}"
   },
   {
     "name": "The Forgotten Treasure",
@@ -93,7 +93,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Ground Pound|"
+    "requires": "{OptOne(|Ground Pound|)}"
   },
   {
     "name": "Taxi Flying Through Bonneton",
@@ -101,7 +101,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Binoculars|"
+    "requires": "{OptOne(|Binoculars|)}"
   },
   {
     "name": "Bonneter Blockade",
@@ -109,7 +109,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Paragoomba|"
+  "requires": "{OptOne(|Paragoomba|)}"
   },
   {
     "name": "Cap Kingdom Regular Cup",
@@ -133,7 +133,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Ground Pound|"
+    "requires": "{OptOne(|Ground Pound|)}"
   },
   {
     "name": "Next to Glasses Bridge",
@@ -149,7 +149,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Paragoomba|"
+    "requires": "{OptOne(|Paragoomba|)}"
   },
   {
     "name": "Under the Big One's Brim",
@@ -165,7 +165,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": "|Paragoomba|"
+    "requires": "{OptOne(|Paragoomba|)}"
   },
   {
     "name": "Spin the Hat, Get a Prize",
@@ -181,7 +181,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": ""
+    "requires": "{OptAll(|Paragoomba| or (|Cap Vault| and (|Long Jump| or |Triple Jump|)))}"
   },
   {
     "name": "Fog-Shrouded Platform",
@@ -189,7 +189,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": ""
+    "requires": "{OptOne(|Ground Pound|)}|"
   },
   {
     "name": "Bird Traveling in the Fog",
@@ -197,7 +197,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": ""
+    "requires": "{OptOne(|Paragoomba|)}"
   },
   {
     "name": "Caught Hopping Near the Ship!",
@@ -213,7 +213,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": ""
+    "requires": "{OptOne(|Paragoomba|)}"
   },
   {
     "name": "Cap Kingdom Timer Challenge 2",
@@ -229,7 +229,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": ""
+    "requires": "|Momentum|"
   },
   {
     "name": "Roll On and On",
@@ -237,7 +237,7 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": ""
+    "requires": "{OptOne(|Roll|)}"
   },
   {
     "name": "Precision Rolling",
@@ -245,6 +245,14 @@
     "category": [
       "Cap Kingdom"
     ],
-    "requires": ""
+    "requires": "{OptOne(|Roll|)}"
+  },
+  {
+	"name": "Our First Power Moon",
+	"region": "Cascade Kingdom First Visit",
+	"category": [
+	  "Cascade Kingdom"
+	],
+	"requires": "{OptOne(|Chain Chomp|)}"
   }
 ]
