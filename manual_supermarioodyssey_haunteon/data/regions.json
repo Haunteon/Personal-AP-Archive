@@ -80,7 +80,7 @@
       "Wooded Kingdom Post Spewart",
       "Cloud Kingdom 1st Visit"
     ],
-    "requires": "({YamlDisabled(action_randomizer)} or |Cap Vault|) or ({YamlDisabled(capture_randomizer)} or |Uproot|)"
+    "requires": "|Maze Skip|"
   },
   "Wooded Kingdom Post Spewart": {
     "connects_to": [
