@@ -247,12 +247,4 @@
     ],
     "requires": "{OptOne(|Roll|)}"
   },
-  {
-	"name": "Our First Power Moon",
-	"region": "Cascade Kingdom First Visit",
-	"category": [
-	  "Cascade Kingdom"
-	],
-	"requires": "{OptOne(|Chain Chomp|)}"
-  }
 ]
