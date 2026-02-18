@@ -337,7 +337,7 @@
 {"name": "Bassist on Board!", "region": "Metro Kingdom Day", "category": ["Metro Kingdom"], "requires": "Delete this", "sort-key": "row-08-004"},
 {"name": "Trumpeter on Board!", "region": "Metro Kingdom Day", "category": ["Metro Kingdom"], "requires": "{OptAll(|Spark Pylon| and |Ground Pound|)}", "sort-key": "row-08-005"},
 {"name": "Powering Up the Station***", "region": "Metro Kingdom Day", "category": ["Metro Kingdom"], "requires": "{OptOne(|Manhole|)}", "sort-key": "row-08-006"},
-{"name": "A Traditional Festival!", "region": "Metro Kingdom Day", "category": ["Metro Kingdom"], "requires": "{OptOne(|Manhole|)}", "place_item": ["|Metro Kingdom Festival Multimoon|"], "sort-key": "row-08-007"},
+{"name": "A Traditional Festival!", "region": "Metro Kingdom Day", "category": ["Metro Kingdom"], "requires": "{OptOne(|Manhole|)}", "victory": true, "place_item": ["|Metro Kingdom Festival Multimoon|"], "sort-key": "row-08-007"},
 {"name": "Inside an Iron Girder", "region": "Metro Kingdom Night", "category": ["Metro Kingdom"], "requires": "Delete this", "sort-key": "row-08-008"},
 {"name": "Swaying in the Breeze", "region": "Metro Kingdom Night", "category": ["Metro Kingdom"], "requires": "Delete this", "sort-key": "row-08-009"},
 {"name": "Girder Sandwich", "region": "Metro Kingdom Night", "category": ["Metro Kingdom"], "requires": "{OptAll((|Wall Jump| and (|Sherm| or |Cap Vault|)) or (|Metro Kingdom Mechawiggler Multimoon| and |Spark Pylon|))}", "sort-key": "row-08-010"},
