@@ -16,71 +16,91 @@
   },
   {
     "name": "Pyramid Skip",
-    "requires": "{OptAll(|Bullet Bill| or ((|Long Jump| or |Triple Jump|) + Cap Vault))}",
+    "region": "Sand Kingdom 1st Visit",
+	"requires": "{OptAll(|Bullet Bill| or ((|Long Jump| or |Triple Jump|) + Cap Vault))}",
     "visible": false
   },
   {
     "name": "Into the Lake",
+	"region": "Lake Kingdom 1st Visit",
     "requires": "{OptAll((|Zipper| and |Swim|) or (|Cap Vault| and (|High Jump| OR |Long Jump| OR (|Triple Jump| AND |Wall Jump|))) OR (|Cap Jump| AND |Triple Jump| AND |Wall Jump| AND |Goomba|))}",
     "visible": false
   },
   {
     "name": "Above the Lake",
+	"region": "Lake Kingdom Into the Lake",
     "requires": "{OptAll(|Cheep Cheep| or |Swim| or |Cap Vault|)}",
     "visible": false
   },
   {
     "name": "Maze Skip",
+	"region": "Wooded Kingdom 1st Visit",
   "requires": "{OptAll(|Uproot| or |Cap Vault|)}",
     "visible": false
   },
   {
     "name": "Sherm Wall",
+	"region": "Wooded Kingdom Kingdom Post Spewart",
     "requires": "{OptAll((|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|)) and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|)))}",
     "visible": false
   },
   {
     "name": "View of Lost",
+	"region": "Lost Kingdom 1st Visit",
     "requires": "{OptAll(|Ground Pound| and |Wall Jump|)}",
     "visible": false
   },
   {
+    "name": "After Gusty Barrier",
+	"region": "Snow Kingdom 1st Vist",
+    "requires": "{OptAll(|Ty-foo| or (|Dive| or (|Long Jump| or |Triple Jump| or |Cap Jump|)))}",
+    "visible": false
+  },
+  {
     "name": "Get to Spewart",
+	"region": "Luncheon Kingdom 1st Visit",
     "requires": "{OptAll(|Lava Bubble| or (    ))}",
     "visible": false
   },
   {
     "name": "Get to Cheese",
+	"region": "Luncheon Kingdom Post Spewart",
     "requires": "{OptAll(|Lava Bubble| or (    ))}",
     "visible": false
   },
   {
     "name": "Get to Meat",
+	"region": "Luncheon Kingdom Post Cheese",
     "requires": "{OptAll(|Volbonan| or (    ))}",
     "visible": false
   },
   {
     "name": "Enter the Courtyard",
+	"region": "Bowser Kingdom 1st Visit",
   "requires": "{OptAll(|Pokio| or (|Dive| and (|Backflip| or |Wall Jump| or (|Ground Pound Jump| + |Ground Pound|))))}",
     "visible": false
   },
   {
     "name": "Over the Moat",
+	"region": "Bowser Kingdom Courtyards",
     "requires": "{OptAll(|Pokio| or (    ))}",
     "visible": false
   },
   {
     "name": "Parabones Skip",
+	"region": "Moon Kingdom 1st Visit",
     "requires": "{OptAll(|Parabones| or (|Cap Vault| and (|Long Jump| or |Triple Jump|)))}",
     "visible": false
   },
   {
     "name": "Moon Cave Gauntlet",
+	"region": "Moon Kingdom 1st Visit",
     "requires": "{OptAll(|Parabones Skip| and |Banzai Bill| and |Spark Pylon|)}",
     "visible": false
   },
   {
     "name": "Moon Cave Skip",
+	"region": "Moon Kingdom 1st Visit",
     "requires": "{YamlEnabled(moon_cave_skip)} and {OptAll(|Cap Jump| and |Wall Jump| and (|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)))}",
     "visible": false
   }
