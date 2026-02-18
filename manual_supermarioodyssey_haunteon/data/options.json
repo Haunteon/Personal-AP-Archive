@@ -68,7 +68,6 @@
             "values": {"example": 2},
             "group": "Example Options"
         },
-
         "DLC_enabled":{
             "display_name": "DLC Enabled",
             "description": "Is the Dlc enabled?",
@@ -167,7 +166,15 @@
             "type": "Toggle",
             "default": false,
             "group": "Location Options"
+        },
+		"moon_cave_skip":{
+            "display_name": "Moon Cave Skip",
+			"description": [
+				"Adds Moon Cave Skip as possible logic.",
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Trick Jumps"
         }
     }
-
 }
