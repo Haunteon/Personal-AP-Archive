@@ -73,7 +73,7 @@
   },
   "Wooded Kingdom Deep Woods": {
     "connects_to": [],
-    "requires": "{YamlDisabled(action_randomizer)} or |Hold/Throw|"
+    "requires": "{OptOne(|Hold/Throw|)}"
   },
   "Wooded Kingdom Maze Skip": {
     "connects_to": [
@@ -108,7 +108,7 @@
     "connects_to": [
       "Metro Kingdom Night"
     ],
-    "requires": "|Progressive Kingdom Unlock:3| AND ({YamlDisabled(action_randomizer)} or |Ground Pound|)"
+    "requires": "|Progressive Kingdom Unlock:3| AND {OptOne(|Ground Pound|)}"
   },
   "Metro Kingdom Night": {
     "connects_to": [
