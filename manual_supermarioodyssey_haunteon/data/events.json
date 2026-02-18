@@ -31,7 +31,7 @@
   },
   {
     "name": "Maze Skip",
-    "requires": "",
+    "requires": "({YamlDisabled(action_randomizer)} or |Cap Vault|) or ({YamlDisabled(capture_randomizer)} or |Uproot|)",
     "visible": false
   },
   {
