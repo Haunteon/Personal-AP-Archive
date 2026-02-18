@@ -1,87 +1,87 @@
 [
   {
     "name": "High Jump",
-    "requires": "|Triple Jump| or |Back Flip| or |Side Flip| or (|Ground Pound| and |Ground Pound Jump|)",
+    "requires": "{OptAll(|Triple Jump| or |Back Flip| or |Side Flip| or (|Ground Pound| and |Ground Pound Jump|))}",
     "visible": false
   },
   {
     "name": "Momentum",
-    "requires": "|Long Jump| or |Roll| or |Dive|",
+  "requires": "{OptAll(|Long Jump| or |Roll| or |Dive|)}",
     "visible": false
   },
   {
     "name": "Cap Vault",
-    "requires": "|Dive| and |Cap Jump|",
+    "requires": "{OptAll(|Dive| and |Cap Jump|)}",
     "visible": false
   },
   {
     "name": "Pyramid Skip",
-    "requires": "|Bullet Bill| or ((|Long Jump| or |Triple Jump|) + Cap Vault)",
+    "requires": "{OptAll(|Bullet Bill| or ((|Long Jump| or |Triple Jump|) + Cap Vault))}",
     "visible": false
   },
   {
     "name": "Into the Lake",
-    "requires": "(|Zipper| and |Swim|) or (|Cap Vault| and (|High Jump| OR |Long Jump| OR (|Triple Jump| AND |Wall Jump|))) OR (|Cap Jump| AND |Triple Jump| AND |Wall Jump| AND |Goomba|)",
+    "requires": "{OptAll((|Zipper| and |Swim|) or (|Cap Vault| and (|High Jump| OR |Long Jump| OR (|Triple Jump| AND |Wall Jump|))) OR (|Cap Jump| AND |Triple Jump| AND |Wall Jump| AND |Goomba|))}",
     "visible": false
   },
   {
     "name": "Above the Lake",
-    "requires": "|Cheep Cheep| or |Swim| or |Cap Vault|",
+    "requires": "{OptAll(|Cheep Cheep| or |Swim| or |Cap Vault|)}",
     "visible": false
   },
   {
     "name": "Maze Skip",
-    "requires": "({YamlDisabled(action_randomizer)} or |Cap Vault|) or ({YamlDisabled(capture_randomizer)} or |Uproot|)",
+  "requires": "{OptAll(|Uproot| or |Cap Vault|)}",
     "visible": false
   },
   {
     "name": "Sherm Wall",
-    "requires": "(|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|)) and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|))",
+    "requires": "{OptAll((|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|)) and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|)))}",
     "visible": false
   },
   {
     "name": "View of Lost",
-    "requires": "|Ground Pound| and |Wall Jump|",
+    "requires": "{OptAll(|Ground Pound| and |Wall Jump|)}",
     "visible": false
   },
   {
     "name": "Get to Spewart",
-    "requires": "",
+    "requires": "{OptAll(|Lava Bubble| or (    ))}",
     "visible": false
   },
   {
     "name": "Get to Cheese",
-    "requires": "",
+    "requires": "{OptAll(|Lava Bubble| or (    ))}",
     "visible": false
   },
   {
     "name": "Get to Meat",
-    "requires": "",
+    "requires": "{OptAll(|Volbonan| or (    ))}",
     "visible": false
   },
   {
     "name": "Enter the Courtyard",
-    "requires": "|Pokio| or (|Dive| and ((|Ground Pound Jump| + |Ground Pound|) or |Backflip| or |Wall Jump|))",
+  "requires": "{OptAll(|Pokio| or (|Dive| and (|Backflip| or |Wall Jump| or (|Ground Pound Jump| + |Ground Pound|))))}",
     "visible": false
   },
   {
     "name": "Over the Moat",
-    "requires": "|Pokio| OR ",
+    "requires": "{OptAll(|Pokio| or (    ))}",
     "visible": false
   },
   {
     "name": "Parabones Skip",
-    "requires": "|Parabones| or (|Cap Vault| and (|Long Jump| or |Triple Jump|))",
+    "requires": "{OptAll(|Parabones| or (|Cap Vault| and (|Long Jump| or |Triple Jump|)))}",
     "visible": false
   },
   {
     "name": "Moon Cave Gauntlet",
-    "requires": "|Parabones Skip| and |Banzai Bill| and |Spark Pylon|",
+    "requires": "{OptAll(|Parabones Skip| and |Banzai Bill| and |Spark Pylon|)}",
     "visible": false
   },
   {
     "name": "Moon Cave Skip",
-    "requires": "(|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)) and |Cap Jump| and |Wall Jump|",
+    "requires": "{OptAll(|Cap Jump| and |Wall Jump| and (|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)))"},
     "visible": false
   }
 ]
