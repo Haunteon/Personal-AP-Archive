@@ -81,7 +81,7 @@
   },
   {
     "name": "Moon Cave Skip",
-    "requires": "{OptAll(|Cap Jump| and |Wall Jump| and (|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)))"},
+    "requires": "{YamlEnabled(moon_cave_skip)} and {OptAll(|Cap Jump| and |Wall Jump| and (|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)))}",
     "visible": false
   }
 ]
