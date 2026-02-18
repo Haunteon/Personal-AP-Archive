@@ -90,7 +90,7 @@
             "default": false,
             "group": "Item Options"
         },
-		"capture_randomizer_extra":{
+		"_commented_out_capture_randomizer_extra":{
             "display_name": "Shuffle Extra Captures",
 			"description": [
                 "Requires Shuffle Captures.",
@@ -110,7 +110,7 @@
             "default": false,
             "group": "Item Options"
         },
-		"action_randomizer_extra":{
+		"_commented_out_action_randomizer_extra":{
             "display_name": "Shuffle Extra Actions",
 			"description": [
                 "Requires Shuffle Actions.",
@@ -157,7 +157,7 @@
             "default": false,
             "group": "Location Options"
         },
-		"moon_rock_moons":{
+		"_commented_out_moon_rock_moons":{
             "display_name": "Include Moon Rock Moons",
 			"description": [
 				"Requires Post Game Moons",
