@@ -44,7 +44,7 @@
 		"hidden": true
 	},
 	"Moon Rock": {
-		"yaml_option": ["moon_rock_moons"],
+		"yaml_option": ["post_game_moons", "moon_rock_moons"],
 		"hidden": true
 	}
 }
