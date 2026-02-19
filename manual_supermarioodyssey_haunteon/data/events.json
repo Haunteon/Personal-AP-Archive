@@ -57,12 +57,6 @@
     "visible": false
   },
   {
-    "name": "Get to Spewart",
-	"region": "Luncheon Kingdom 1st Visit",
-    "requires": "{OptAll(|Lava Bubble| or (    ))}",
-    "visible": false
-  },
-  {
     "name": "Get to Cheese",
 	"region": "Luncheon Kingdom Post Spewart",
     "requires": "{OptAll(|Lava Bubble| or (|Dive| and (|Triple Jump| or |Cap Jump| or (|Ground Pound| and |Ground Pound Jump|))))}",
