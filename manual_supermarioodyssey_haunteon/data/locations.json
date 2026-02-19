@@ -1,15 +1,5 @@
 [
   {
-    "name": "Example Location",
-    "region": "Example Region",
-    "category": [
-      "Example Category"
-    ],
-    "requires": "{OptOne(|Example Item|)}",
-    "place_item": ["|Example Item|"],
-    "sort-key": "row-xxx-xxx"
-  },
-  {
     "name": "Frog-Jumping Above the Fog",
     "region": "Cap Kingdom Post Peace",
     "category": [
