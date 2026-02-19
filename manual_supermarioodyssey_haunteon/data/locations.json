@@ -7583,7 +7583,7 @@
     "category": [
       "Darker Side"
     ],
-    "requires": "Test",
+    "requires": "{OptAll(|Wall Jump| and |Lava Bubble| and |Uproot| and |Swim| and |Yoshi| and |Scarecrow| and |Glydon|)}",
     "sort-key": "row-17-001",
     "victory": true
   }
