@@ -4800,5 +4800,96 @@
     ],
     "requires": "Test",
     "sort-key": "row-10-071"
+  },
+  {
+    "name": "Battle with the Lord of Lightning!",
+    "region": "Ruined Kingdom 1st Visit",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "{OptOne(|Spark Pylon|)}",
+    "place_item": "Ruined Kingdom Dragon Multimoon",
+    "sort-key": "row-12-001"
+  },
+  {
+    "name": "In the Ancient Treasure Chest",
+    "region": "Ruined Kingdom 1st Visit",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-12-002"
+  },
+  {
+    "name": "Roulette Tower: Climbed",
+    "region": "Ruined Kingdom Post Peace",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "{OptAll(|Mini Rocket| AND |Spark Pylon|)}",
+    "sort-key": "row-12-003"
+  },
+  {
+    "name": "Roulette Tower: Stopped",
+    "region": "Ruined Kingdom Post Peace",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "{OptAll(|Mini Rocket| AND |Spark Pylon|)}",
+    "sort-key": "row-12-004"
+  },
+  {
+    "name": "Peach in the Ruined Kingdom",
+    "region": "Ruined Kingdom Post Game",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "{OptOne(|Spark Pylon|)}",
+    "sort-key": "row-12-005"
+  },
+  {
+    "name": "Caught on a Big Horn",
+    "region": "Ruined Kingdom Moon Rock",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-12-006"
+  },
+  {
+    "name": "Upon the Broken Arch",
+    "region": "Ruined Kingdom Moon Rock",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-12-007"
+  },
+  {
+    "name": "Rolling Rock on the Battlefield",
+    "region": "Ruined Kingdom Moon Rock",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-12-008"
+  },
+  {
+    "name": "Charging Through an Army",
+    "region": "Ruined Kingdom Moon Rock",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-12-009"
+  },
+  {
+    "name": "The Mummy Army's Curse",
+    "region": "Ruined Kingdom Moon Rock",
+    "category": [
+      "Ruined Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-12-010"
   }
 ]
