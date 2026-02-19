@@ -6864,5 +6864,16 @@
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-024"
+  },
+  {
+    "name": "Long Journey's End",
+    "region": "Darker Side",
+    "category": [
+      "Darker Side"
+    ],
+    "requires": "Test",
+    "sort-key": "row-17-001",
+	"victory": true
   }
+  
 ]
