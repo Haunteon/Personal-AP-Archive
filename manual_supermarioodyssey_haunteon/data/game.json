@@ -12,6 +12,6 @@
     {
             "items": ["Capture", "Cap Throw/Hold", "Enter Pipe"],
             "_comment": "Action Randomizer Items"
-        },
+        }
   ]
 }
