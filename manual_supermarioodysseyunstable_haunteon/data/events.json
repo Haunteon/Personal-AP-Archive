@@ -77,7 +77,7 @@
   {
     "name": "Over the Moat",
 	"region": "Bowser Kingdom Courtyards",
-    "requires": "{OptAll(|Pokio| or (    ))}",
+    "requires": "{OptAll(|Pokio| or (|High Jump| and |Cap Vault|) or ({YamlEnabled(easy_trick_jumps)} and |Cap Vault|))}",
     "visible": false
   },
   {
@@ -195,6 +195,16 @@
   {
 	"name": "Peach Mushroom",
 	"requires": "|Peach Moon|",
+    "visible": false
+  },
+  {
+	"name": "Achievement",
+	"requires": "|Unobtainium|",
+    "visible": false
+  },
+  {
+	"name": "Test",
+	"requires": "|Unobtainium|",
     "visible": false
   }
 ]

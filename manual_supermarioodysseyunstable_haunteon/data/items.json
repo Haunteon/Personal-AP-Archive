@@ -1240,5 +1240,13 @@
 	  "Outfit Items"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unobtainium",
+    "category": [
+      "Dev"
+    ],
+    "progression": true
   }
 ]
