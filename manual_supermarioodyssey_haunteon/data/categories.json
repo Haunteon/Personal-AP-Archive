@@ -1,8 +1,4 @@
 {
-	"Example Category": {
-		"yaml_option": ["example_yaml_option"],
-		"hidden": true
-	},
 	"Basic Captures": {
 		"yaml_option": ["capture_randomizer"],
 		"hidden": true
