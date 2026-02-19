@@ -48,18 +48,18 @@
     "progression": true
   },
   {
-    "count": "6",
-    "name": "Tourist Moon",
+    "count": "1",
+    "name": "Travel Guide",
     "category": [
-      "Moons"
+      "NPC"
     ],
     "progression": true
   },
   {
-    "count": "15",
-    "name": "Peach Moon",
+    "count": "1",
+    "name": "Suitcase",
     "category": [
-      "Moons"
+      "NPC"
     ],
     "progression": true
   },

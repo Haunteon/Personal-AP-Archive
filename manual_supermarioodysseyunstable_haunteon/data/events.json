@@ -40,7 +40,7 @@
   },
   {
     "name": "Sherm Wall",
-	"region": "Wooded Kingdom Kingdom Post Spewart",
+	"region": "Wooded Kingdom Post Spewart",
     "requires": "{OptAll((|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|)) and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|)))}",
     "visible": false
   },
@@ -52,7 +52,7 @@
   },
   {
     "name": "After Gusty Barrier",
-	"region": "Snow Kingdom 1st Vist",
+	"region": "Snow Kingdom 1st Visit",
     "requires": "{OptAll(|Ty-foo| or (|Dive| or (|Long Jump| or |Triple Jump| or |Cap Jump|)))}",
     "visible": false
   },
@@ -77,7 +77,7 @@
   {
     "name": "Enter the Courtyard",
 	"region": "Bowser Kingdom 1st Visit",
-    "requires": "{OptAll(|Pokio| or (|Dive| and (|Backflip| or |Wall Jump| or (|Ground Pound Jump| + |Ground Pound|))))}",
+    "requires": "{OptAll(|Pokio| or (|Dive| and (|Back Flip| or |Wall Jump| or (|Ground Pound Jump| + |Ground Pound|))))}",
     "visible": false
   },
   {
@@ -102,6 +102,105 @@
     "name": "Moon Cave Skip",
 	"region": "Moon Kingdom 1st Visit",
     "requires": "{YamlEnabled(moon_cave_skip)} and {OptAll(|Cap Jump| and |Wall Jump| and (|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)))}",
+    "visible": false
+  },
+  {
+	"name": "Tourist 1",
+	"copy_location": "A Tourist in the Metro Kingdom!"
+    "visible": false
+  },
+  {
+	"name": "Tourist 2",
+	"copy_location": "A Tourist in the Cascade Kingdom!"
+    "visible": false
+  },
+  {
+	"name": "Tourist 3",
+	"copy_location": "A Tourist in the Luncheon Kingdom!"
+    "visible": false
+  },
+  {
+	"name": "Tourist 4",
+	"copy_location": "A Tourist in the Moon Kingdom!"
+    "visible": false
+  },
+  {
+	"name": "Tourist 5",
+	"copy_location": "A Tourist in the Mushroom Kingdom!"
+    "visible": false
+  },
+  {
+	"name": "Peach Cap",
+	"copy_location": "Peach in the Cap Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Cascade",
+	"copy_location": "Peach in the Cascade Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Sand",
+	"copy_location": "Peach in the Sand Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Lake",
+	"copy_location": "Peach in the Lake Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Wooded",
+	"copy_location": "Peach in the Wooded Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Cloud",
+	"copy_location": "Peach in the Cloud Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Lost",
+	"copy_location": "Peach in the Lost Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Metro",
+	"copy_location": "Peach in the Metro Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Snow",
+	"copy_location": "Peach in the Snow Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Seaside",
+	"copy_location": "Peach in the Seaside Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Luncheon",
+	"copy_location": "Peach in the Luncheon Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Ruined",
+	"copy_location": "Peach in the Ruined Kingdom"
+    "visible": false
+  },{
+	"name": "Peach Bowser",
+	"copy_location": "Peach in Bowser's Kingdom"
+    "visible": false
+  },
+  {
+	"name": "Peach Moon",
+	"requires": "|Peach Cap| and |Peach Cascade| and |Peach Sand| and |Peach Lake| and |Peach Wooded| and |Peach Cloud| and |Peach Lost| and |Peach Metro| and |Peach Snow| and |Peach Seaside| and |Peach Luncheon| and |Peach Ruined| and |Peach Bowser|"
+    "visible": false
+  },
+  {
+	"name": "Peach Mushroom",
+	"requires": "|Peach Moon|"
     "visible": false
   }
 ]

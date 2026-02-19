@@ -52,7 +52,7 @@
   },
   {
     "name": "After Gusty Barrier",
-	"region": "Snow Kingdom 1st Vist",
+	"region": "Snow Kingdom 1st Visit",
     "requires": "{OptAll(|Ty-foo| or (|Dive| or (|Long Jump| or |Triple Jump| or |Cap Jump|)))}",
     "visible": false
   },
