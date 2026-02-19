@@ -295,7 +295,7 @@
     ],
     "requires": "{OptOne(|Broode's Chain Chomp|)}",
     "place_item": [
-      "|Cascade Kingdom Madame Broode Multimoon|"
+      "Cascade Kingdom Madame Broode Multimoon"
     ],
     "sort-key": "row-02-002"
   },
@@ -454,7 +454,7 @@
   },
   {
     "name": "Rolling Rock by the Falls",
-    "region": "Cascade Kingdom 2nd visit",
+    "region": "Cascade Kingdom 2nd Visit",
     "category": [
       "Cascade Kingdom"
     ],
@@ -667,7 +667,7 @@
     ],
     "requires": "|Pyramid Skip|",
     "place_item": [
-      "|Sand Kingdom Hariet Multimoon|"
+      "Sand Kingdom Hariet Multimoon"
     ],
     "sort-key": "row-03-003"
   },
@@ -679,7 +679,7 @@
     ],
     "requires": "{OptAll(|Bullet Bill| and |Knucklotec's Fist|)}",
     "place_item": [
-      "|Sand Kingdom Knucklotec Multimoon|"
+      "Sand Kingdom Knucklotec Multimoon"
     ],
     "sort-key": "row-03-004"
   },
@@ -1456,7 +1456,7 @@
     ],
     "requires": "|Above the Lake|",
     "place_item": [
-      "|Lake Kingdom Rango Multimoon|"
+      "Lake Kingdom Rango Multimoon"
     ],
     "sort-key": "row-04-001"
   },
@@ -1846,7 +1846,7 @@
     ],
     "requires": "",
     "place_item": [
-      "|Wooded Kingdom Spewart Multimoon|"
+      "Wooded Kingdom Spewart Multimoon"
     ],
     "sort-key": "row-05-002"
   },
@@ -1867,7 +1867,7 @@
     ],
     "requires": "{OptOne(|Uproot|)}",
     "place_item": [
-      "|Wooded Kingdom Torkdrift Multimoon|"
+      "Wooded Kingdom Torkdrift Multimoon"
     ],
     "sort-key": "row-05-004"
   },
@@ -2923,7 +2923,7 @@
     ],
     "requires": "{OptOne(|Sherm|)}",
     "place_item": [
-      "|Metro Kingdom Mechawiggler Multimoon|"
+      "Metro Kingdom Mechawiggler Multimoon"
     ],
     "sort-key": "row-08-001"
   },
@@ -2981,7 +2981,7 @@
     "requires": "{OptOne(|Manhole|)}",
     "victory": true,
     "place_item": [
-      "|Metro Kingdom Festival Multimoon|"
+      "Metro Kingdom Festival Multimoon"
     ],
     "sort-key": "row-08-007"
   },
@@ -3695,7 +3695,7 @@
     ],
     "requires": "{OptAll(|After Gusty Barrier| and |Shiverian Racer|)}",
     "place_item": [
-      "|Snow Kingdom Bound Bowl Grand Prix Multimoon|"
+      "Snow Kingdom Bound Bowl Grand Prix Multimoon"
     ],
     "sort-key": "row-09-005"
   },
@@ -4193,7 +4193,7 @@
     ],
     "requires": "{OptOne(|Gushen|)}",
     "place_item": [
-      "|Seaside Kingdom Mollusque-Lanceur Multimoon|"
+      "Seaside Kingdom Mollusque-Lanceur Multimoon"
     ],
     "sort-key": "row-10-005"
   },
@@ -4799,7 +4799,7 @@
     ],
     "requires": "",
     "place_item": [
-      "|Luncheon Kingdom Spewart Story Moon|"
+      "Luncheon Kingdom Spewart Story Moon"
     ],
     "sort-key": "row-11-001"
   },
@@ -4811,7 +4811,7 @@
     ],
     "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
     "place_item": [
-      "|Luncheon Kingdom Cheese Story Moon|"
+      "Luncheon Kingdom Cheese Story Moon"
     ],
     "sort-key": "row-11-002"
   },
@@ -4823,7 +4823,7 @@
     ],
     "requires": "{OptOne(|Meat|)} and |Get to Meat|",
     "place_item": [
-      "|Luncheon Kingdom Big Pot Multimoon|"
+      "Luncheon Kingdom Big Pot Multimoon"
     ],
     "sort-key": "row-11-003"
   },
@@ -4835,7 +4835,7 @@
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "place_item": [
-      "|Luncheon Kingdom Cave Story Moon|"
+      "Luncheon Kingdom Cave Story Moon"
     ],
     "sort-key": "row-11-004"
   },
@@ -4847,7 +4847,7 @@
     ],
     "requires": "{OptOne(|Volbonan|)}",
     "place_item": [
-      "|Luncheon Kingdom Cookatiel Multimoon|"
+      "Luncheon Kingdom Cookatiel Multimoon"
     ],
     "sort-key": "row-11-005"
   },
@@ -5425,7 +5425,7 @@
       "Ruined Kingdom"
     ],
     "requires": "{OptOne(|Spark Pylon|)}",
-    "place_item": ["|Ruined Kingdom Dragon Multimoon|"],
+    "place_item": ["Ruined Kingdom Dragon Multimoon"],
     "sort-key": "row-12-001"
   },
   {
@@ -5544,7 +5544,7 @@
     ],
     "requires": "",
     "place_item": [
-      "|Bowser Kingdom Mecha-Broodal Multimoon|"
+      "Bowser Kingdom Mecha-Broodal Multimoon"
     ],
     "sort-key": "row-13-004"
   },
@@ -7357,7 +7357,7 @@
       "Dark Side"
     ],
     "requires": "{OptOne(|Hammer Bro|)}",
-    "place_item": ["|Dark Side Mecha-Broodal Multimoon|"],
+    "place_item": ["Dark Side Mecha-Broodal Multimoon"],
     "sort-key": "row-16-001"
   },
   {
