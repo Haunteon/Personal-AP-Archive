@@ -305,7 +305,7 @@
     "category": [
       "Cascade Kingdom"
     ],
-    "requires": "{OptAll(|Chain Chomp| or |T-rex|)}",
+    "requires": "{OptAll(|Chain Chomp| or |T-Rex|)}",
     "sort-key": "row-02-003"
   },
   {
@@ -314,7 +314,7 @@
     "category": [
       "Cascade Kingdom"
     ],
-    "requires": "{OptAll(|Big Chain Chomp| or |T-rex|)}",
+    "requires": "{OptAll(|Big Chain Chomp| or |T-Rex|)}",
     "sort-key": "row-02-004"
   },
   {
@@ -341,7 +341,7 @@
     "category": [
       "Cascade Kingdom"
     ],
-    "requires": "{OptAll(|Chain Chomp| or (  ))}",
+    "requires": "{OptAll(|Chain Chomp|)}",
     "sort-key": "row-02-007"
   },
   {
@@ -368,7 +368,7 @@
     "category": [
       "Cascade Kingdom"
     ],
-    "requires": "{OptAll(|High Jump| or |Spin| or (|Wall Jump| or |Dive|))}",
+    "requires": "{OptAll(|High Jump| or |Spin| or (|Wall Jump| and |Dive|))}",
     "sort-key": "row-02-010"
   },
   {
@@ -395,7 +395,7 @@
     "category": [
       "Cascade Kingdom"
     ],
-    "requires": "{OptOne(|T-rex|)}",
+    "requires": "{OptOne(|T-Rex|)}",
     "sort-key": "row-02-013"
   },
   {
@@ -485,7 +485,7 @@
     "category": [
       "Cascade Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Caveman Headwear| and |Caveman Outfit|)}",
     "sort-key": "row-02-023"
   },
   {
@@ -896,7 +896,7 @@
     "category": [
       "Sand Kingdom"
     ],
-    "requires": "{OptAll(|Roll| and |Wall jump|)}",
+    "requires": "{OptAll(|Roll| and |Wall Jump|)}",
     "sort-key": "row-03-028"
   },
   {
@@ -1121,7 +1121,7 @@
     "category": [
       "Sand Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Sombrero| and |Poncho|)}",
     "sort-key": "row-03-053"
   },
   {
@@ -1637,7 +1637,7 @@
     "category": [
       "Lake Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Swim Goggles| and |Swimwear|)}",
     "sort-key": "row-04-021"
   },
   {
@@ -1709,7 +1709,7 @@
     "category": [
       "Lake Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Pirate Hat| and |Pirate Outfit|)}",
     "sort-key": "row-04-029"
   },
   {
@@ -1718,7 +1718,7 @@
     "category": [
       "Lake Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Space Helmet| and |Space Suit|)}",
     "sort-key": "row-04-030"
   },
   {
@@ -1727,7 +1727,7 @@
     "category": [
       "Lake Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Cowboy Hat| and |Cowboy Outfit|)}",
     "sort-key": "row-04-031"
   },
   {
@@ -2111,7 +2111,7 @@
     "category": [
       "Wooded Kingdom"
     ],
-    "requires": "{OptAll(|T-rex| and |Ground Pound|)}",
+    "requires": "{OptAll(|T-Rex| and |Ground Pound|)}",
     "sort-key": "row-05-031"
   },
   {
@@ -2120,7 +2120,7 @@
     "category": [
       "Wooded Kingdom"
     ],
-    "requires": "{OptAll(|T-rex| and |Ground Pound|)}",
+    "requires": "{OptAll(|T-Rex| and |Ground Pound|)}",
     "sort-key": "row-05-032"
   },
   {
@@ -2156,7 +2156,7 @@
     "category": [
       "Wooded Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Explorer Hat| and |Explorer Outfit|)}",
     "sort-key": "row-05-036"
   },
   {
@@ -2669,7 +2669,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(|Ground Pound| and |Wall Jump|)}",
+    "requires": "View of Lost",
     "sort-key": "row-07-008"
   },
   {
@@ -2705,7 +2705,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll((|Ground Pound| and |Wall Jump|) or (|Wall Jump| and |Dive|) or |Cap Jump|)}",
+    "requires": "{OptAll(View of Lost or (|Wall Jump| and |Dive|) or |Cap Jump|)}",
     "sort-key": "row-07-012"
   },
   {
@@ -2723,7 +2723,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(|Spin Throw| and ((|Ground Pound| and |Wall Jump|) or (|Wall Jump| and |Dive|) or |Cap Jump|))}",
+    "requires": "{OptAll(|Spin Throw| and (View of Lost or (|Wall Jump| and |Dive|) or |Cap Jump|))}",
     "sort-key": "row-07-014"
   },
   {
@@ -2759,7 +2759,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(|Ground Pound| and |Wall Jump| and |Glydon|)}",
+    "requires": "{OptAll(View of Lost and |Glydon|)}",
     "sort-key": "row-07-018"
   },
   {
@@ -2786,7 +2786,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(|Ground Pound| and |Wall Jump|)}",
+    "requires": "View of Lost",
     "sort-key": "row-07-021"
   },
   {
@@ -2813,7 +2813,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(|Momentum| and |Ground Pound| and |Wall Jump|)}",
+    "requires": "{OptAll(Momentum and View of Lost)}",
     "sort-key": "row-07-024"
   },
   {
@@ -3270,7 +3270,7 @@
     "category": [
       "Metro Kingdom"
     ],
-    "requires": "{OptOne(|Spark Pylon|)}",
+    "requires": "{OptAll(|Builder Helmet| and |Builder Outfit| and |Spark Pylon|)}",
     "sort-key": "row-08-039"
   },
   {
@@ -3279,7 +3279,7 @@
     "category": [
       "Metro Kingdom"
     ],
-    "requires": "{OptOne(|Spark Pylon|)}",
+    "requires": "{OptAll(|Builder Helmet| and |Builder Outfit| and |Spark Pylon|)}",
     "sort-key": "row-08-040"
   },
   {
@@ -3423,7 +3423,7 @@
     "category": [
       "Metro Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Clown Hat| and |Clown Suit|)}",
     "sort-key": "row-08-056"
   },
   {
@@ -3831,7 +3831,7 @@
     "category": [
       "Snow Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Boxer Shorts|)}",
     "sort-key": "row-09-020"
   },
   {
@@ -3912,7 +3912,7 @@
     "category": [
       "Snow Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Snow Hood| and |Snow Suit|)}",
     "sort-key": "row-09-029"
   },
   {
@@ -3921,7 +3921,7 @@
     "category": [
       "Snow Kingdom"
     ],
-    "requires": "Outfit Requirement and |Dash (2D)|",
+    "requires": "{OptAll(|Snow Hood| and |Snow Suit| and |Dash (2D)|)}",
     "sort-key": "row-09-030"
   },
   {
@@ -4527,7 +4527,7 @@
     "category": [
       "Seaside Kingdom"
     ],
-    "requires": "Outfit Requirement",
+    "requires": "{OptAll(|Resort Hat| and |Resort Outfit|)}",
     "sort-key": "row-10-042"
   },
   {
@@ -5046,7 +5046,7 @@
     "category": [
       "Luncheon Kingdom"
     ],
-    "requires": "{OptAll(|Lava Bubble| and |Outfit Requirements|)}",
+    "requires": "{OptAll(|Lava Bubble| and |Chef Hat| and |Chef Suit|)}",
     "sort-key": "row-11-027"
   },
   {
@@ -5055,7 +5055,7 @@
     "category": [
       "Luncheon Kingdom"
     ],
-    "requires": "{OptAll(|Lava Bubble| and |Outfit Requirements|)}",
+    "requires": "{OptAll(|Lava Bubble| and |Chef Hat| and |Chef Suit|)}",
     "sort-key": "row-11-028"
   },
   {
@@ -5271,7 +5271,7 @@
     "category": [
       "Luncheon Kingdom"
     ],
-    "requires": "Outfit Requirements",
+    "requires": "{OptAll(|Mechanic Cap| and |Mechanic Outfit|)}",
     "sort-key": "row-11-052"
   },
   {
@@ -5788,7 +5788,7 @@
     "category": [
       "Bowser Kingdom"
     ],
-    "requires": "Outfit Requirements",
+    "requires": "{OptAll(|Samurai Helmet| and |Samurai Armor|)}",
     "sort-key": "row-13-031"
   },
   {
@@ -5797,7 +5797,7 @@
     "category": [
       "Bowser Kingdom"
     ],
-    "requires": "Outfit Requirements",
+    "requires": "{OptAll(|Samurai Helmet| and |Samurai Armor|)}",
     "sort-key": "row-13-032"
   },
   {
@@ -6166,7 +6166,7 @@
     "category": [
       "Moon Kingdom"
     ],
-    "requires": "{OptOne(|Bonzai Bill|)}",
+    "requires": "{OptOne(|Banzai Bill|)}",
     "sort-key": "row-14-011"
   },
   {
@@ -6175,7 +6175,7 @@
     "category": [
       "Moon Kingdom"
     ],
-    "requires": "{OptOne(|Bonzai Bill|)}",
+    "requires": "{OptOne(|Banzai Bill|)}",
     "sort-key": "row-14-012"
   },
   {
@@ -6184,7 +6184,7 @@
     "category": [
       "Moon Kingdom"
     ],
-    "requires": "{OptOne(|Bonzai Bill|)}",
+    "requires": "{OptOne(|Banzai Bill|)}",
     "sort-key": "row-14-013"
   },
   {
@@ -6274,7 +6274,7 @@
     "category": [
       "Moon Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Doctor Headwear| and |Doctor Outfit|)}",
     "sort-key": "row-14-023"
   },
   {
@@ -6652,7 +6652,7 @@
     "category": [
       "Mushroom Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Mario 64 Cap| and |Mario 64 Suit|)}",
     "sort-key": "row-15-027"
   },
   {
@@ -6661,7 +6661,7 @@
     "category": [
       "Mushroom Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Mario 64 Cap| and |Mario 64 Suit|)}",
     "sort-key": "row-15-028"
   },
   {
