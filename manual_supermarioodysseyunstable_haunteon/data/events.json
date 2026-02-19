@@ -65,13 +65,13 @@
   {
     "name": "Get to Meat",
 	"region": "Luncheon Kingdom Post Cheese",
-    "requires": "{OptAll(|Volbonan| or ((|High Jump| or |Spin|) + (|Wall Jump| + |Dive|)) or (|High Jump| + (|Cap Jump| or (|Cap Jump| + |Dive|))))}",
+    "requires": "{OptAll(|Volbonan| or ((|High Jump| or |Spin|) and (|Wall Jump| and |Dive|)) or (|High Jump| and (|Cap Jump| or (|Cap Jump| and |Dive|))))}",
     "visible": false
   },
   {
     "name": "Enter the Courtyard",
 	"region": "Bowser Kingdom 1st Visit",
-    "requires": "{OptAll(|Pokio| or (|Dive| and (|Back Flip| or |Wall Jump| or (|Ground Pound Jump| + |Ground Pound|))))}",
+    "requires": "{OptAll(|Pokio| or (|Dive| and (|Back Flip| or |Wall Jump| or (|Ground Pound Jump| and |Ground Pound|))))}",
     "visible": false
   },
   {
@@ -95,7 +95,7 @@
   {
     "name": "Moon Cave Skip",
 	"region": "Moon Kingdom 1st Visit",
-    "requires": "{YamlEnabled(moon_cave_skip)} and {OptAll(|Cap Jump| and |Wall Jump| and (|Back Flip| or (|Ground Pound| + |Ground Pound Jump|)))}",
+    "requires": "{YamlEnabled(moon_cave_skip)} and {OptAll(|Cap Jump| and |Wall Jump| and (|Back Flip| or (|Ground Pound| and |Ground Pound Jump|)))}",
     "visible": false
   },
   {
