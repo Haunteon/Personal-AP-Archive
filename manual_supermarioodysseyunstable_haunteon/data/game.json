@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "SuperMarioOdyssey",
+  "game": "SuperMarioOdysseyUnstable",
   "creator": "Haunteon",
   "filler_item_name": "Coin",
   "death_link": true,
