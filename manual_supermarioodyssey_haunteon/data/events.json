@@ -40,7 +40,7 @@
   },
   {
     "name": "Sherm Wall",
-	"region": "Wooded Kingdom Post Spewart",
+	"region": "Wooded Kingdom Kingdom Post Spewart",
     "requires": "{OptAll((|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|)) and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|)))}",
     "visible": false
   },
@@ -77,7 +77,7 @@
   {
     "name": "Enter the Courtyard",
 	"region": "Bowser Kingdom 1st Visit",
-    "requires": "{OptAll(|Pokio| or (|Dive| and (|Back Flip| or |Wall Jump| or (|Ground Pound Jump| + |Ground Pound|))))}",
+    "requires": "{OptAll(|Pokio| or (|Dive| and (|Backflip| or |Wall Jump| or (|Ground Pound Jump| + |Ground Pound|))))}",
     "visible": false
   },
   {
