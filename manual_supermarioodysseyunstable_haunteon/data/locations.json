@@ -1973,7 +1973,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (  ))}",
+    "requires": "{OptAll(|Uproot| or ({YamlEnabled(easy_trick_jumps)} and |Wall Jump| and Dive) or (|High Jump| and |Dive| and (|Wall Jump| or |Cap Jump|)))}",
     "sort-key": "row-05-013"
   },
   {
@@ -1982,7 +1982,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (  ))}",
+    "requires": "{OptAll(|Uproot| or |Fire Bro| or (|Wall Jump| and |Dive|) or |Cap Vault| or (|High Jump| and |Cap Jump|))}",
     "sort-key": "row-05-014"
   },
   {
@@ -1991,7 +1991,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (  ))}",
+    "requires": "{OptAll(|Uproot| or (|Wall Jump| and |Ground Pound|))}",
     "sort-key": "row-05-015"
   },
   {
