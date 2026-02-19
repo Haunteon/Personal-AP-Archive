@@ -1,0 +1,17 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SuperMarioOdyssey",
+  "creator": "Haunteon",
+  "filler_item_name": "Coin",
+  "death_link": true,
+  "starting_items": [
+    {
+            "items": ["Frog", "Spark Pylon", "Chain Chomp", "Big Chain Chomp", "Broode's Chain Chomp"],
+            "_comment": "Capture Randomizer Items"
+        },
+    {
+            "items": ["Capture", "Cap Throw/Hold", "Enter Pipe"],
+            "_comment": "Action Randomizer Items"
+        }
+  ]
+}
