@@ -116,7 +116,7 @@
       "Lost Kingdom 2nd Visit",
       "Metro Kingdom Day"
     ],
-    "requires": "|Power Moon:55| AND |Progressive Kingdom Unlock:4|"
+    "requires": "|Power Moon:55| AND |Progressive Kingdom Unlock:4| and {OptOne(|Spark Pylon|)}"
   },
   "Cloud Kingdom Post Peace": {
     "connects_to": [],
@@ -229,7 +229,7 @@
     "connects_to": [
       "Bowser Kingdom Post Peace"
     ],
-    "requires": "|Pokio|"
+    "requires": "{OptOne(|Pokio|)}"
   },
   "Bowser Kingdom Post Peace": {
     "connects_to": [
@@ -268,7 +268,7 @@
       "Dark Side",
       "Darker Side"
     ],
-    "requires": "|Bowser|"
+    "requires": "{OptOne(|Bowser|)}"
   },
   "Cap Kingdom Post Game": {
     "connects_to": [
@@ -278,7 +278,7 @@
   },
   "Cap Kingdom Moon Rock": {
     "connects_to": [],
-    "requires": "|Moon Power| and |Paragoomba|"
+    "requires": "|Moon Power| and {OptOne(|Paragoomba|)}"
   },
   "Cascade Kingdom Post Game": {
     "connects_to": [
