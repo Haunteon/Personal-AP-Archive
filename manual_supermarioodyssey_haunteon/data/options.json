@@ -170,7 +170,7 @@
 		"moon_cave_skip":{
             "display_name": "Moon Cave Skip",
 			"description": [
-				"Adds Moon Cave Skip as possible logic.",
+				"Adds Moon Cave Skip as possible logic."
             ],
             "type": "Toggle",
             "default": false,
