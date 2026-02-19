@@ -4802,419 +4802,632 @@
     "sort-key": "row-10-071"
   },
   {
-        "name": "The Broodals Are After Some Cookin'",
-        "region": "Luncheon Kingdom 1st Visit",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "place_item": ["|Luncheon Kingdom Spewart Story Moon|"],
-        "sort-key": "row-11-001"
-    }, {
-        "name": "Under the Cheese Rocks",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
-        "place_item": ["|Luncheon Kingdom Cheese Story Moon|"],
-        "sort-key": "row-11-002"
-    }, {
-        "name": "Big Pot on the Volcano: Dive In!",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Meat|)} and |Get to Meat|",
-        "place_item": ["|Luncheon Kingdom Big Pot Multimoon|"],
-        "sort-key": "row-11-003"
-    }, {
-        "name": "Climb Up the Cascading Magma",
-        "region": "Luncheon Kingdom Post Big Pot",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "place_item": ["|Luncheon Kingdom Cave Story Moon|"],
-        "sort-key": "row-11-004"
-    }, {
-        "name": "Cookatiel Showdown!",
-        "region": "Luncheon Kingdom Post Cave",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Volbonan|)}",
-        "place_item": ["|Luncheon Kingdom Cookatiel Multimoon|"],
-        "sort-key": "row-11-005"
-    }, {
-        "name": "Piled on the Salt",
-        "region": "Luncheon Kingdom 1st Visit",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-006"
-    }, {
-        "name": "Lurking in the Pillar's Shadow",
-        "region": "Luncheon Kingdom 1st Visit",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-007"
-    }, {
-        "name": "Atop the Jutting Crag",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))}",
-        "sort-key": "row-11-008"
-    }, {
-        "name": "Is This an Ingredient Too?!",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-009"
-    }, {
-        "name": "Atop a Column in a Row",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Ground Pound|)}",
-        "sort-key": "row-11-010"
-    }, {
-        "name": "Surrounded by Tall Mountains",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Ground Pound|)}",
-        "sort-key": "row-11-011"
-    }, {
-        "name": "Island of Salt Floating in the Lava",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Ground Pound| or (|Lava Bubble| and |Cap Vault|))}",
-        "sort-key": "row-11-012"
-    }, {
-        "name": "Overlooking a Bunch of Ingredients",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll((|Wall Jump| and |Dive|) or |Cap Vault|)} or Luncheon Kingdom Cheese Story Moon",
-        "sort-key": "row-11-013"
-    }, {
-        "name": "Light the Lantern on the Small Island",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-014"
-    }, {
-        "name": "Golden Turnip Recipe 1",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Hold/Throw|)}",
-        "sort-key": "row-11-015"
-    }, {
-        "name": "Golden Turnip Recipe 2",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Hold/Throw|)} and {OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))}",
-        "sort-key": "row-11-016"
-    }, {
-        "name": "Golden Turnip Recipe 3",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Hammer Bro| and |Hold/Throw|)}",
-        "sort-key": "row-11-017"
-    }, {
-        "name": "Luncheon Kingdom Timer Challenge 1",
-        "region": "Luncheon Kingdom 1st Visit",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Wall Jump|)}",
-        "sort-key": "row-11-018"
-    }, {
-        "name": "Luncheon Kingdom Timer Challenge 2",
-        "region": "Luncheon Kingdom Post Big Pot",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-019"
-    }, {
-        "name": "Luncheon Kingdom Timer Challenge 3",
-        "region": "Luncheon Kingdom Post Peace",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|High Jump| or |Spin|)}",
-        "sort-key": "row-11-020"
-    }, {
-        "name": "Beneath the Rolling Vegetables",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-021"
-    }, {
-        "name": "All the Cracks Are Fixed",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Lava Bubble| and |Ground Pound|)}",
-        "sort-key": "row-11-022"
-    }, {
-        "name": "Taking Notes: Swimming in Magma",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-023"
-    }, {
-        "name": "Love Above the Lava",
-        "region": "Luncheon Kingdom 1st Visit",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Goomba|)}",
-        "sort-key": "row-11-024"
-    }, {
-        "name": "Shopping in Mount Volbono",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-025"
-    }, {
-        "name": "Luncheon Kingdom Slots",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-026"
-    }, {
-        "name": "A Strong Simmer",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Lava Bubble| and |Outfit Requirements|)}",
-        "sort-key": "row-11-027"
-    }, {
-        "name": "An Extreme Simmer",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Lava Bubble| and |Outfit Requirements|)}",
-        "sort-key": "row-11-028"
-    }, {
-        "name": "Alcove Behind the Pillars of Magma",
-        "region": "Luncheon Kingdom Post Cave",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-029"
-    }, {
-        "name": "Treasure Beneath the Cheese Rocks",
-        "region": "Luncheon Kingdom Post Big Pot",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-030"
-    }, {
-        "name": "Light the Two Flames",
-        "region": "Luncheon Kingdom Post Big Pot",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Lava Bubble| or |Fire Bro|)}",
-        "sort-key": "row-11-031"
-    }, {
-        "name": "Light the Far-Off Lanterns",
-        "region": "Luncheon Kingdom Post Cave",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Fire Piranha Plant| and |Hold/Throw|)}",
-        "sort-key": "row-11-032"
-    }, {
-        "name": "Bon Appétit, Captain Toad!",
-        "region": "Luncheon Kingdom Post Big Pot",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-033"
-    }, {
-        "name": "The Treasure Chest in the Veggies",
-        "region": "Luncheon Kingdom Post Big Pot",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-034"
-    }, {
-        "name": "Caught Hopping at the Volcano!",
-        "region": "Luncheon Kingdom Post Peace",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-035"
-    }, {
-        "name": "Taking Notes: Big Pot Swim",
-        "region": "Luncheon Kingdom Post Peace",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-036"
-    }, {
-        "name": "Magma Swamp: Floating and Sinking",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-037"
-    }, {
-        "name": "Corner of the Magma Swamp",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-038"
-    }, {
-        "name": "Magma Narrow Path",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-039"
-    }, {
-        "name": "Crossing to the Magma",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-040"
-    }, {
-        "name": "Fork Flickin' to the Summit",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Volbonan|)}",
-        "sort-key": "row-11-041"
-    }, {
-        "name": "Fork Flickin' Detour",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Volbonan|)}",
-        "sort-key": "row-11-042"
-    }, {
-        "name": "Excavate 'n' Search the Cheese Rocks",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Hammer Bro|)}",
-        "sort-key": "row-11-043"
-    }, {
-        "name": "Climb the Cheese Rocks",
-        "region": "Luncheon Kingdom Post Spewart",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Hammer Bro|)}",
-        "sort-key": "row-11-044"
-    }, {
-        "name": "Spinning Athletics End Goal",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-045"
-    }, {
-        "name": "Taking Notes: Spinning Athletics",
-        "region": "Luncheon Kingdom Post Cheese",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-046"
-    }, {
-        "name": "Secret Path to Mount Volbono!",
-        "region": "Luncheon Kingdom 1st Visit",
-        "category": ["Luncheon Kingdom"],
-        "requires": "|Into the Lake| and |Sherm Wall|",
-        "sort-key": "row-11-047"
-    }, {
-        "name": "A Tourist in the Luncheon Kingdom!",
-        "region": "Luncheon Kingdom Post Peace",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Tourist",
-        "sort-key": "row-11-048"
-    }, {
-        "name": "Found with Luncheon Kingdom Art",
-        "region": "Luncheon Kingdom Post Big Pot",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Cheep Cheep| or (|Ground Pound| and |Swim|))}",
-        "sort-key": "row-11-049"
-    }, {
-        "name": "The Rooftop Lantern",
-        "region": "Luncheon Kingdom Post Game",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptAll(|Lava Bubble| or |Fire Bro|)}",
-        "sort-key": "row-11-050"
-    }, {
-        "name": "Jammin' in the Luncheon Kingdom",
-        "region": "Luncheon Kingdom Post Game",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-051"
-    }, {
-        "name": "Mechanic: Repairs Complete!",
-        "region": "Luncheon Kingdom Post Game",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Outfit Requirements",
-        "sort-key": "row-11-052"
-    }, {
-        "name": "Diving from the Big Pot!",
-        "region": "Luncheon Kingdom Post Game",
-        "category": ["Luncheon Kingdom"],
-        "requires": "{OptOne(|Lava Bubble|)}",
-        "sort-key": "row-11-053"
-    }, {
-        "name": "Hat-and-Seek: Among the Food",
-        "region": "Luncheon Kingdom Post Game",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-054"
-    }, {
-        "name": "Luncheon Kingdom: Regular Cup",
-        "region": "Luncheon Kingdom Post Game",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-055"
-    }, {
-        "name": "Peach in the Luncheon Kingdom",
-        "region": "Luncheon Kingdom Post Game",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Peach",
-        "sort-key": "row-11-056"
-    }, {
-        "name": "From Inside a Bright Stone",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-057"
-    }, {
-        "name": "Under the Meat Plateau",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-058"
-    }, {
-        "name": "On Top of a Tall, Tall Roof",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-059"
-    }, {
-        "name": "From a Crack in the Hard Ground",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-060"
-    }, {
-        "name": "By the Cannon Pointed at the Big Pot",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-061"
-    }, {
-        "name": "Luncheon Kingdom: Master Cup",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Delete This",
-        "sort-key": "row-11-062"
-    }, {
-        "name": "Stepping Over the Gears",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-063"
-    }, {
-        "name": "Lanterns on the Gear Steps",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-064"
-    }, {
-        "name": "Volcano Cave Cruisin'",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-065"
-    }, {
-        "name": "Volcano Cave and Mysterious Clouds",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-066"
-    }, {
-        "name": "Treasure of the Lava Islands",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-067"
-    }, {
-        "name": "Flying Over the Lava Islands",
-        "region": "Luncheon Kingdom Moon Rock",
-        "category": ["Luncheon Kingdom"],
-        "requires": "Test",
-        "sort-key": "row-11-068"
-    },
+    "name": "The Broodals Are After Some Cookin'",
+    "region": "Luncheon Kingdom 1st Visit",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "place_item": [
+      "|Luncheon Kingdom Spewart Story Moon|"
+    ],
+    "sort-key": "row-11-001"
+  },
+  {
+    "name": "Under the Cheese Rocks",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
+    "place_item": [
+      "|Luncheon Kingdom Cheese Story Moon|"
+    ],
+    "sort-key": "row-11-002"
+  },
+  {
+    "name": "Big Pot on the Volcano: Dive In!",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Meat|)} and |Get to Meat|",
+    "place_item": [
+      "|Luncheon Kingdom Big Pot Multimoon|"
+    ],
+    "sort-key": "row-11-003"
+  },
+  {
+    "name": "Climb Up the Cascading Magma",
+    "region": "Luncheon Kingdom Post Big Pot",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "place_item": [
+      "|Luncheon Kingdom Cave Story Moon|"
+    ],
+    "sort-key": "row-11-004"
+  },
+  {
+    "name": "Cookatiel Showdown!",
+    "region": "Luncheon Kingdom Post Cave",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Volbonan|)}",
+    "place_item": [
+      "|Luncheon Kingdom Cookatiel Multimoon|"
+    ],
+    "sort-key": "row-11-005"
+  },
+  {
+    "name": "Piled on the Salt",
+    "region": "Luncheon Kingdom 1st Visit",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-006"
+  },
+  {
+    "name": "Lurking in the Pillar's Shadow",
+    "region": "Luncheon Kingdom 1st Visit",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-007"
+  },
+  {
+    "name": "Atop the Jutting Crag",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))}",
+    "sort-key": "row-11-008"
+  },
+  {
+    "name": "Is This an Ingredient Too?!",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-009"
+  },
+  {
+    "name": "Atop a Column in a Row",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-11-010"
+  },
+  {
+    "name": "Surrounded by Tall Mountains",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-11-011"
+  },
+  {
+    "name": "Island of Salt Floating in the Lava",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Ground Pound| or (|Lava Bubble| and |Cap Vault|))}",
+    "sort-key": "row-11-012"
+  },
+  {
+    "name": "Overlooking a Bunch of Ingredients",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll((|Wall Jump| and |Dive|) or |Cap Vault|)} or Luncheon Kingdom Cheese Story Moon",
+    "sort-key": "row-11-013"
+  },
+  {
+    "name": "Light the Lantern on the Small Island",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-014"
+  },
+  {
+    "name": "Golden Turnip Recipe 1",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Hold/Throw|)}",
+    "sort-key": "row-11-015"
+  },
+  {
+    "name": "Golden Turnip Recipe 2",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Hold/Throw|)} and {OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))}",
+    "sort-key": "row-11-016"
+  },
+  {
+    "name": "Golden Turnip Recipe 3",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Hammer Bro| and |Hold/Throw|)}",
+    "sort-key": "row-11-017"
+  },
+  {
+    "name": "Luncheon Kingdom Timer Challenge 1",
+    "region": "Luncheon Kingdom 1st Visit",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Wall Jump|)}",
+    "sort-key": "row-11-018"
+  },
+  {
+    "name": "Luncheon Kingdom Timer Challenge 2",
+    "region": "Luncheon Kingdom Post Big Pot",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-019"
+  },
+  {
+    "name": "Luncheon Kingdom Timer Challenge 3",
+    "region": "Luncheon Kingdom Post Peace",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|High Jump| or |Spin|)}",
+    "sort-key": "row-11-020"
+  },
+  {
+    "name": "Beneath the Rolling Vegetables",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-021"
+  },
+  {
+    "name": "All the Cracks Are Fixed",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Lava Bubble| and |Ground Pound|)}",
+    "sort-key": "row-11-022"
+  },
+  {
+    "name": "Taking Notes: Swimming in Magma",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-023"
+  },
+  {
+    "name": "Love Above the Lava",
+    "region": "Luncheon Kingdom 1st Visit",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Goomba|)}",
+    "sort-key": "row-11-024"
+  },
+  {
+    "name": "Shopping in Mount Volbono",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-025"
+  },
+  {
+    "name": "Luncheon Kingdom Slots",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-026"
+  },
+  {
+    "name": "A Strong Simmer",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Lava Bubble| and |Outfit Requirements|)}",
+    "sort-key": "row-11-027"
+  },
+  {
+    "name": "An Extreme Simmer",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Lava Bubble| and |Outfit Requirements|)}",
+    "sort-key": "row-11-028"
+  },
+  {
+    "name": "Alcove Behind the Pillars of Magma",
+    "region": "Luncheon Kingdom Post Cave",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-029"
+  },
+  {
+    "name": "Treasure Beneath the Cheese Rocks",
+    "region": "Luncheon Kingdom Post Big Pot",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-030"
+  },
+  {
+    "name": "Light the Two Flames",
+    "region": "Luncheon Kingdom Post Big Pot",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Lava Bubble| or |Fire Bro|)}",
+    "sort-key": "row-11-031"
+  },
+  {
+    "name": "Light the Far-Off Lanterns",
+    "region": "Luncheon Kingdom Post Cave",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Fire Piranha Plant| and |Hold/Throw|)}",
+    "sort-key": "row-11-032"
+  },
+  {
+    "name": "Bon Appétit, Captain Toad!",
+    "region": "Luncheon Kingdom Post Big Pot",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-033"
+  },
+  {
+    "name": "The Treasure Chest in the Veggies",
+    "region": "Luncheon Kingdom Post Big Pot",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-034"
+  },
+  {
+    "name": "Caught Hopping at the Volcano!",
+    "region": "Luncheon Kingdom Post Peace",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-035"
+  },
+  {
+    "name": "Taking Notes: Big Pot Swim",
+    "region": "Luncheon Kingdom Post Peace",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-036"
+  },
+  {
+    "name": "Magma Swamp: Floating and Sinking",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-037"
+  },
+  {
+    "name": "Corner of the Magma Swamp",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-038"
+  },
+  {
+    "name": "Magma Narrow Path",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-039"
+  },
+  {
+    "name": "Crossing to the Magma",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-040"
+  },
+  {
+    "name": "Fork Flickin' to the Summit",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Volbonan|)}",
+    "sort-key": "row-11-041"
+  },
+  {
+    "name": "Fork Flickin' Detour",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Volbonan|)}",
+    "sort-key": "row-11-042"
+  },
+  {
+    "name": "Excavate 'n' Search the Cheese Rocks",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Hammer Bro|)}",
+    "sort-key": "row-11-043"
+  },
+  {
+    "name": "Climb the Cheese Rocks",
+    "region": "Luncheon Kingdom Post Spewart",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Hammer Bro|)}",
+    "sort-key": "row-11-044"
+  },
+  {
+    "name": "Spinning Athletics End Goal",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-045"
+  },
+  {
+    "name": "Taking Notes: Spinning Athletics",
+    "region": "Luncheon Kingdom Post Cheese",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-046"
+  },
+  {
+    "name": "Secret Path to Mount Volbono!",
+    "region": "Luncheon Kingdom 1st Visit",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "|Into the Lake| and |Sherm Wall|",
+    "sort-key": "row-11-047"
+  },
+  {
+    "name": "A Tourist in the Luncheon Kingdom!",
+    "region": "Luncheon Kingdom Post Peace",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Tourist",
+    "sort-key": "row-11-048"
+  },
+  {
+    "name": "Found with Luncheon Kingdom Art",
+    "region": "Luncheon Kingdom Post Big Pot",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Cheep Cheep| or (|Ground Pound| and |Swim|))}",
+    "sort-key": "row-11-049"
+  },
+  {
+    "name": "The Rooftop Lantern",
+    "region": "Luncheon Kingdom Post Game",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptAll(|Lava Bubble| or |Fire Bro|)}",
+    "sort-key": "row-11-050"
+  },
+  {
+    "name": "Jammin' in the Luncheon Kingdom",
+    "region": "Luncheon Kingdom Post Game",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-051"
+  },
+  {
+    "name": "Mechanic: Repairs Complete!",
+    "region": "Luncheon Kingdom Post Game",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Outfit Requirements",
+    "sort-key": "row-11-052"
+  },
+  {
+    "name": "Diving from the Big Pot!",
+    "region": "Luncheon Kingdom Post Game",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "{OptOne(|Lava Bubble|)}",
+    "sort-key": "row-11-053"
+  },
+  {
+    "name": "Hat-and-Seek: Among the Food",
+    "region": "Luncheon Kingdom Post Game",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-054"
+  },
+  {
+    "name": "Luncheon Kingdom: Regular Cup",
+    "region": "Luncheon Kingdom Post Game",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-055"
+  },
+  {
+    "name": "Peach in the Luncheon Kingdom",
+    "region": "Luncheon Kingdom Post Game",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Peach",
+    "sort-key": "row-11-056"
+  },
+  {
+    "name": "From Inside a Bright Stone",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-057"
+  },
+  {
+    "name": "Under the Meat Plateau",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-058"
+  },
+  {
+    "name": "On Top of a Tall, Tall Roof",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-059"
+  },
+  {
+    "name": "From a Crack in the Hard Ground",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-060"
+  },
+  {
+    "name": "By the Cannon Pointed at the Big Pot",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-061"
+  },
+  {
+    "name": "Luncheon Kingdom: Master Cup",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-11-062"
+  },
+  {
+    "name": "Stepping Over the Gears",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-063"
+  },
+  {
+    "name": "Lanterns on the Gear Steps",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-064"
+  },
+  {
+    "name": "Volcano Cave Cruisin'",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-065"
+  },
+  {
+    "name": "Volcano Cave and Mysterious Clouds",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-066"
+  },
+  {
+    "name": "Treasure of the Lava Islands",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-067"
+  },
+  {
+    "name": "Flying Over the Lava Islands",
+    "region": "Luncheon Kingdom Moon Rock",
+    "category": [
+      "Luncheon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-11-068"
+  },
   {
     "name": "Battle with the Lord of Lightning!",
     "region": "Ruined Kingdom 1st Visit",
@@ -5306,68 +5519,567 @@
     "requires": "Test",
     "sort-key": "row-12-010"
   },
-  {"name": "Infiltrate Bowser's Castle!", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Ground Pound|)}", "sort-key": "row-13-001"},
-{"name": "Smart Bombing", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-002"},
-{"name": "Big Broodal Battle", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-003"},
-{"name": "Showdown at Bowser's Castle", "region": "Bowser Kingdom Poison Swamp", "category": ["Bowser Kingdom"], "requires": "Delete This", "place_item": ["|Bowser Kingdom Mecha-Broodal Multimoon|"], "sort-key": "row-13-004"},
-{"name": "Behind the Big Wall", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-005"},
-{"name": "Treasure Inside the Turret", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-006"},
-{"name": "From the Side Above the Castle Gate", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-007"},
-{"name": "Sunken Treasure in the Moat", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Swim|)}", "sort-key": "row-13-008"},
-{"name": "Past the Moving Wall", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-009"},
-{"name": "Above the Poison Swamp", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "{OptAll(|Lakitu| and |Slingshot|)}", "sort-key": "row-13-010"},
-{"name": "Knocking Down the Nice Frame", "region": "Bowser Kingdom Poison Swamp", "category": ["Bowser Kingdom"], "requires": "{OptAll((|Long Jump| and |Dive|) or (|Lakitu| and |Slingshot| and |Bowser Kingdom Mecha-Broodal Multimoon|))}", "sort-key": "row-13-011"},
-{"name": "Caught on the Iron Fence", "region": "Bowser Kingdom 1st Visit", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-012"},
-{"name": "On the Giant Bowser Statue's Nose", "region": "Bowser Kingdom Poison Swamp", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Ground Pound|)}", "sort-key": "row-13-013"},
-{"name": "Inside a Block in the Castle", "region": "Bowser Kingdom Outer Wall", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-014"},
-{"name": "Caught Hopping at Bowser's Castle!", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-015"},
-{"name": "Exterminate the Ogres!", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Ground Pound|)}", "sort-key": "row-13-016"},
-{"name": "Bowser's Kingdom Timer Challenge 1", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-017"},
-{"name": "Taking Notes: Between Spinies", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-018"},
-{"name": "Stack Up Above the Wall", "region": "Bowser Kingdom 1st Visit", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Goomba|)}", "sort-key": "row-13-019"},
-{"name": "Hidden Corridor Under the Floor", "region": "Bowser Kingdom Outer Wall", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-020"},
-{"name": "Poking Your Nose in the Plaster Wall", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Pokio|)}", "sort-key": "row-13-021"},
-{"name": "Poking the Turret Wall", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Pokio|)}", "sort-key": "row-13-022"},
-{"name": "Poking Your Nose by the Great Gate", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Pokio|)}", "sort-key": "row-13-023"},
-{"name": "Jizo All in a Row", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Jizo|)}", "sort-key": "row-13-024"},
-{"name": "Underground Jizo", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Jizo|)}", "sort-key": "row-13-025"},
-{"name": "Found Behind Bars!", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Spark Pylon|)}", "sort-key": "row-13-026"},
-{"name": "Fishing(?) in Bowser's Castle", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Lakitu|)}", "sort-key": "row-13-027"},
-{"name": "Good to See You, Captain Toad!", "region": "Bowser Kingdom Outer Wall", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-028"},
-{"name": "Shopping at Bowser's Castle", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-029"},
-{"name": "Bowser's Castle Treasure Vault", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-030"},
-{"name": "Scene of Crossing the Poison Swamp", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Outfit Requirements", "sort-key": "row-13-031"},
-{"name": "Taking Notes: In the Folding Screen", "region": "Bowser Kingdom Courtyards", "category": ["Bowser Kingdom"], "requires": "Outfit Requirements", "sort-key": "row-13-032"},
-{"name": "On Top of the Spinning Tower", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Pokio|)}", "sort-key": "row-13-033"},
-{"name": "Down and Up the Spinning Tower", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Pokio|)}", "sort-key": "row-13-034"},
-{"name": "Jizo's Big Adventure", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "{OptAll(|Jizo| and |Wall Jump|)}", "sort-key": "row-13-035"},
-{"name": "Jizo and the Hidden Room", "region": "Bowser Kingdom Post Peace", "category": ["Bowser Kingdom"], "requires": "{OptAll(|Jizo| and |Wall Jump|)}", "sort-key": "row-13-036"},
-{"name": "Dashing Above the Clouds", "region": "Bowser Kingdom Poison Swamp", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Hold/Throw|)}", "sort-key": "row-13-037"},
-{"name": "Dashing Through the Clouds", "region": "Bowser Kingdom Poison Swamp", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Hold/Throw|)}", "sort-key": "row-13-038"},
-{"name": "Sphynx Over Bowser's Castle", "region": "Bowser Kingdom Post Game", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Binoculars|)}", "sort-key": "row-13-039"},
-{"name": "I Met a Pokio!", "region": "Bowser Kingdom Post Game", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Pokio|)}", "sort-key": "row-13-040"},
-{"name": "Bowser's Kingdom Regular Cup", "region": "Bowser Kingdom Post Game", "category": ["Bowser Kingdom"], "requires": "|Momentum|", "sort-key": "row-13-041"},
-{"name": "A Rumble Under the Arena Floor", "region": "Bowser Kingdom Post Game", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Ground Pound|)}", "sort-key": "row-13-042"},
-{"name": "Secret Path to Bowser's Castle!", "region": "Bowser Kingdom Post Game", "category": ["Bowser Kingdom"], "requires": "Delete This", "sort-key": "row-13-043"},
-{"name": "Peach in Bowser's Kingdom", "region": "Bowser Kingdom Post Game", "category": ["Bowser Kingdom"], "requires": "Peach", "sort-key": "row-13-044"},
-{"name": "Found with Bowser's Kingdom Art", "region": "Bowser Kingdom Post Game", "category": ["Bowser Kingdom"], "requires": "{OptOne(|Ground Pound|)}", "sort-key": "row-13-045"},
-{"name": "Behind the Tall Wall: Poke, Poke!", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-046"},
-{"name": "From Crates in the Moat", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-047"},
-{"name": "Caught on the Giant Horn", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-048"},
-{"name": "Inside a Block at the Gate", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-049"},
-{"name": "Small Bird in Bowser's Castle", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-050"},
-{"name": "Invader in Bowser's Castle", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-051"},
-{"name": "Jumping from Flag to Flag", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-052"},
-{"name": "Bowser's Kingdom Timer Challenge 2", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-053"},
-{"name": "Taking Notes: On the Wall", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-054"},
-{"name": "Taking Notes with a Spinning Throw", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-055"},
-{"name": "Third Courtyard Outskirts", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-056"},
-{"name": "Stone Wall Circuit", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-057"},
-{"name": "Bowser's Kingdom Master Cup", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-058"},
-{"name": "Searching Hexagon Tower", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-059"},
-{"name": "Center of Hexagon Tower", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-060"},
-{"name": "Climb the Wooden Tower", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-061"},
-{"name": "Poke the Wooden Tower", "region": "Bowser Kingdom Moon Rock", "category": ["Bowser Kingdom"], "requires": "Test", "sort-key": "row-13-062"},
+  {
+    "name": "Infiltrate Bowser's Castle!",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-13-001"
+  },
+  {
+    "name": "Smart Bombing",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-002"
+  },
+  {
+    "name": "Big Broodal Battle",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-003"
+  },
+  {
+    "name": "Showdown at Bowser's Castle",
+    "region": "Bowser Kingdom Poison Swamp",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "place_item": [
+      "|Bowser Kingdom Mecha-Broodal Multimoon|"
+    ],
+    "sort-key": "row-13-004"
+  },
+  {
+    "name": "Behind the Big Wall",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-005"
+  },
+  {
+    "name": "Treasure Inside the Turret",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-006"
+  },
+  {
+    "name": "From the Side Above the Castle Gate",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-007"
+  },
+  {
+    "name": "Sunken Treasure in the Moat",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Swim|)}",
+    "sort-key": "row-13-008"
+  },
+  {
+    "name": "Past the Moving Wall",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-009"
+  },
+  {
+    "name": "Above the Poison Swamp",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptAll(|Lakitu| and |Slingshot|)}",
+    "sort-key": "row-13-010"
+  },
+  {
+    "name": "Knocking Down the Nice Frame",
+    "region": "Bowser Kingdom Poison Swamp",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptAll((|Long Jump| and |Dive|) or (|Lakitu| and |Slingshot| and |Bowser Kingdom Mecha-Broodal Multimoon|))}",
+    "sort-key": "row-13-011"
+  },
+  {
+    "name": "Caught on the Iron Fence",
+    "region": "Bowser Kingdom 1st Visit",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-012"
+  },
+  {
+    "name": "On the Giant Bowser Statue's Nose",
+    "region": "Bowser Kingdom Poison Swamp",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-13-013"
+  },
+  {
+    "name": "Inside a Block in the Castle",
+    "region": "Bowser Kingdom Outer Wall",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-014"
+  },
+  {
+    "name": "Caught Hopping at Bowser's Castle!",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-015"
+  },
+  {
+    "name": "Exterminate the Ogres!",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-13-016"
+  },
+  {
+    "name": "Bowser's Kingdom Timer Challenge 1",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-017"
+  },
+  {
+    "name": "Taking Notes: Between Spinies",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-018"
+  },
+  {
+    "name": "Stack Up Above the Wall",
+    "region": "Bowser Kingdom 1st Visit",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Goomba|)}",
+    "sort-key": "row-13-019"
+  },
+  {
+    "name": "Hidden Corridor Under the Floor",
+    "region": "Bowser Kingdom Outer Wall",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-020"
+  },
+  {
+    "name": "Poking Your Nose in the Plaster Wall",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Pokio|)}",
+    "sort-key": "row-13-021"
+  },
+  {
+    "name": "Poking the Turret Wall",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Pokio|)}",
+    "sort-key": "row-13-022"
+  },
+  {
+    "name": "Poking Your Nose by the Great Gate",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Pokio|)}",
+    "sort-key": "row-13-023"
+  },
+  {
+    "name": "Jizo All in a Row",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Jizo|)}",
+    "sort-key": "row-13-024"
+  },
+  {
+    "name": "Underground Jizo",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Jizo|)}",
+    "sort-key": "row-13-025"
+  },
+  {
+    "name": "Found Behind Bars!",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Spark Pylon|)}",
+    "sort-key": "row-13-026"
+  },
+  {
+    "name": "Fishing(?) in Bowser's Castle",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Lakitu|)}",
+    "sort-key": "row-13-027"
+  },
+  {
+    "name": "Good to See You, Captain Toad!",
+    "region": "Bowser Kingdom Outer Wall",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-028"
+  },
+  {
+    "name": "Shopping at Bowser's Castle",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-029"
+  },
+  {
+    "name": "Bowser's Castle Treasure Vault",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-030"
+  },
+  {
+    "name": "Scene of Crossing the Poison Swamp",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Outfit Requirements",
+    "sort-key": "row-13-031"
+  },
+  {
+    "name": "Taking Notes: In the Folding Screen",
+    "region": "Bowser Kingdom Courtyards",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Outfit Requirements",
+    "sort-key": "row-13-032"
+  },
+  {
+    "name": "On Top of the Spinning Tower",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Pokio|)}",
+    "sort-key": "row-13-033"
+  },
+  {
+    "name": "Down and Up the Spinning Tower",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Pokio|)}",
+    "sort-key": "row-13-034"
+  },
+  {
+    "name": "Jizo's Big Adventure",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptAll(|Jizo| and |Wall Jump|)}",
+    "sort-key": "row-13-035"
+  },
+  {
+    "name": "Jizo and the Hidden Room",
+    "region": "Bowser Kingdom Post Peace",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptAll(|Jizo| and |Wall Jump|)}",
+    "sort-key": "row-13-036"
+  },
+  {
+    "name": "Dashing Above the Clouds",
+    "region": "Bowser Kingdom Poison Swamp",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Hold/Throw|)}",
+    "sort-key": "row-13-037"
+  },
+  {
+    "name": "Dashing Through the Clouds",
+    "region": "Bowser Kingdom Poison Swamp",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Hold/Throw|)}",
+    "sort-key": "row-13-038"
+  },
+  {
+    "name": "Sphynx Over Bowser's Castle",
+    "region": "Bowser Kingdom Post Game",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Binoculars|)}",
+    "sort-key": "row-13-039"
+  },
+  {
+    "name": "I Met a Pokio!",
+    "region": "Bowser Kingdom Post Game",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Pokio|)}",
+    "sort-key": "row-13-040"
+  },
+  {
+    "name": "Bowser's Kingdom Regular Cup",
+    "region": "Bowser Kingdom Post Game",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "|Momentum|",
+    "sort-key": "row-13-041"
+  },
+  {
+    "name": "A Rumble Under the Arena Floor",
+    "region": "Bowser Kingdom Post Game",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-13-042"
+  },
+  {
+    "name": "Secret Path to Bowser's Castle!",
+    "region": "Bowser Kingdom Post Game",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-13-043"
+  },
+  {
+    "name": "Peach in Bowser's Kingdom",
+    "region": "Bowser Kingdom Post Game",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Peach",
+    "sort-key": "row-13-044"
+  },
+  {
+    "name": "Found with Bowser's Kingdom Art",
+    "region": "Bowser Kingdom Post Game",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-13-045"
+  },
+  {
+    "name": "Behind the Tall Wall: Poke, Poke!",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-046"
+  },
+  {
+    "name": "From Crates in the Moat",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-047"
+  },
+  {
+    "name": "Caught on the Giant Horn",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-048"
+  },
+  {
+    "name": "Inside a Block at the Gate",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-049"
+  },
+  {
+    "name": "Small Bird in Bowser's Castle",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-050"
+  },
+  {
+    "name": "Invader in Bowser's Castle",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-051"
+  },
+  {
+    "name": "Jumping from Flag to Flag",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-052"
+  },
+  {
+    "name": "Bowser's Kingdom Timer Challenge 2",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-053"
+  },
+  {
+    "name": "Taking Notes: On the Wall",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-054"
+  },
+  {
+    "name": "Taking Notes with a Spinning Throw",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-055"
+  },
+  {
+    "name": "Third Courtyard Outskirts",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-056"
+  },
+  {
+    "name": "Stone Wall Circuit",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-057"
+  },
+  {
+    "name": "Bowser's Kingdom Master Cup",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-058"
+  },
+  {
+    "name": "Searching Hexagon Tower",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-059"
+  },
+  {
+    "name": "Center of Hexagon Tower",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-060"
+  },
+  {
+    "name": "Climb the Wooden Tower",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-061"
+  },
+  {
+    "name": "Poke the Wooden Tower",
+    "region": "Bowser Kingdom Moon Rock",
+    "category": [
+      "Bowser Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-13-062"
+  },
   {
     "name": "Shining Above the Moon",
     "region": "Moon Kingdom 1st Visit",
@@ -6652,7 +7364,7 @@
     "name": "Arrival at Rabbit Ridge!",
     "region": "Dark Side",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Hammer Bro|)}",
     "place_item": "Dark Side Mecha-Broodal Multimoon",
@@ -6662,7 +7374,7 @@
     "name": "Captain Toad on the Dark Side!",
     "region": "Dark Side",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "",
     "sort-key": "row-16-002"
@@ -6671,7 +7383,7 @@
     "name": "Breakdown Road: Hurry!",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptAll(|Scarecrow| AND |Long Jump|)}",
     "sort-key": "row-16-003"
@@ -6680,7 +7392,7 @@
     "name": "Breakdown Road: Final Challenge!",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptAll(|Scarecrow| AND |Long Jump|)}",
     "sort-key": "row-16-004"
@@ -6689,7 +7401,7 @@
     "name": "Invisible Road: Rush!",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Scarecrow|)}",
     "sort-key": "row-16-005"
@@ -6698,7 +7410,7 @@
     "name": "Invisible Road: Secret!",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptAll(|Scarecrow| AND |Ground Pound|)}",
     "sort-key": "row-16-006"
@@ -6707,7 +7419,7 @@
     "name": "Vanishing Road Rush",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptAll(|Scarecrow| AND |Momentum|)}",
     "sort-key": "row-16-007"
@@ -6716,7 +7428,7 @@
     "name": "Vanishing Road Challenge",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptAll(|Scarecrow| AND |Momentum|)}",
     "sort-key": "row-16-008"
@@ -6725,7 +7437,7 @@
     "name": "Yoshi Under Siege",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-16-009"
@@ -6734,7 +7446,7 @@
     "name": "Fruit Feast Under Siege",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-16-010"
@@ -6743,7 +7455,7 @@
     "name": "Yoshi on the Sinking Island",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-16-011"
@@ -6752,7 +7464,7 @@
     "name": "Fruit Feast on the Sinking Island",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-16-012"
@@ -6761,7 +7473,7 @@
     "name": "Yoshi's Magma Swamp",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-16-013"
@@ -6770,7 +7482,7 @@
     "name": "Fruit Feast in the Magma Swamp!",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-16-014"
@@ -6779,7 +7491,7 @@
     "name": "Found with Dark Side Art 1",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-015"
@@ -6788,7 +7500,7 @@
     "name": "Found with Dark Side Art 2",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-016"
@@ -6797,7 +7509,7 @@
     "name": "Found with Dark Side Art 3",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-017"
@@ -6806,7 +7518,7 @@
     "name": "Found with Dark Side Art 4",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-018"
@@ -6815,7 +7527,7 @@
     "name": "Found with Dark Side Art 5",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptAll(|Ground Pound| AND |Dive| AND (|High Jump| OR |Spin| OR |Wall Jump| OR |Cap Jump|))}",
     "sort-key": "row-16-019"
@@ -6824,7 +7536,7 @@
     "name": "Found with Dark Side Art 6",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-020"
@@ -6833,7 +7545,7 @@
     "name": "Found with Dark Side Art 7",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-021"
@@ -6842,7 +7554,7 @@
     "name": "Found with Dark Side Art 8",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-022"
@@ -6851,7 +7563,7 @@
     "name": "Found with Dark Side Art 9",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-023"
@@ -6860,7 +7572,7 @@
     "name": "Found with Dark Side Art 10",
     "region": "Dark Side Post Mech",
     "category": [
-      "Dark Side Kingdom"
+      "Dark Side"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-16-024"
@@ -6873,7 +7585,6 @@
     ],
     "requires": "Test",
     "sort-key": "row-17-001",
-	"victory": true
+    "victory": true
   }
-  
 ]
