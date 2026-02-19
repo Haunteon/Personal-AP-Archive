@@ -5435,7 +5435,7 @@
       "Ruined Kingdom"
     ],
     "requires": "{OptOne(|Spark Pylon|)}",
-    "place_item": "|Ruined Kingdom Dragon Multimoon|",
+    "place_item": ["|Ruined Kingdom Dragon Multimoon|"],
     "sort-key": "row-12-001"
   },
   {
@@ -7367,7 +7367,7 @@
       "Dark Side"
     ],
     "requires": "{OptOne(|Hammer Bro|)}",
-    "place_item": "|Dark Side Mecha-Broodal Multimoon|",
+    "place_item": ["|Dark Side Mecha-Broodal Multimoon|"],
     "sort-key": "row-16-001"
   },
   {
