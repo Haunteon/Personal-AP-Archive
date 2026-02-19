@@ -2669,7 +2669,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "View of Lost",
+    "requires": "|View of Lost|",
     "sort-key": "row-07-008"
   },
   {
@@ -2705,7 +2705,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(View of Lost or (|Wall Jump| and |Dive|) or |Cap Jump|)}",
+    "requires": "{OptAll(|View of Lost| or (|Wall Jump| and |Dive|) or |Cap Jump|)}",
     "sort-key": "row-07-012"
   },
   {
@@ -2723,7 +2723,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(|Spin Throw| and (View of Lost or (|Wall Jump| and |Dive|) or |Cap Jump|))}",
+    "requires": "{OptAll(|Spin Throw| and (|View of Lost| or (|Wall Jump| and |Dive|) or |Cap Jump|))}",
     "sort-key": "row-07-014"
   },
   {
@@ -2759,7 +2759,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(View of Lost and |Glydon|)}",
+    "requires": "{OptAll(|View of Lost| and |Glydon|)}",
     "sort-key": "row-07-018"
   },
   {
@@ -2786,7 +2786,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "View of Lost",
+    "requires": "|View of Lost|",
     "sort-key": "row-07-021"
   },
   {
@@ -2813,7 +2813,7 @@
     "category": [
       "Lost Kingdom"
     ],
-    "requires": "{OptAll(Momentum and View of Lost)}",
+    "requires": "{OptAll(|Momentum| and |View of Lost|)}",
     "sort-key": "row-07-024"
   },
   {
