@@ -4844,7 +4844,7 @@
     "category": [
       "Ruined Kingdom"
     ],
-    "requires": "{OptOne(|Spark Pylon|)}",
+    "requires": "Peach",
     "sort-key": "row-12-005"
   },
   {
@@ -4891,5 +4891,347 @@
     ],
     "requires": "Test",
     "sort-key": "row-12-010"
+  },
+  {
+    "name": "Shining Above the Moon",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-001"
+  },
+  {
+    "name": "Along the Cliff Face",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-002"
+  },
+  {
+    "name": "The Tip of a White Spire",
+    "region": "Moon Kingdom Post Moon Cave",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Frog|)}",
+    "sort-key": "row-14-003"
+  },
+  {
+    "name": "Rolling Rock on the Moon",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Hold/Throw|)}",
+    "sort-key": "row-14-004"
+  },
+  {
+    "name": "Caught Hopping on the Moon!",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-005"
+  },
+  {
+    "name": "Cliffside Treasure Chest",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-006"
+  },
+  {
+    "name": "Moon Kingdom Timer Challenge 1",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Long Jump|)}",
+    "sort-key": "row-14-007"
+  },
+  {
+    "name": "Taking Notes: On the Moon's Surface",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Long Jump|)}",
+    "sort-key": "row-14-008"
+  },
+  {
+    "name": "Under the Bowser Statue",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Bowser Statue|)}",
+    "sort-key": "row-14-009"
+  },
+  {
+    "name": "In a Hole in the Magma",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Parabones|)}",
+    "sort-key": "row-14-010"
+  },
+  {
+    "name": "Around the Barrier Wall",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Bonzai Bill|)}",
+    "sort-key": "row-14-011"
+  },
+  {
+    "name": "On Top of the Cannon",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Bonzai Bill|)}",
+    "sort-key": "row-14-012"
+  },
+  {
+    "name": "Fly to the Treasure Chest and Back",
+    "region": "Moon Kingdom 1st Visit",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Bonzai Bill|)}",
+    "sort-key": "row-14-013"
+  },
+  {
+    "name": "Up in the Rafters",
+    "region": "Moon Kingdom Post Moon Cave",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Frog|)}",
+    "sort-key": "row-14-014"
+  },
+  {
+    "name": "Sneaking Around in the Crater",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-14-015"
+  },
+  {
+    "name": "Found on the Moon, Good Dog!",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Ground Pound|)}",
+    "sort-key": "row-14-016"
+  },
+  {
+    "name": "Moon Shards on the Moon",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptOne(|Frog|)}",
+    "sort-key": "row-14-017"
+  },
+  {
+    "name": "Moon Quiz: Amazing!",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-018"
+  },
+  {
+    "name": "Thanks, Captain Toad!",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-019"
+  },
+  {
+    "name": "Shopping in Honeylune Ridge",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-020"
+  },
+  {
+    "name": "Walking on the Moon!",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-021"
+  },
+  {
+    "name": "Moon Kingdom Regular Cup",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "{OptAll(|Wall Jump| AND |Momentum|)}",
+    "sort-key": "row-14-022"
+  },
+  {
+    "name": "Doctor in the House",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-023"
+  },
+  {
+    "name": "Sphynx's Hidden Vault",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-024"
+  },
+  {
+    "name": "A Tourist in the Moon Kingdom!",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Tourist",
+    "sort-key": "row-14-025"
+  },
+  {
+    "name": "Peach in the Moon Kingdom",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Peach",
+    "sort-key": "row-14-026"
+  },
+  {
+    "name": "Found with Moon Kingdom Art",
+    "region": "Moon Kingdom Post Game",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "",
+    "sort-key": "row-14-027"
+  },
+  {
+    "name": "Mysterious Flying Object",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-028"
+  },
+  {
+    "name": "Hidden on the Side of the Cliff",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-029"
+  },
+  {
+    "name": "Jumping High as a Frog",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-030"
+  },
+  {
+    "name": "Moon Kingdom Timer Challenge 2",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-031"
+  },
+  {
+    "name": "Walking on the Moon: Again!",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-032"
+  },
+  {
+    "name": "Moon Kingdom Master Cup",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-033"
+  },
+  {
+    "name": "Taking Notes: In Low Gravity",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-034"
+  },
+  {
+    "name": "Center of the Galaxy",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-035"
+  },
+  {
+    "name": "Edge of the Galaxy",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-036"
+  },
+  {
+    "name": "Navigating Giant Swings",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-037"
+  },
+  {
+    "name": "A Swing on Top of a Swing",
+    "region": "Moon Kingdom Moon Rock",
+    "category": [
+      "Moon Kingdom"
+    ],
+    "requires": "Test",
+    "sort-key": "row-14-038"
   }
 ]
