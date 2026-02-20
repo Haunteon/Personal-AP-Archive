@@ -203,6 +203,11 @@
     "visible": false
   },
   {
+	"name": "Post Game",
+	"copy_location": "Rescue Princess Peach",
+    "visible": false
+  },
+  {
 	"name": "Test",
 	"requires": "|Unobtainium|",
     "visible": false

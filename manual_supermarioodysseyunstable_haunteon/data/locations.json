@@ -459,7 +459,7 @@
     "sort-key": "row-02-017"
   },
   {
-    "name": "Secreth Path to Fossil Falls!",
+    "name": "Secret Path to Fossil Falls!",
     "region": "Cascade Kingdom Post Peace",
     "category": [
       "02 Cascade Kingdom"
@@ -1946,7 +1946,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (  ))}",
+    "requires": "{OptAll(|Uproot| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin|)))}",
     "sort-key": "row-05-010"
   },
   {
@@ -1955,7 +1955,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (  ))}",
+    "requires": "{OptAll(|Uproot| or |Fire Bro| or |Cap Vault| or (|High Jump| and |Wall Jump| and |Dive|))}",
     "sort-key": "row-05-011"
   },
   {
@@ -2072,7 +2072,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (  ))}",
+    "requires": "",
     "sort-key": "row-05-024"
   },
   {
@@ -2252,7 +2252,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Goomba| or (  ))}",
+    "requires": "{OptAll(|Goomba| or (|Cap Vault| or (|Wall Jump| and |Dive|)))}",
     "sort-key": "row-05-044"
   },
   {
@@ -3968,11 +3968,11 @@
   },
   {
     "name": "Secret Path to Shiveria!",
-    "region": "Snow Kingdom Post Game",
+    "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom"
     ],
-    "requires": "",
+    "requires": "|Post Game|",
     "sort-key": "row-09-033"
   },
   {
@@ -4236,7 +4236,7 @@
     "category": [
       "10 Seaside Kingdom"
     ],
-    "requires": "Gushen or",
+    "requires": "{OptAll(|Gushen| or (|Wall Jump| and (|Cap Vault| or ({YamlEnabled(hard_trick_jumps)} and |High Jump| and |Cap Jump|))))}",
     "sort-key": "row-10-007"
   },
   {
@@ -4308,7 +4308,7 @@
     "category": [
       "10 Seaside Kingdom"
     ],
-    "requires": "Gushen or Glydon or",
+    "requires": "",
     "sort-key": "row-10-015"
   },
   {
@@ -4470,7 +4470,7 @@
     "category": [
       "10 Seaside Kingdom"
     ],
-    "requires": "Test Glydon Peace only",
+    "requires": "{OptOne(|Glydon|)}",
     "sort-key": "row-10-033"
   },
   {
@@ -4614,7 +4614,7 @@
     "category": [
       "10 Seaside Kingdom"
     ],
-    "requires": "or Gushen",
+    "requires": "{OptOne(|Gushen|)} or |Post Game|",
     "sort-key": "row-10-049"
   },
   {
@@ -4944,7 +4944,7 @@
     "category": [
       "11 Luncheon Kingdom"
     ],
-    "requires": "{OptAll((|Wall Jump| and |Dive|) or |Cap Vault|)} or Luncheon Kingdom Cheese Story Moon",
+    "requires": "{OptAll((|Wall Jump| and |Dive|) or |Cap Vault|)} or |Luncheon Kingdom Cheese Story Moon|",
     "sort-key": "row-11-013"
   },
   {
@@ -6325,7 +6325,7 @@
     "category": [
       "14 Moon Kingdom"
     ],
-    "requires": "Peach",
+    "requires": "|Peach Moon|",
     "sort-key": "row-14-026"
   },
   {
@@ -6595,7 +6595,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "Check Notes",
+    "requires": "",
     "sort-key": "row-15-018"
   },
   {
@@ -6739,7 +6739,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "Check Notes",
+    "requires": "{OptAll(|Uproot| and (|Hold/Throw| or |Yoshi| or (|Dive| and |Wall Jump| and (|Goomba| or (|Cap Jump| and (|Back Flip| or (|Ground Pound| and |Ground Pound Jump|)))))))}",
     "sort-key": "row-15-034"
   },
   {
@@ -6780,11 +6780,11 @@
   },
   {
     "name": "Secret Path to Peach's Castle!",
-    "region": "Mushroom Kingdom Post Game",
+    "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "",
+    "requires": "|Lava Bubble|",
     "sort-key": "row-15-039"
   },
   {
@@ -6811,7 +6811,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "Peach",
+    "requires": "|Peach Mushroom|",
     "sort-key": "row-15-042"
   },
   {
@@ -6820,7 +6820,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "Peach",
+    "requires": "|Peach Mushroom|",
     "sort-key": "row-15-043"
   },
   {
