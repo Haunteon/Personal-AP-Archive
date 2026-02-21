@@ -28,7 +28,6 @@
   },
   {
     "name": "Long Journey's End",
-    "region": "Darker Side",
     "category": [
       "00 Events"
     ],
@@ -6874,9 +6873,8 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
-    "sort-key": "row-15-044",
-    "victory": true
+    "requires": "",
+    "sort-key": "row-15-044"
   },
   {
     "name": "Achieve World Peace",
@@ -6885,8 +6883,7 @@
       "15 Mushroom Kingdom"
     ],
     "requires": "|Achievement|",
-    "sort-key": "row-15-045",
-    "victory": true
+    "sort-key": "row-15-045"
   },
   {
     "name": "Power Moon Knight",
@@ -7643,7 +7640,6 @@
       "17 Darker Side"
     ],
     "requires": "{OptAll(|Wall Jump| and |Lava Bubble| and |Uproot| and |Swim| and |Yoshi| and |Scarecrow| and |Glydon|)}",
-    "sort-key": "row-17-001",
-    "victory": true
+    "sort-key": "row-17-001"
   }
 ]
