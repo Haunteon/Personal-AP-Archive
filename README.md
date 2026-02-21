@@ -58,6 +58,7 @@ Roadmap
   - Extra Captures 
 - Regional Coin Checks
   - Just enough to get you all the Outfit Door Moons
+- Sort-Key Items in their Categories 
 
 Capture Sanity Starting Items
 - Frog
