@@ -203,6 +203,26 @@
     "visible": false
   },
   {
+	"name" : "Goal 1",
+	"copy_location": "",
+	"visible": false
+  },
+  {
+	"name" : "Goal 2",
+	"copy_location": "",
+	"visible": false
+  },
+  {
+	"name" : "Goal 3",
+	"copy_location": "",
+	"visible": false
+  },
+  {
+	"name" : "Goal 4",
+	"copy_location": "",
+	"visible": false
+  },
+  {
 	"name": "Post Game",
 	"copy_location": "Rescue Princess Peach",
     "visible": false
