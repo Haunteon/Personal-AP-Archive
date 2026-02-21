@@ -40,7 +40,7 @@
     "category": [
 	  "00 Events"
 	],
-	"requires": "|Power Moon:880|",
+	"requires": "|Unobtainium|",
 	"victory": true,
 	"sort-key": "row-00-005"
   },
@@ -5164,7 +5164,7 @@
   },
   {
     "name": "Bon Appétit, Captain Toad!",
-    "region": "Luncheon Kingdom Post Meat",
+    "region": "Luncheon Kingdom Post Cave",
     "category": [
       "11 Luncheon Kingdom"
     ],
@@ -7341,7 +7341,7 @@
     "category": [
       "15 Mushroom Kingdom", "Moon Rock"
     ],
-    "requires": "|Achievement|",
+    "requires": "|Moon Power|",
     "sort-key": "row-15-096"
   },
   {
@@ -7350,7 +7350,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "{OptAll(|Ty-foo| and |Lava Bubble|)} and |Sand Kingdom Hariet Multimoon| and |Into the Lake| and |Sherm Wall| and |Metro Kingdom Mechawiggler Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Seaside Kingdom Mollusque-Lanceur Multimoon| and |Luncheon Kingdom Cheese Story Moon| and |Post Game|",
     "sort-key": "row-15-097"
   },
   {
@@ -7377,7 +7377,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "",
     "sort-key": "row-15-100"
   },
   {
@@ -7386,7 +7386,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "",
     "sort-key": "row-15-101"
   },
   {
@@ -7395,7 +7395,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "",
     "sort-key": "row-15-102"
   },
   {
@@ -7404,7 +7404,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "",
     "sort-key": "row-15-103"
   },
   {
@@ -7413,7 +7413,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "",
     "sort-key": "row-15-104"
   },
   {
@@ -7585,7 +7585,7 @@
     "category": [
       "16 Dark Side", "Post Game"
     ],
-    "requires": "{OptAll(|Ground Pound| AND |Dive| AND (|High Jump| OR |Spin| OR |Wall Jump| OR |Cap Jump|))}",
+    "requires": "{OptAll(|Ground Pound| AND |After Gusty Barrier| and |Dive| AND (|High Jump| OR |Spin| OR |Wall Jump| OR |Cap Jump|))}",
     "sort-key": "row-16-019"
   },
   {
@@ -7639,8 +7639,8 @@
     "category": [
       "17 Darker Side", "Post Game"
     ],
-    "requires": "{OptAll(|Wall Jump| and |Lava Bubble| and |Uproot| and |Swim| and |Yoshi| and |Scarecrow| and |Glydon|)}",
-	"_comment": "|Volbonan| and || and || and || and || and || and || and || and || and || and || and || and || and || and ||",
+    "requires": "{OptAll(|Frog| and |Climb| and |Wall Jump| and |Swing| and |Lava Bubble| and |Uproot| and |Swim| and |Yoshi| and |Scarecrow| and |Glydon| and |Dive| and |Bowser| and |Spark Pylon|)}",
+	"_comment": "Swing > |Triple Jump|, Uproot/Lots of Movement, Scarecrow + |Down Throw| Skip section, Glydon > |Volbonan| and || and || and || and || and || and || and || and || and || and || and ||",
     "sort-key": "row-17-001"
   }
 ]
