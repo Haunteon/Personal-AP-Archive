@@ -39,9 +39,15 @@
     "visible": false
   },
   {
+    "name": "To the Wall",
+	"region": "Wooded Kingdom Post Spewart",
+    "requires": "{OptAll(|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|))}",
+    "visible": false
+  },
+  {
     "name": "Sherm Wall",
 	"region": "Wooded Kingdom Post Spewart",
-    "requires": "{OptAll((|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|)) and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|)))}",
+    "requires": "{OptAll(|To the Wall| and (|Sherm| or (|Goomba| and |Wall Jump| and |Dive|)))}",
     "visible": false
   },
   {
