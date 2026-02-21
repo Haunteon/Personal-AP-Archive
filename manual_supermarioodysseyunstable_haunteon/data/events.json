@@ -17,13 +17,13 @@
   {
     "name": "Pyramid Skip",
     "region": "Sand Kingdom 1st Visit",
-	"requires": "{OptAll(|Bullet Bill| or ((|Long Jump| or |Triple Jump|) + Cap Vault))}",
+	"requires": "{OptAll(|Bullet Bill| or ((|Long Jump| or |Triple Jump|) and Cap Vault))}",
     "visible": false
   },
   {
     "name": "Into the Lake",
 	"region": "Lake Kingdom 1st Visit",
-    "requires": "{OptAll((|Zipper| and |Swim|) or (|Cap Vault| and (|High Jump| OR |Long Jump| OR (|Triple Jump| AND |Wall Jump|))) OR (|Cap Jump| AND |Triple Jump| AND |Wall Jump| AND |Goomba|))}",
+    "requires": "{OptAll((|Zipper| and |Swim|) or (|Cap Vault| and (|High Jump| or |Long Jump| or (|Triple Jump| and |Wall Jump|))) or (|Cap Jump| and |Triple Jump| and |Wall Jump| and |Goomba|))}",
     "visible": false
   },
   {
@@ -198,11 +198,6 @@
     "visible": false
   },
   {
-	"name": "Achievement",
-	"requires": "|Unobtainium|",
-    "visible": false
-  },
-  {
 	"name" : "Goal 1",
 	"copy_location": "A Traditional Festival!",
 	"visible": false
@@ -225,6 +220,11 @@
   {
 	"name": "Post Game",
 	"copy_location": "Rescue Princess Peach",
+    "visible": false
+  },
+  {
+	"name": "Achievement",
+	"requires": "|Unobtainium|",
     "visible": false
   },
   {
