@@ -35,12 +35,16 @@
 		"yaml_option": ["post_peace_moons"],
 		"hidden": true
 	},
+	"Post Metro": {
+		"yaml_option": ["post_metro_moons"],
+		"hidden": true
+	},
 	"Post Game": {
-		"yaml_option": ["post_game_moons"],
+		"yaml_option": ["post_metro_moons", "post_game_moons"],
 		"hidden": true
 	},
 	"Moon Rock": {
-		"yaml_option": ["post_game_moons", "moon_rock_moons"],
+		"yaml_option": ["post_metro_moons", "post_game_moons", "moon_rock_moons"],
 		"hidden": true
 	}
 }
