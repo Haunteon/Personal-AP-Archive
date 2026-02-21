@@ -31,10 +31,6 @@
 		"yaml_option": ["hard_trick_jumps"],
 		"hidden": true
 	},
-	"Post Peace": {
-		"yaml_option": ["post_peace_moons"],
-		"hidden": true
-	},
 	"Post Metro": {
 		"yaml_option": ["post_metro_moons"],
 		"hidden": true
@@ -45,6 +41,10 @@
 	},
 	"Moon Rock": {
 		"yaml_option": ["post_metro_moons", "post_game_moons", "moon_rock_moons"],
+		"hidden": true
+	},
+	"Dev": {
+		"yaml_option": ["dev_item"],
 		"hidden": true
 	}
 }
