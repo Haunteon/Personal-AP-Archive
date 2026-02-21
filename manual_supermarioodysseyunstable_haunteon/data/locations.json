@@ -1,27 +1,73 @@
 [
   {
+    "name": "Festival",
+    "category": [
+      "00 Events"
+    ],
+    "requires": "|Goal 1|",
+    "victory": true,
+    "sort-key": "row-00-001"
+  },
+  {
+    "name": "Defeat Bowser",
+    "category": [
+      "00 Events"
+    ],
+    "requires": "|Goal 2|",
+    "victory": true,
+    "sort-key": "row-00-002"
+  },
+  {
+    "name": "World Peace",
+    "category": [
+      "00 Events"
+    ],
+    "requires": "|Goal 3|",
+    "victory": true,
+    "sort-key": "row-00-003"
+  },
+  {
+    "name": "Long Journey's End",
+    "region": "Darker Side",
+    "category": [
+      "00 Events"
+    ],
+    "requires": "|Goal 4|",
+    "victory": true,
+    "sort-key": "row-00-004"
+  },
+  {
+	"name": "All Moons",
+    "category": [
+	  "00 Events"
+	],
+	"requires": "|Power Moon:880|",
+	"victory": true,
+	"sort-key": "row-00-005"
+  },
+  {
     "name": "Taxi is Here",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "00 NPC"
+      "00 Events"
     ],
     "requires": "",
 	"place_item": [
       "Travel Guide"
     ],
-    "sort-key": "row-00-001"
+    "sort-key": "row-00-006"
   },
   {
     "name": "Peach is Gone",
     "region": "Mushroom Kingdom Post Game",
     "category": [
-      "00 NPC"
+      "00 Events"
     ],
     "requires": "",
 	"place_item": [
       "Suitcase"
     ],
-    "sort-key": "row-00-002"
+    "sort-key": "row-00-007"
   },
   {
     "name": "Frog-Jumping Above the Fog",
@@ -3003,7 +3049,6 @@
       "08 Metro Kingdom"
     ],
     "requires": "{OptOne(|Manhole|)}",
-    "victory": true,
     "place_item": [
       "Metro Kingdom Festival Multimoon"
     ],
