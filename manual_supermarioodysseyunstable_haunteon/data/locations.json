@@ -225,7 +225,7 @@
     "name": "Next to Glasses Bridge",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "",
     "sort-key": "row-01-018"
@@ -234,7 +234,7 @@
     "name": "Danger Sign",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptOne(|Paragoomba|)}",
     "sort-key": "row-01-019"
@@ -243,7 +243,7 @@
     "name": "Under the Big One's Brim",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "",
     "sort-key": "row-01-020"
@@ -252,7 +252,7 @@
     "name": "Fly to the Edge of the Fog",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptOne(|Paragoomba|)}",
     "sort-key": "row-01-021"
@@ -261,7 +261,7 @@
     "name": "Spin the Hat, Get a Prize",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "",
     "sort-key": "row-01-022"
@@ -270,7 +270,7 @@
     "name": "Hidden in a Sunken Hat",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptAll(|Paragoomba| or ((|Long Jump| or |Triple Jump|) and |Cap Vault|))}",
     "sort-key": "row-01-023"
@@ -279,7 +279,7 @@
     "name": "Fog-Shrouded Platform",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-01-024"
@@ -288,7 +288,7 @@
     "name": "Bird Traveling in the Fog",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptOne(|Paragoomba|)}",
     "sort-key": "row-01-025"
@@ -297,7 +297,7 @@
     "name": "Caught Hopping Near the Ship!",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "",
     "sort-key": "row-01-026"
@@ -306,7 +306,7 @@
     "name": "Taking Notes: In the Fog",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptOne(|Paragoomba|)}",
     "sort-key": "row-01-027"
@@ -315,7 +315,7 @@
     "name": "Cap Kingdom Timer Challenge 2",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "",
     "sort-key": "row-01-028"
@@ -324,7 +324,7 @@
     "name": "Cap Kingdom Master Cup",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "|Momentum|",
     "sort-key": "row-01-029"
@@ -333,7 +333,7 @@
     "name": "Roll On and On",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptOne(|Roll|)}",
     "sort-key": "row-01-030"
@@ -342,7 +342,7 @@
     "name": "Precision Rolling",
     "region": "Cap Kingdom Moon Rock",
     "category": [
-      "01 Cap Kingdom"
+      "01 Cap Kingdom", "Moon Rock"
     ],
     "requires": "{OptOne(|Roll|)}",
     "sort-key": "row-01-031"
@@ -579,7 +579,7 @@
     "name": "Bottom of the Waterfall Basin",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-026"
@@ -588,7 +588,7 @@
     "name": "Just a Hat, Skip, and a Jump",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-027"
@@ -597,7 +597,7 @@
     "name": "Treasure Under the Cliff",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-028"
@@ -606,7 +606,7 @@
     "name": "Next to the Stone Arch",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-029"
@@ -615,7 +615,7 @@
     "name": "Guarded by a Colossal Fossil",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-030"
@@ -624,7 +624,7 @@
     "name": "Under the Old Electrical Pole",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-031"
@@ -633,7 +633,7 @@
     "name": "Under the Ground",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-032"
@@ -642,7 +642,7 @@
     "name": "Inside the Busted Fossil",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-033"
@@ -651,7 +651,7 @@
     "name": "Caught Hopping at the Waterfall!",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-034"
@@ -660,7 +660,7 @@
     "name": "Taking Notes: Hurry Upward",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-035"
@@ -669,7 +669,7 @@
     "name": "Cascade Kingdom Master Cup",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-036"
@@ -678,7 +678,7 @@
     "name": "Across the Mysterious Clouds",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-037"
@@ -687,7 +687,7 @@
     "name": "Atop a Wall Among the Clouds",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-038"
@@ -696,7 +696,7 @@
     "name": "Across the Gusty Bridges",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-039"
@@ -705,7 +705,7 @@
     "name": "Flying Far Away from Gusty Bridges",
     "region": "Cascade Kingdom Moon Rock",
     "category": [
-      "02 Cascade Kingdom"
+      "02 Cascade Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-02-040"
@@ -1341,7 +1341,7 @@
     "name": "Mighty Leap from the Palm Tree!",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-070"
@@ -1350,7 +1350,7 @@
     "name": "On the North Pillar",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-071"
@@ -1359,7 +1359,7 @@
     "name": "Into the Flowing Sands",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-072"
@@ -1368,7 +1368,7 @@
     "name": "In the Skies Above the Canyon",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-073"
@@ -1377,7 +1377,7 @@
     "name": "Island in the Poison Swamp",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-074"
@@ -1386,7 +1386,7 @@
     "name": "An Invisible Gleam",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-075"
@@ -1395,7 +1395,7 @@
     "name": "On the Eastern Pillar",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-076"
@@ -1404,7 +1404,7 @@
     "name": "Caught Hopping in the Desert!",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-077"
@@ -1413,7 +1413,7 @@
     "name": "Poster Cleanup",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-078"
@@ -1422,7 +1422,7 @@
     "name": "Taking Notes: Running Down",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-079"
@@ -1431,7 +1431,7 @@
     "name": "Taking Notes: In the Wall Painting",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-080"
@@ -1440,7 +1440,7 @@
     "name": "Love at the Edge of the Desert",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-081"
@@ -1449,7 +1449,7 @@
     "name": "More Walking in the Desert!",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-082"
@@ -1458,7 +1458,7 @@
     "name": "Sand Kingdom Master Cup",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-083"
@@ -1467,7 +1467,7 @@
     "name": "Where the Transparent Platforms End",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-084"
@@ -1476,7 +1476,7 @@
     "name": "Jump Onto the Transparent Lift",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-085"
@@ -1485,7 +1485,7 @@
     "name": "Colossal Ruins: Dash! Jump!",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-086"
@@ -1494,7 +1494,7 @@
     "name": "Sinking Colossal Ruins: Hurry!",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-087"
@@ -1503,7 +1503,7 @@
     "name": "Through the Freezing Waterway",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-088"
@@ -1512,7 +1512,7 @@
     "name": "Freezing Waterway: Hidden Room",
     "region": "Sand Kingdom Moon Rock",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-03-089"
@@ -1821,7 +1821,7 @@
     "name": "Behind the Floodgate",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-034"
@@ -1830,7 +1830,7 @@
     "name": "High-Flying Leap",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-035"
@@ -1839,7 +1839,7 @@
     "name": "Deep, Deep Down",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-036"
@@ -1848,7 +1848,7 @@
     "name": "Rooftop of the Water Plaza",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-037"
@@ -1857,7 +1857,7 @@
     "name": "Bird Traveling Over the Lake",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-038"
@@ -1866,7 +1866,7 @@
     "name": "Love by the Lake",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-039"
@@ -1875,7 +1875,7 @@
     "name": "Lake Kingdom Master Cup",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-040"
@@ -1884,7 +1884,7 @@
     "name": "Waves of Poison: Hoppin' Over",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-041"
@@ -1893,7 +1893,7 @@
     "name": "Waves of Poison: Hop to It!",
     "region": "Lake Kingdom Moon Rock",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-04-042"
@@ -2394,7 +2394,7 @@
     "name": "High Up in the Cave",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-055"
@@ -2403,7 +2403,7 @@
     "name": "Lost in the Tall Trees",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-056"
@@ -2412,7 +2412,7 @@
     "name": "Looking Down on the Goombas",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-057"
@@ -2421,7 +2421,7 @@
     "name": "High Up on a Rock Wall",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-058"
@@ -2430,7 +2430,7 @@
     "name": "The Nut in the Robot Storeroom",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-059"
@@ -2439,7 +2439,7 @@
     "name": "Above the Iron Mountain Path",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-060"
@@ -2448,7 +2448,7 @@
     "name": "The Nut Under the Observation Deck",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-061"
@@ -2457,7 +2457,7 @@
     "name": "Bird Traveling the Forest",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-062"
@@ -2466,7 +2466,7 @@
     "name": "Invader in the Sky Garden",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-063"
@@ -2475,7 +2475,7 @@
     "name": "Hot, Hot, Hot from the Campfire",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-064"
@@ -2484,7 +2484,7 @@
     "name": "Wooded Kingdom Timer Challenge 3",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-065"
@@ -2493,7 +2493,7 @@
     "name": "Moon Shards in the Forest",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-066"
@@ -2502,7 +2502,7 @@
     "name": "Taking Notes: On Top of the Wall",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-067"
@@ -2511,7 +2511,7 @@
     "name": "Taking Notes: Stretching",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-068"
@@ -2520,7 +2520,7 @@
     "name": "Wooded Kingdom Master Cup",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-069"
@@ -2529,7 +2529,7 @@
     "name": "I Met an Uproot!",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-070"
@@ -2538,7 +2538,7 @@
     "name": "Invisible Road: Danger!",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-071"
@@ -2547,7 +2547,7 @@
     "name": "Invisible Road: Hidden Room",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-072"
@@ -2556,7 +2556,7 @@
     "name": "Herding Sheep Above the Forest Fog",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-073"
@@ -2565,7 +2565,7 @@
     "name": "Herding Sheep on the Iron Bridge",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-074"
@@ -2574,7 +2574,7 @@
     "name": "Down and Back Breakdown Road",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-075"
@@ -2583,7 +2583,7 @@
     "name": "Below Breakdown Road",
     "region": "Wooded Kingdom Moon Rock",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-05-076"
@@ -2610,7 +2610,7 @@
     "name": "Digging in the...Cloud?",
     "region": "Cloud Kingdom Moon Rock",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-06-003"
@@ -2619,7 +2619,7 @@
     "name": "High, High Above the Clouds",
     "region": "Cloud Kingdom Moon Rock",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-06-004"
@@ -2628,7 +2628,7 @@
     "name": "Crossing the Cloud Sea",
     "region": "Cloud Kingdom Moon Rock",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-06-005"
@@ -2637,7 +2637,7 @@
     "name": "Taking Notes: Up and Down",
     "region": "Cloud Kingdom Moon Rock",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-06-006"
@@ -2646,7 +2646,7 @@
     "name": "Picture Match: A Stellar Goomba!",
     "region": "Cloud Kingdom Moon Rock",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-06-007"
@@ -2655,7 +2655,7 @@
     "name": "King of the Cube!",
     "region": "Cloud Kingdom Moon Rock",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-06-008"
@@ -2664,7 +2664,7 @@
     "name": "The Sixth Face",
     "region": "Cloud Kingdom Moon Rock",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-06-009"
@@ -2898,7 +2898,7 @@
     "name": "The Shining Fruit",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-026"
@@ -2907,7 +2907,7 @@
     "name": "Jump Down to the Top of a Tree",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-027"
@@ -2916,7 +2916,7 @@
     "name": "Line It Up, Blow It Up",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-028"
@@ -2925,7 +2925,7 @@
     "name": "Taking Notes: Stretch and Shrink",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-029"
@@ -2934,7 +2934,7 @@
     "name": "Lost Kingdom Master Cup",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-030"
@@ -2943,7 +2943,7 @@
     "name": "Lost Kingdom Timer Challenge",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-031"
@@ -2952,7 +2952,7 @@
     "name": "Stretch and Traverse the Jungle",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-032"
@@ -2961,7 +2961,7 @@
     "name": "Aglow in the Jungle",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-033"
@@ -2970,7 +2970,7 @@
     "name": "Chasing Klepto",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-034"
@@ -2979,7 +2979,7 @@
     "name": "Extremely Hot Bath",
     "region": "Lost Kingdom Moon Rock",
     "category": [
-      "07 Lost Kingdom"
+      "07 Lost Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-07-035"
@@ -3588,7 +3588,7 @@
     "name": "Hanging Between Buildings",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-067"
@@ -3597,7 +3597,7 @@
     "name": "Crossing Lines",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-068"
@@ -3606,7 +3606,7 @@
     "name": "Out of a Crate in the City",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-069"
@@ -3615,7 +3615,7 @@
     "name": "Bird Traveling in the Park",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-070"
@@ -3624,7 +3624,7 @@
     "name": "Metro Kingdom Timer Challenge 3",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-071"
@@ -3633,7 +3633,7 @@
     "name": "Found in the Park! Good Dog!",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-072"
@@ -3642,7 +3642,7 @@
     "name": "RC Car Champ!",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-073"
@@ -3651,7 +3651,7 @@
     "name": "Metro Kingdom Master Cup",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-074"
@@ -3660,7 +3660,7 @@
     "name": "Hat-and-Seek: In the Crowd",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-075"
@@ -3669,7 +3669,7 @@
     "name": "Scaling Pitchblack Mountain",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-076"
@@ -3678,7 +3678,7 @@
     "name": "Reaching Pitchblack Island",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-077"
@@ -3687,7 +3687,7 @@
     "name": "Swinging Scaffolding: Jump!",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-078"
@@ -3696,7 +3696,7 @@
     "name": "Swinging Scaffolding: Break!",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-079"
@@ -3705,7 +3705,7 @@
     "name": "Motor Scooter Daredevil!",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-080"
@@ -3714,7 +3714,7 @@
     "name": "Full-Throttle Scooting!",
     "region": "Metro Kingdom Moon Rock",
     "category": [
-      "08 Metro Kingdom"
+      "08 Metro Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-08-081"
@@ -4059,7 +4059,7 @@
     "name": "Shining on High",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-038"
@@ -4068,7 +4068,7 @@
     "name": "Above the Freezing Fishing Pond",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-039"
@@ -4077,7 +4077,7 @@
     "name": "Ice Floe Swimming",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-040"
@@ -4086,7 +4086,7 @@
     "name": "Icy Jump Challenge",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-041"
@@ -4095,7 +4095,7 @@
     "name": "Forgotten in the Holding Room",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-042"
@@ -4104,7 +4104,7 @@
     "name": "It Popped Out of the Ice",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-043"
@@ -4113,7 +4113,7 @@
     "name": "Deep in the Cold, Cold Water",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-044"
@@ -4122,7 +4122,7 @@
     "name": "Water Pooling in the Crevasse",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-045"
@@ -4131,7 +4131,7 @@
     "name": "Squirming Under Ice",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-046"
@@ -4140,7 +4140,7 @@
     "name": "Snow Kingdom Timer Challenge 3",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-047"
@@ -4149,7 +4149,7 @@
     "name": "Stacked-Up Ice Climb",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-048"
@@ -4158,7 +4158,7 @@
     "name": "I Met a Snow Cheep Cheep!",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-049"
@@ -4167,7 +4167,7 @@
     "name": "Even More Walking on Ice!",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-050"
@@ -4176,7 +4176,7 @@
     "name": "Snow Kingdom Master Cup",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-051"
@@ -4185,7 +4185,7 @@
     "name": "Iceburn Circuit Class A",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-052"
@@ -4194,7 +4194,7 @@
     "name": "Iceburn Circult Class S",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-053"
@@ -4203,7 +4203,7 @@
     "name": "Running the Flower Road",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-054"
@@ -4212,7 +4212,7 @@
     "name": "Looking Back on the Flower Road",
     "region": "Snow Kingdom Moon Rock",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-09-055"
@@ -4692,7 +4692,7 @@
     "name": "Above the Parasol: Catch!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-053"
@@ -4701,7 +4701,7 @@
     "name": "What Shines Inside the Glass",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-054"
@@ -4710,7 +4710,7 @@
     "name": "A Fine Detail on the Glass",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-055"
@@ -4719,7 +4719,7 @@
     "name": "Underwater Highway West: Explore!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-056"
@@ -4728,7 +4728,7 @@
     "name": "Underwater Highway East: Explore!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-057"
@@ -4737,7 +4737,7 @@
     "name": "Rapid Ascent on Hot Spring Island",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-058"
@@ -4746,7 +4746,7 @@
     "name": "A Light Next to the Lighthouse",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-059"
@@ -4755,7 +4755,7 @@
     "name": "The Tall Rock Shelf in the Deep Ocean",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-060"
@@ -4764,7 +4764,7 @@
     "name": "At the Base of the Lighthouse",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-061"
@@ -4773,7 +4773,7 @@
     "name": "Bird Traveling Over the Ocean",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-062"
@@ -4782,7 +4782,7 @@
     "name": "Caught Hopping at Glass Palace!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-063"
@@ -4791,7 +4791,7 @@
     "name": "Seaside Kingdom Timer Challenge 3",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-064"
@@ -4800,7 +4800,7 @@
     "name": "Taking Notes: Ocean-Bottom Maze",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-065"
@@ -4809,7 +4809,7 @@
     "name": "Taking Notes in the Sea",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-066"
@@ -4818,7 +4818,7 @@
     "name": "Seaside Kingdom Master Cup",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-067"
@@ -4827,7 +4827,7 @@
     "name": "Aim! Poke!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-068"
@@ -4836,7 +4836,7 @@
     "name": "Poke! Roll!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-069"
@@ -4845,7 +4845,7 @@
     "name": "The Spinning Maze: Search!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-070"
@@ -4854,7 +4854,7 @@
     "name": "The Spinning Maze: Open!",
     "region": "Seaside Kingdom Moon Rock",
     "category": [
-      "10 Seaside Kingdom"
+      "10 Seaside Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-10-071"
@@ -5382,7 +5382,7 @@
     "name": "From Inside a Bright Stone",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-057"
@@ -5391,7 +5391,7 @@
     "name": "Under the Meat Plateau",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-058"
@@ -5400,7 +5400,7 @@
     "name": "On Top of a Tall, Tall Roof",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-059"
@@ -5409,7 +5409,7 @@
     "name": "From a Crack in the Hard Ground",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-060"
@@ -5418,7 +5418,7 @@
     "name": "By the Cannon Pointed at the Big Pot",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-061"
@@ -5427,7 +5427,7 @@
     "name": "Luncheon Kingdom: Master Cup",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "",
     "sort-key": "row-11-062"
@@ -5436,7 +5436,7 @@
     "name": "Stepping Over the Gears",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-063"
@@ -5445,7 +5445,7 @@
     "name": "Lanterns on the Gear Steps",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-064"
@@ -5454,7 +5454,7 @@
     "name": "Volcano Cave Cruisin'",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-065"
@@ -5463,7 +5463,7 @@
     "name": "Volcano Cave and Mysterious Clouds",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-066"
@@ -5472,7 +5472,7 @@
     "name": "Treasure of the Lava Islands",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-067"
@@ -5481,7 +5481,7 @@
     "name": "Flying Over the Lava Islands",
     "region": "Luncheon Kingdom Moon Rock",
     "category": [
-      "11 Luncheon Kingdom"
+      "11 Luncheon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-11-068"
@@ -5536,7 +5536,7 @@
     "name": "Caught on a Big Horn",
     "region": "Ruined Kingdom Moon Rock",
     "category": [
-      "12 Ruined Kingdom"
+      "12 Ruined Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-12-006"
@@ -5545,7 +5545,7 @@
     "name": "Upon the Broken Arch",
     "region": "Ruined Kingdom Moon Rock",
     "category": [
-      "12 Ruined Kingdom"
+      "12 Ruined Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-12-007"
@@ -5554,7 +5554,7 @@
     "name": "Rolling Rock on the Battlefield",
     "region": "Ruined Kingdom Moon Rock",
     "category": [
-      "12 Ruined Kingdom"
+      "12 Ruined Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-12-008"
@@ -5563,7 +5563,7 @@
     "name": "Charging Through an Army",
     "region": "Ruined Kingdom Moon Rock",
     "category": [
-      "12 Ruined Kingdom"
+      "12 Ruined Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-12-009"
@@ -5572,7 +5572,7 @@
     "name": "The Mummy Army's Curse",
     "region": "Ruined Kingdom Moon Rock",
     "category": [
-      "12 Ruined Kingdom"
+      "12 Ruined Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-12-010"
@@ -5989,7 +5989,7 @@
     "name": "Behind the Tall Wall: Poke, Poke!",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-046"
@@ -5998,7 +5998,7 @@
     "name": "From Crates in the Moat",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-047"
@@ -6007,7 +6007,7 @@
     "name": "Caught on the Giant Horn",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-048"
@@ -6016,7 +6016,7 @@
     "name": "Inside a Block at the Gate",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-049"
@@ -6025,7 +6025,7 @@
     "name": "Small Bird in Bowser's Castle",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-050"
@@ -6034,7 +6034,7 @@
     "name": "Invader in Bowser's Castle",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-051"
@@ -6043,7 +6043,7 @@
     "name": "Jumping from Flag to Flag",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-052"
@@ -6052,7 +6052,7 @@
     "name": "Bowser's Kingdom Timer Challenge 2",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-053"
@@ -6061,7 +6061,7 @@
     "name": "Taking Notes: On the Wall",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-054"
@@ -6070,7 +6070,7 @@
     "name": "Taking Notes with a Spinning Throw",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-055"
@@ -6079,7 +6079,7 @@
     "name": "Third Courtyard Outskirts",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-056"
@@ -6088,7 +6088,7 @@
     "name": "Stone Wall Circuit",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-057"
@@ -6097,7 +6097,7 @@
     "name": "Bowser's Kingdom Master Cup",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-058"
@@ -6106,7 +6106,7 @@
     "name": "Searching Hexagon Tower",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-059"
@@ -6115,7 +6115,7 @@
     "name": "Center of Hexagon Tower",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-060"
@@ -6124,7 +6124,7 @@
     "name": "Climb the Wooden Tower",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-061"
@@ -6133,7 +6133,7 @@
     "name": "Poke the Wooden Tower",
     "region": "Bowser Kingdom Moon Rock",
     "category": [
-      "13 Bowser Kingdom"
+      "13 Bowser Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-13-062"
@@ -6385,7 +6385,7 @@
     "name": "Mysterious Flying Object",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-028"
@@ -6394,7 +6394,7 @@
     "name": "Hidden on the Side of the Cliff",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-029"
@@ -6403,7 +6403,7 @@
     "name": "Jumping High as a Frog",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-030"
@@ -6412,7 +6412,7 @@
     "name": "Moon Kingdom Timer Challenge 2",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-031"
@@ -6421,7 +6421,7 @@
     "name": "Walking on the Moon: Again!",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-032"
@@ -6430,7 +6430,7 @@
     "name": "Moon Kingdom Master Cup",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-033"
@@ -6439,7 +6439,7 @@
     "name": "Taking Notes: In Low Gravity",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-034"
@@ -6448,7 +6448,7 @@
     "name": "Center of the Galaxy",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-035"
@@ -6457,7 +6457,7 @@
     "name": "Edge of the Galaxy",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-036"
@@ -6466,7 +6466,7 @@
     "name": "Navigating Giant Swings",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-037"
@@ -6475,7 +6475,7 @@
     "name": "A Swing on Top of a Swing",
     "region": "Moon Kingdom Moon Rock",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom", "Moon Rock"
     ],
     "requires": "|Test|",
     "sort-key": "row-14-038"
@@ -7339,7 +7339,7 @@
     "name": "Moon Rock Liberator",
     "region": "Mushroom Kingdom Post Game",
     "category": [
-      "15 Mushroom Kingdom"
+      "15 Mushroom Kingdom", "Moon Rock"
     ],
     "requires": "|Achievement|",
     "sort-key": "row-15-096"
