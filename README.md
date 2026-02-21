@@ -2,10 +2,20 @@ Super Mario odyssey Manual AP world for use with Archipelago Multiworld Randomiz
 
 Goals
 - Festival
+- Bowser
+- World Peace
+- Darker Side
 
 Current features
 - Generic Moons
 - Outfit Doors
+  - Outfits can be shuffled seperately
+- Yaml Options
+- Action Rando
+  - Basic actions in Action Guide
+- Capture Sanity
+  - Captures are given as items. If you don't have the item for it, immediately uncapture.
+- Warp Painting Logic
 
 What do you need to go to the next kingdom?
 - Enough Power Moons
@@ -43,18 +53,11 @@ Roadmap
 - Make Proper Yaml
 - Specific Moons Option
 - Action Rando
-  - Basic actions in Action Guide
+  - Extra actions not in Action Guide
 - Capture Sanity
-  - Captures are given as items. If you don't have the item for it, immediately uncapture.
-- Outfit Doors
-  - Outfits will be Items
+  - Extra Captures 
 - Regional Coin Checks
   - Just enough to get you all the Outfit Door Moons
-- Warp Painting Logic
-- More Goals
-  - Main Ending
-  - World Peace
-  - Darker Side
 
 Capture Sanity Starting Items
 - Frog
@@ -75,5 +78,3 @@ Other Starting Inventory
 - Cappy Return Jump
 - Cappy Return Air Stall
 - Ledge Grab
-- Cappy Return Jump
-- Cappy Return Air Stall
