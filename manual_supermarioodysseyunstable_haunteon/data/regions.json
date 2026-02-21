@@ -51,7 +51,7 @@
     "connects_to": [
       "Lake Kingdom Into the Lake"
     ],
-    "requires": "(|Power Moon:21| AND |Kingdom Split Path Lake Kingdom|) OR (|Power Moon:37| AND |Kingdom Split Path Wooded Kingdom|)"
+    "requires": "(|Power Moon:21| AND |Kingdom Split Path Lake Kingdom|) OR (|Power Moon:37| AND (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and |Hold/Throw|)))"
   },
   "Lake Kingdom Into the Lake": {
     "connects_to": [
@@ -69,7 +69,7 @@
       "Wooded Kingdom Deep Woods",
       "Wooded Kingdom Maze Skip"
     ],
-    "requires": "(|Power Moon:21| AND |Kingdom Split Path Wooded Kingdom|) OR (|Power Moon:29| AND |Kingdom Split Path Lake Kingdom|)"
+    "requires": "(|Power Moon:21| AND |Kingdom Split Path Wooded Kingdom|) OR (|Power Moon:29| AND |Into the Lake|)"
   },
   "Wooded Kingdom Deep Woods": {
     "connects_to": [],
