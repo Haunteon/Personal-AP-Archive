@@ -1982,7 +1982,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Ground Pound|)}",
+    "requires": "{OptOne(|Ground Pound|)} and |To the Wall|",
     "sort-key": "row-05-009"
   },
   {
@@ -2009,7 +2009,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "",
+    "requires": "|To the Wall|",
     "sort-key": "row-05-012"
   },
   {
@@ -2090,7 +2090,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Goomba|)}",
+    "requires": "{OptOne(|Goomba|)} and |To the Wall|",
     "sort-key": "row-05-021"
   },
   {
@@ -2270,7 +2270,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Mini Rocket| and (|Paragoomba| or |Cap Vault|))}",
+    "requires": "{OptAll(|Mini Rocket| and (|Paragoomba| or |Cap Vault|))} and |To the Wall|",
     "sort-key": "row-05-041"
   },
   {
@@ -2279,7 +2279,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Mini Rocket|)}",
+    "requires": "{OptOne(|Mini Rocket|)} and |To the Wall|",
     "sort-key": "row-05-042"
   },
   {
@@ -7044,7 +7044,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "{OptOne(|Goomba|)} and |Sand Kingdom Knucklotec Multimoon| and |Wooded Kingdom Spewart Multimoon| and |To the Wall|",
     "sort-key": "row-15-063"
   },
   {
@@ -7053,7 +7053,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "{OptOne(|Lakitu|)} and |Sand Kingdom Knucklotec Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Lake Kingdom Rango Multimoon|",
     "sort-key": "row-15-064"
   },
   {
@@ -7062,7 +7062,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-15-065"
   },
   {
@@ -7071,7 +7071,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "{OptAll(|Gushen| and |Hold/Throw|)}",
     "sort-key": "row-15-066"
   },
   {
@@ -7170,7 +7170,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "|Peach Mushroom| or |Moon Power|",
     "sort-key": "row-15-077"
   },
   {
@@ -7206,7 +7206,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "",
     "sort-key": "row-15-081"
   },
   {
@@ -7242,7 +7242,7 @@
     "category": [
       "15 Mushroom Kingdom"
     ],
-    "requires": "|Achievement|",
+    "requires": "",
     "sort-key": "row-15-085"
   },
   {
