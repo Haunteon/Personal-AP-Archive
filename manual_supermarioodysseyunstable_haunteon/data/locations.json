@@ -455,7 +455,7 @@
     "category": [
       "02 Cascade Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptOne(|T-Rex|)}",
     "sort-key": "row-02-012"
   },
   {
@@ -1934,7 +1934,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Uproot|)}",
+    "requires": "{OptAll(|Uproot| and |Sherm|)}",
     "place_item": [
       "Wooded Kingdom Torkdrift Multimoon"
     ],
@@ -3311,7 +3311,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Manhole|)}",
     "sort-key": "row-08-036"
   },
   {
@@ -4943,7 +4943,7 @@
     "category": [
       "11 Luncheon Kingdom"
     ],
-    "requires": "{OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))}",
+    "requires": "{OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))} and |Get to Cheese|",
     "sort-key": "row-11-008"
   },
   {
@@ -5015,7 +5015,7 @@
     "category": [
       "11 Luncheon Kingdom"
     ],
-    "requires": "{OptOne(|Hold/Throw|)} and {OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))}",
+    "requires": "{OptOne(|Hold/Throw|)} and {OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))} and |Get to Cheese|",
     "sort-key": "row-11-016"
   },
   {
@@ -5258,7 +5258,7 @@
     "category": [
       "11 Luncheon Kingdom"
     ],
-    "requires": "{OptOne(|Hammer Bro|)}",
+    "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
     "sort-key": "row-11-043"
   },
   {
@@ -5267,7 +5267,7 @@
     "category": [
       "11 Luncheon Kingdom"
     ],
-    "requires": "{OptOne(|Hammer Bro|)}",
+    "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
     "sort-key": "row-11-044"
   },
   {
