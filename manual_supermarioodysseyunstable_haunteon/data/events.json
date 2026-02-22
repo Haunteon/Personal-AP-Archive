@@ -17,31 +17,31 @@
   {
     "name": "Pyramid Skip",
     "region": "Sand Kingdom 1st Visit",
-	"requires": "{OptAll(|Bullet Bill| or ((|Long Jump| or |Triple Jump|) and Cap Vault))}",
+	"requires": "{OptAll(|Bullet Bill| or (|Dive| and |Cap Jump| and (|Long Jump| or |Triple Jump|)))}",
     "visible": false
   },
   {
     "name": "Into the Lake",
 	"region": "Lake Kingdom 1st Visit",
-    "requires": "{OptAll((|Zipper| and |Swim|) or (|Cap Vault| and (|High Jump| or |Long Jump| or (|Triple Jump| and |Wall Jump|))) or (|Cap Jump| and |Triple Jump| and |Wall Jump| and |Goomba|))}",
+    "requires": "{OptAll((|Zipper| and |Swim|) or (|Dive| and |Cap Jump| and (|High Jump| or |Long Jump| or (|Triple Jump| and |Wall Jump|))) or (|Cap Jump| and |Triple Jump| and |Wall Jump| and |Goomba|))}",
     "visible": false
   },
   {
     "name": "Above the Lake",
 	"region": "Lake Kingdom Into the Lake",
-    "requires": "{OptAll(|Cheep Cheep| or |Swim| or |Cap Vault|)}",
+    "requires": "{OptAll(|Cheep Cheep| or |Swim| or (|Dive| and |Cap Jump|))}",
     "visible": false
   },
   {
     "name": "Maze Skip",
 	"region": "Wooded Kingdom 1st Visit",
-    "requires": "{OptAll(|Uproot| or |Cap Vault|)}",
+    "requires": "{OptAll(|Uproot| or (|Dive| and |Cap Jump|))}",
     "visible": false
   },
   {
     "name": "To the Wall",
 	"region": "Wooded Kingdom Post Spewart",
-    "requires": "{OptAll(|Hold/Throw| or (|High Jump| and |Cap Vault|) or (|Uproot| and |Dive|))}",
+    "requires": "{OptAll(|Hold/Throw| or (|High Jump| and |Dive| and |Cap Jump|) or (|Uproot| and |Dive|))}",
     "visible": false
   },
   {
@@ -83,13 +83,13 @@
   {
     "name": "Over the Moat",
 	"region": "Bowser Kingdom Courtyards",
-    "requires": "{OptAll(|Pokio| or (|High Jump| and |Cap Vault|) or ({YamlEnabled(easy_trick_jumps)} and |Cap Vault|))}",
+    "requires": "{OptAll(|Pokio| or (|High Jump| and |Dive| and |Cap Jump|) or ({YamlEnabled(easy_trick_jumps)} and |Dive| and |Cap Jump|))}",
     "visible": false
   },
   {
     "name": "Parabones Skip",
 	"region": "Moon Kingdom 1st Visit",
-    "requires": "{OptAll(|Parabones| or (|Cap Vault| and (|Long Jump| or |Triple Jump|)))}",
+    "requires": "{OptAll(|Parabones| or (|Dive| and |Cap Jump| and (|Long Jump| or |Triple Jump|)))}",
     "visible": false
   },
   {

@@ -946,6 +946,15 @@
   },
   {
     "count": 1,
+    "name": "Swing",
+    "category": [
+      "Actions",
+	  "Extra Actions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Caveman Headwear",
     "category": [
       "Outfits",
