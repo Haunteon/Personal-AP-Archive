@@ -115,7 +115,7 @@
             "display_name": "Shuffle Extra Actions",
 			"description": [
                 "Requires Shuffle Actions.",
-                "Adds Ledge Grab, Climb, and Crouch to the item pool."
+                "Adds Ledge Grab, Climb, Swing, and Crouch to the item pool."
             ],
             "type": "Toggle",
             "default": false,
