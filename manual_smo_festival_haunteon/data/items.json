@@ -18,24 +18,6 @@
 	"sort-key": "row-0-1"
   },
   {
-    "count": "2",
-    "name": "Split Path Unlock Lake Kingdom",
-    "category": [
-      "02 Kingdoms"
-    ],
-    "progression": true,
-	"sort-key": "row-0-2"
-  },
-  {
-    "count": "2",
-    "name": "Split Path Unlock Wooded Kingdom",
-    "category": [
-      "02 Kingdoms"
-    ],
-    "progression": true,
-	"sort-key": "row-0-3"
-  },
-  {
     "count": 1,
     "name": "Cascade Kingdom Madame Broode Multi Moon",
     "category": [
@@ -107,41 +89,5 @@
     ],
     "progression": true,
 	"sort-key": "row-1-8"
-  },
-  {
-    "count": 1,
-    "name": "Tostarena Outfit",
-    "category": [
-      "02 Outfit"
-    ],
-    "progression": true,
-	"sort-key": "row-2-1"
-  },
-  {
-    "count": 1,
-    "name": "Lake Lamode Outfit",
-    "category": [
-      "02 Outfit"
-    ],
-    "progression": true,
-	"sort-key": "row-2-2"
-  },
-  {
-    "count": 1,
-    "name": "Steam Gardens Outfit",
-    "category": [
-      "02 Outfit"
-    ],
-    "progression": true,
-	"sort-key": "row-2-3"
-  },
-  {
-    "count": 1,
-    "name": "New Donk City Outfit",
-    "category": [
-      "02 Outfit"
-    ],
-    "progression": true,
-	"sort-key": "row-2-4"
   }
 ]

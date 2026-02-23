@@ -31,7 +31,6 @@
     "connects_to": [
       "Sand Kingdom Post Hariet",
       "Lake Kingdom First Visit",
-      "Wooded Kingdom First Visit",
       "Cascade Kingdom 2nd Visit",
       "Cap Kingdom Post Peace"
     ],
@@ -50,9 +49,9 @@
   "Lake Kingdom First Visit": {
     "connects_to": [
       "Lake Kingdom Post Peace",
-      "Cloud Kingdom First Visit"
+	  "Wooded Kingdom 1st Visit"
     ],
-    "requires": "|Power Moon:21| AND |Split Path Unlock Lake Kingdom|"
+    "requires": "|Power Moon:21| AND |Progressive Kingdom Unlock:2|"
   },
   "Lake Kingdom Post Peace": {
     "connects_to": [],
@@ -63,7 +62,7 @@
       "Wooded Kingdom Post Spewart",
       "Cloud Kingdom First Visit"
     ],
-    "requires": "|Power Moon:21| AND |Split Path Unlock Wooded Kingdom|"
+    "requires": "|Power Moon:21| AND |Progressive Kingdom Unlock:3|"
   },
   "Wooded Kingdom Post Spewart": {
     "connects_to": [
@@ -79,7 +78,7 @@
     "connects_to": [
       "Lost Kingdom First Visit"
     ],
-    "requires": "|Power Moon:45| AND |Progressive Kingdom Unlock:2| AND |Split Path Unlock Lake Kingdom| AND |Split Path Unlock Wooded Kingdom|"
+    "requires": "|Power Moon:45| AND |Progressive Kingdom Unlock:4|"
   },
   "Cloud Kingdom Post Peace": {
     "connects_to": [],
