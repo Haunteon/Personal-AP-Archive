@@ -2,92 +2,127 @@
   {
     "count": "100",
     "name": "Power Moon",
-    "category": [
-      "01 Moons"
+	"category": [
+      "Items"
     ],
     "progression": true,
-	"sort-key": "row-0-1"
+	"value": {
+      "Moons": 1
+    },
+	"sort-key": "row-1-1"
   },
   {
     "count": "6",
     "name": "Progressive Kingdom Unlock",
-    "category": [
-      "02 Kingdoms"
-    ],
-    "progression": true,
-	"sort-key": "row-0-1"
-  },
-  {
-    "count": 1,
-    "name": "Cascade Kingdom Madame Broode Multi Moon",
-    "category": [
-      "01 Moons"
-    ],
-    "progression": true,
-	"sort-key": "row-1-1",
-	"local": true
-  },
-  {
-    "count": 1,
-    "name": "Sand Kingdom Hariet Multi Moon",
-    "category": [
-      "01 Moons"
+	"category": [
+      "Items"
     ],
     "progression": true,
 	"sort-key": "row-1-2"
   },
   {
-    "count": 1,
-    "name": "Sand Kingdom Knucklotec Multi Moon",
-    "category": [
-      "01 Moons"
+    "name": "Coin",
+	"category": [
+      "Items"
     ],
-    "progression": true,
+    "filler": true,
 	"sort-key": "row-1-3"
   },
   {
     "count": 1,
-    "name": "Lake Kingdom Rango Multi Moon",
-    "category": [
-      "01 Moons"
+    "name": "Cascade Kingdom Madame Broode Multi Moon",
+	"category": [
+      "Multimoons"
     ],
     "progression": true,
-	"sort-key": "row-1-4"
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-1",
+	"local": true
+  },
+  {
+    "count": 1,
+    "name": "Sand Kingdom Hariet Multi Moon",
+	"category": [
+      "Multimoons"
+    ],
+    "progression": true,
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-2"
+  },
+  {
+    "count": 1,
+    "name": "Sand Kingdom Knucklotec Multi Moon",
+	"category": [
+      "Multimoons"
+    ],
+    "progression": true,
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-3"
+  },
+  {
+    "count": 1,
+    "name": "Lake Kingdom Rango Multi Moon",
+	"category": [
+      "Multimoons"
+    ],
+    "progression": true,
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-4"
   },
   {
     "count": 1,
     "name": "Wooded Kingdom Spewart Multi Moon",
-    "category": [
-      "01 Moons"
+	"category": [
+      "Multimoons"
     ],
     "progression": true,
-	"sort-key": "row-1-5"
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-5"
   },
   {
     "count": 1,
     "name": "Wooded Kingdom Torkdrift Multi Moon",
-    "category": [
-      "01 Moons"
+	"category": [
+      "Multimoons"
     ],
     "progression": true,
-	"sort-key": "row-1-6"
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-6"
   },
   {
     "count": 1,
     "name": "Metro Kingdom Mechawiggler Multi Moon",
-    "category": [
-      "01 Moons"
+	"category": [
+      "Multimoons"
     ],
     "progression": true,
-	"sort-key": "row-1-7"
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-7"
   },
   {
     "count": 1,
     "name": "Metro Kingdom Festival Multi Moon",
-    "category": [
-      "01 Moons"
+	"category": [
+      "Multimoons"
     ],
     "progression": true,
-	"sort-key": "row-1-8"
+	"value": {
+      "Moons": 3
+    },
+	"sort-key": "row-2-8"
   }
 ]
