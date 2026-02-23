@@ -541,7 +541,7 @@
     "category": [
       "Sand Kingdom"
     ],
-    "requires": "|Tostarena Outfit:1|"
+    "requires": ""
   },
   {
     "name": "The Invisible Maze",
@@ -1068,7 +1068,7 @@
     "category": [
       "Wooded Kingdom"
     ],
-    "requires": "|Steam Gardens Outfit:1|",
+    "requires": "",
     "region": "Wooded Kingdom First Visit"
   },
   {
@@ -1630,7 +1630,7 @@
     "category": [
       "Metro Kingdom"
     ],
-    "requires": "|New Donk City Outfit:1|"
+    "requires": ""
   },
   {
     "name": "Off the Beaten Wire",
@@ -1638,7 +1638,7 @@
     "category": [
       "Metro Kingdom"
     ],
-    "requires": "|New Donk City Outfit:1|"
+    "requires": ""
   },
   {
     "name": "Moon Shards Under Siege",
@@ -1809,38 +1809,6 @@
     "requires": ""
   },
   {
-    "name": "15 Purple Coins Sand Kingdom",
-    "category": [
-      "Sand Kingdom"
-    ],
-    "requires": "",
-    "region": "Sand Kingdom First Visit"
-  },
-  {
-    "name": "15 Purple Coins Lake Kingdom",
-    "category": [
-      "Lake Kingdom"
-    ],
-    "requires": "",
-    "region": "Lake Kingdom First Visit"
-  },
-  {
-    "name": "15 Purple Coins Wooded Kingdom",
-    "category": [
-      "Wooded Kingdom"
-    ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
-  },
-  {
-    "name": "15 Purple Coins Metro Kingdom",
-    "category": [
-      "Metro Kingdom"
-    ],
-    "requires": "",
-    "region": "Night Metro Kingdom"
-  },
-  {
     "name": "Sand Kingdom Timer Challenge 3",
     "region": "Sand Kingdom Post Peace",
     "category": [
@@ -1854,7 +1822,7 @@
     "category": [
       "Lake Kingdom"
     ],
-    "requires": "|Lake Lamode Outfit:1|"
+    "requires": ""
   },
   {
     "name": "Fishing in the Oasis",
