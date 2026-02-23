@@ -42,7 +42,7 @@ class SortingOrderLoc(IntEnum):
     inverted_alphabetical = -2
     natural = 3
     inverted_natural = -3
-    default = 3
+    default = 1
 
 # Docs must be done after because otherwise __doc__ return none
 SortingOrderLoc.custom.__doc__ = "Sort alphabetically using the custom sorting keys defined in locations.json if present, and the name otherwise."
@@ -58,7 +58,7 @@ class SortingOrderItem(IntEnum):
     inverted_natural = -3
     received = 4
     inverted_received = -4
-    default = 4
+    default = 1
 
 SortingOrderItem.custom.__doc__ = "Sort alphabetically using the custom sorting keys defined in items.json if present, and the name otherwise."
 SortingOrderItem.alphabetical.__doc__ = "Sort alphabetically using the name of item defined in items.json."

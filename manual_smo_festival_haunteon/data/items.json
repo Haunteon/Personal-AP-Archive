@@ -1,6 +1,6 @@
 [
   {
-    "count": "100",
+    "count": "75",
     "name": "Power Moon",
 	"category": [
       "Items"
@@ -21,7 +21,8 @@
 	"sort-key": "row-1-2"
   },
   {
-    "name": "Coin",
+    "count": "115",
+	"name": "Coin",
 	"category": [
       "Items"
     ],
