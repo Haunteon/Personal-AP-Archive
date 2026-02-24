@@ -3,7 +3,7 @@
     "count": "75",
     "name": "Power Moon",
 	"category": [
-      "Items"
+      "Items", "Generic"
     ],
     "progression": true,
 	"value": {
