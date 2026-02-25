@@ -7,7 +7,8 @@
   "starting_items": [
     {
       "items": [
-        "Big Chain Chomp, Broode's Chain Chomp"
+        "Big Chain Chomp",
+        "Broode's Chain Chomp"
       ],
       "_comment": "Capture Randomizer Items"
     }
