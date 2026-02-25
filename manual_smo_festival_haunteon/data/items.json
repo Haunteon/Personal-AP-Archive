@@ -86,7 +86,8 @@
   {
     "name": "Progressive Kingdom Unlock",
     "category": [
-      "01 Kingdom, Generic"
+      "01 Kingdom",
+      "Generic"
     ],
     "count": 3,
     "progression": true,
@@ -111,7 +112,8 @@
   {
     "name": "Power Moon",
     "category": [
-      "02 Power Moons, Generic"
+      "02 Power Moons",
+      "Generic"
     ],
     "count": 75,
     "progression": true,
@@ -123,7 +125,8 @@
   {
     "name": "Cascade Moon",
     "category": [
-      "02 Power Moons, Specific"
+      "02 Power Moons",
+      "Specific"
     ],
     "count": 5,
     "progression": true,
@@ -135,7 +138,8 @@
   {
     "name": "Sand Moon",
     "category": [
-      "02 Power Moons, Specific"
+      "02 Power Moons",
+      "Specific"
     ],
     "count": 16,
     "progression": true,
@@ -147,7 +151,8 @@
   {
     "name": "Lake Moon",
     "category": [
-      "02 Power Moons, Specific"
+      "02 Power Moons",
+      "Specific"
     ],
     "count": 8,
     "progression": true,
@@ -159,7 +164,8 @@
   {
     "name": "Wooded Moon",
     "category": [
-      "02 Power Moons, Specific"
+      "02 Power Moons",
+      "Specific"
     ],
     "count": 16,
     "progression": true,
@@ -171,7 +177,8 @@
   {
     "name": "Lost Moon",
     "category": [
-      "02 Power Moons, Specific"
+      "02 Power Moons",
+      "Specific"
     ],
     "count": 10,
     "progression": true,
@@ -183,7 +190,8 @@
   {
     "name": "Metro Moon",
     "category": [
-      "02 Power Moons, Specific"
+      "02 Power Moons",
+      "Specific"
     ],
     "count": 20,
     "progression": true,
@@ -195,79 +203,89 @@
   {
     "name": "Frog",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-1"
+    "sort-key": "row-4-01"
   },
   {
     "name": "Spark Pylon",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-2"
+    "sort-key": "row-4-02"
   },
   {
     "name": "Paragoomba",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-3"
+    "sort-key": "row-4-03"
   },
   {
     "name": "Chain Chomp",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-4"
+    "sort-key": "row-4-04"
   },
   {
     "name": "Big Chain Chomp",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-5"
+    "sort-key": "row-4-05"
   },
   {
     "name": "Broode's Chain Chomp",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-6"
+    "sort-key": "row-4-06"
   },
   {
     "name": "T-Rex",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-7"
+    "sort-key": "row-4-07"
   },
   {
     "name": "Binoculars",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-8"
+    "sort-key": "row-4-08"
   },
   {
     "name": "Bullet Bill",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
-    "sort-key": "row-4-9"
+    "sort-key": "row-4-09"
   },
   {
     "name": "Moe-Eye",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-10"
@@ -275,7 +293,8 @@
   {
     "name": "Cactus",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-11"
@@ -283,7 +302,8 @@
   {
     "name": "Goomba",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-12"
@@ -291,7 +311,8 @@
   {
     "name": "Knucklotec's Fist",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-13"
@@ -299,7 +320,8 @@
   {
     "name": "Mini Rocket",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-14"
@@ -307,7 +329,8 @@
   {
     "name": "Glydon",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-15"
@@ -315,7 +338,8 @@
   {
     "name": "Lakitu",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-16"
@@ -323,7 +347,8 @@
   {
     "name": "Zipper",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-17"
@@ -331,7 +356,8 @@
   {
     "name": "Cheep Cheep",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-18"
@@ -339,7 +365,8 @@
   {
     "name": "Puzzle Part (Lake)",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-19"
@@ -347,7 +374,8 @@
   {
     "name": "Poison Piranha Plant",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-20"
@@ -355,7 +383,8 @@
   {
     "name": "Uproot",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-21"
@@ -363,7 +392,8 @@
   {
     "name": "Fire Bro",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-22"
@@ -371,7 +401,8 @@
   {
     "name": "Sherm",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-23"
@@ -379,7 +410,8 @@
   {
     "name": "Coin Coffer",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-24"
@@ -387,7 +419,8 @@
   {
     "name": "Tree",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-25"
@@ -395,7 +428,8 @@
   {
     "name": "Boulder",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-26"
@@ -403,7 +437,8 @@
   {
     "name": "Picture Match Part (Goomba)",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-27"
@@ -411,7 +446,8 @@
   {
     "name": "Tropical Wiggler",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-28"
@@ -419,7 +455,8 @@
   {
     "name": "Pole",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-29"
@@ -427,7 +464,8 @@
   {
     "name": "Manhole",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-30"
@@ -435,7 +473,8 @@
   {
     "name": "Taxi",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-31"
@@ -443,7 +482,8 @@
   {
     "name": "RC Car",
     "category": [
-      "04 Captures, Basic Capture"
+      "04 Captures",
+      "Basic Capture"
     ],
     "progression": true,
     "sort-key": "row-4-32"
