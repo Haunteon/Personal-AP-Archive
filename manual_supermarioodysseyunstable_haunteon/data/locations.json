@@ -3891,7 +3891,7 @@
     "category": [
       "09 Snow Kingdom"
     ],
-    "requires": "|After Gusty Barrier|",
+    "requires": "{OptAll(|Ty-foo| or (|Dive| and (|Long Jump| or |Triple Jump| or |Cap Jump|)))}",
     "sort-key": "row-09-003"
   },
   {
