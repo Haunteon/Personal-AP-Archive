@@ -1655,7 +1655,7 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Pre Festival",
-    "requires": "{ItemValue(Power:75)} or {ItemValue(Metro:20)}",
+    "requires": "{OptAll(|Power Moon:75| or |Metro Moon:20|)}",
     "sort-key": "row-8-07",
     "victory": true
   },

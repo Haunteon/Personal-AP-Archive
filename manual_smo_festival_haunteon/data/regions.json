@@ -18,7 +18,7 @@
     ]
   },
   "Sand Kingdom First Visit": {
-    "requires": "({ItemValue(Power:5)} or {ItemValue(Cascade:5)}) and {OptOne(|Progressive Kingdom Unlock:1|)}",
+    "requires": "{OptAll((|Power Moon:5| or |Cascade Moon:5|) and |Progressive Kingdom Unlock:1|)}",
     "connects_to": [
       "Cap Kingdom Post Peace",
       "Cascade Kingdom Second Visit",
@@ -41,7 +41,7 @@
     "requires": "|Knucklotec Multimoon|"
   },
   "Lake Kingdom First Visit": {
-    "requires": "(|Split Path Lake Unlock| and ({ItemValue(Power:21)} or {ItemValue(Sand:16)})) or (|Split Path Wooded Unlock| and ({ItemValue(Power:37)} or {ItemValue(Wooded:16)}))",
+    "requires": "(|Split Path Lake Unlock| and {OptAll(|Power Moon:21| or |Sand Moon:16|)}) or (|Split Path Wooded Unlock| and {OptAll(|Power Moon:37| or |Wooded Moon:16|)})",
     "connects_to": [
       "Lake Kingdom Into the Lake"
     ]
@@ -57,7 +57,7 @@
     "requires": "|Rango Multimoon|"
   },
   "Wooded Kingdom First Visit": {
-    "requires": "(|Split Path Wooded Unlock| and ({ItemValue(Power:21)} or {ItemValue(Sand:16)})) or (|Split Path Lake Unlock| and ({ItemValue(Power:29)} or {ItemValue(Lake:8)}))",
+    "requires": "(|Split Path Wooded Unlock| and {OptAll(|Power Moon:21| or |Sand Moon:16|)}) or (|Split Path Lake Unlock| and {OptAll(|Power Moon:29| or |Lake Moon:8|)})",
     "connects_to": [
       "Wooded Kingdom Maze Skip"
     ]
@@ -85,13 +85,13 @@
     "requires": "|Torkdrift Multimoon|"
   },
   "Lost Kingdom First Visit": {
-    "requires": "|Split Path Lake Unlock| and |Split Path Wooded Unlock| and {OptOne(|Progressive Kingdom Unlock:2|)} and ({ItemValue(Power:45)} or ({ItemValue(Lake:8)} and {ItemValue(Wooded:16)}))",
+    "requires": "|Split Path Lake Unlock| and |Split Path Wooded Unlock| and {OptAll(|Progressive Kingdom Unlock:2| and (|Power Moon:45| or (|Lake Moon:8| and |Wooded Moon:16|)))}",
     "connects_to": [
       "Metro Kingdom Night"
     ]
   },
   "Metro Kingdom Night": {
-    "requires": "({ItemValue(Power:55)} or {ItemValue(Lost:10)}) and {OptOne(|Progressive Kingdom Unlock:3|)} and {OptOne(|Spark Pylon|)}",
+    "requires": "{OptAll((|Power Moon:55| or |Lost Moon:10|) and |Progressive Kingdom Unlock:3| and |Spark Pylon|)}",
     "connects_to": [
       "Cloud Kingdom Post Peace",
       "Lost Kingdom Second Visit",
