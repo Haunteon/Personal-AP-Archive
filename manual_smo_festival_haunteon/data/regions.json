@@ -109,6 +109,6 @@
     ]
   },
   "Metro Kingdom Pre Festival": {
-    "requires": "{OptOne(|Manhole|)}"
+    "requires": "{OptOne(|Manhole|)} and |Festival Multimoon|"
   }
 }

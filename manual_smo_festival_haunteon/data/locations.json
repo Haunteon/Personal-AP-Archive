@@ -83,7 +83,6 @@
       "01 Cap Kingdom"
     ],
     "region": "Cap Kingdom Post Peace",
-    "requires": "{OptOne(|Frog|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-1-10"
   },
   {
@@ -92,7 +91,6 @@
       "01 Cap Kingdom"
     ],
     "region": "Cap Kingdom Post Peace",
-    "requires": "{OptOne(|Frog|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-1-11"
   },
   {
@@ -153,7 +151,7 @@
       "02 Cascade Kingdom"
     ],
     "region": "Cascade Kingdom Post Peace",
-    "requires": "{OptOne(|Chain Chomp|)} or {YamlEnabled(capture_skip)}",
+    "requires": "{OptOne(|Chain Chomp| or |T-Rex|)}",
     "sort-key": "row-2-07"
   },
   {
@@ -278,7 +276,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom Post Hariet",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-03"
   },
   {
@@ -311,7 +308,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-07"
   },
   {
@@ -336,7 +332,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-10"
   },
   {
@@ -345,7 +340,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)} or (|Knucklotec Multimoon| and {OptAll(|Spark Pylon| or |Glydon|)})",
     "sort-key": "row-3-11"
   },
   {
@@ -354,7 +348,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-12"
   },
   {
@@ -363,7 +356,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-13"
   },
   {
@@ -372,7 +364,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-14"
   },
   {
@@ -635,7 +626,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-46"
   },
   {
@@ -702,7 +692,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Moe-Eye|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-54"
   },
   {
@@ -711,7 +700,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Moe-Eye|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-55"
   },
   {
@@ -720,7 +708,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-56"
   },
   {
@@ -729,7 +716,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-57"
   },
   {
@@ -911,7 +897,6 @@
       "04 Lake Kingdom"
     ],
     "region": "Lake Kingdom Into the Lake",
-    "requires": "{OptOne(|Cheep Cheep|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-4-18"
   },
   {
@@ -1020,7 +1005,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "region": "Wooded Kingdom Post Wall",
+    "region": "Wooded Kingdom Post Spewart",
     "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-5-05"
   },
@@ -1062,7 +1047,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom First Visit",
-    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-10"
   },
   {
@@ -1071,7 +1055,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom First Visit",
-    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-11"
   },
   {
@@ -1088,7 +1071,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom First Visit",
-    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-13"
   },
   {
@@ -1097,7 +1079,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom First Visit",
-    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-14"
   },
   {
@@ -1106,7 +1087,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Maze Skip",
-    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-15"
   },
   {
@@ -1115,7 +1095,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Maze Skip",
-    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-16"
   },
   {
@@ -1132,7 +1111,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Post Wall",
-    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-18"
   },
   {
@@ -1184,7 +1162,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Maze Skip",
-    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-24"
   },
   {
@@ -1352,7 +1329,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Post Wall",
-    "requires": "{OptOne(|Goomba|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-5-44"
   },
   {
@@ -1361,7 +1337,7 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Post Wall",
-    "requires": "{OptOne(|Sherm|)}",
+    "requires": "{OptOne(|Sherm|)} or {YamlEnabled(guide_captures)}",
     "sort-key": "row-5-45"
   },
   {
@@ -1526,7 +1502,6 @@
       "07 Lost Kingdom"
     ],
     "region": "Lost Kingdom First Visit",
-    "requires": "{OptOne(|Tropical Wiggler|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-7-15"
   },
   {
@@ -1535,7 +1510,6 @@
       "07 Lost Kingdom"
     ],
     "region": "Lost Kingdom First Visit",
-    "requires": "{OptOne(|Tropical Wiggler|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-7-16"
   },
   {
@@ -1570,7 +1544,6 @@
       "07 Lost Kingdom"
     ],
     "region": "Lost Kingdom First Visit",
-    "requires": "{OptOne(|Tropical Wiggler|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-7-20"
   },
   {
@@ -1662,7 +1635,6 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Night",
-    "requires": "{OptOne(|Sherm|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-8-10"
   },
   {
@@ -1840,7 +1812,8 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "region": "Metro Kingdom Pre Festival",
+    "region": "Metro Kingdom Day",
+	"requires": "{OptOne(|Manhole|)}"
     "sort-key": "row-8-35"
   },
   {
@@ -1951,7 +1924,6 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Day",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-8-48"
   },
   {
