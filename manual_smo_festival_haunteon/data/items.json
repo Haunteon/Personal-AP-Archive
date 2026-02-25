@@ -1,120 +1,451 @@
 [
   {
-    "count": "75",
-    "name": "Power Moon",
-	"category": [
-      "Items", "Generic"
+    "name": "Madame Broode Multimoon",
+    "category": [
+      "03 Multimoon"
     ],
     "progression": true,
-	"value": {
-      "Moons": 1
-    },
-	"sort-key": "row-1-1"
+    "sort-key": "row-3-1",
+    "value": {
+      "Power": 3,
+      "Cascade": 3
+    }
   },
   {
-    "count": "6",
+    "name": "Hariet Multimoon",
+    "category": [
+      "03 Multimoon"
+    ],
+    "progression": true,
+    "sort-key": "row-3-2",
+    "value": {
+      "Power": 3,
+      "Sand": 3
+    }
+  },
+  {
+    "name": "Knucklotec Multimoon",
+    "category": [
+      "03 Multimoon"
+    ],
+    "progression": true,
+    "sort-key": "row-3-3",
+    "value": {
+      "Power": 3,
+      "Sand": 3
+    }
+  },
+  {
+    "name": "Rango Multimoon",
+    "category": [
+      "03 Multimoon"
+    ],
+    "progression": true,
+    "sort-key": "row-3-4",
+    "value": {
+      "Power": 3,
+      "Lake": 3
+    }
+  },
+  {
+    "name": "Spewart Multimoon",
+    "category": [
+      "03 Multimoon"
+    ],
+    "progression": true,
+    "sort-key": "row-3-5",
+    "value": {
+      "Power": 3,
+      "Wooded": 3
+    }
+  },
+  {
+    "name": "Torkdrift Multimoon",
+    "category": [
+      "03 Multimoon"
+    ],
+    "progression": true,
+    "sort-key": "row-3-6",
+    "value": {
+      "Power": 3,
+      "Wooded": 3
+    }
+  },
+  {
+    "name": "Mechawiggler Multimoon",
+    "category": [
+      "03 Multimoon"
+    ],
+    "progression": true,
+    "sort-key": "row-3-7",
+    "value": {
+      "Power": 3,
+      "Metro": 3
+    }
+  },
+  {
     "name": "Progressive Kingdom Unlock",
-	"category": [
-      "Items"
+    "category": [
+      "01 Kingdom, Generic"
     ],
+    "count": 3,
     "progression": true,
-	"sort-key": "row-1-2"
+    "sort-key": "row-1-1"
   },
   {
-    "count": 1,
-    "name": "Cascade Kingdom Madame Broode Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Split Path Lake Unlock",
+    "category": [
+      "01 Kingdom"
     ],
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-1",
-	"local": true
+    "sort-key": "row-1-2"
   },
   {
-    "count": 1,
-    "name": "Sand Kingdom Hariet Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Split Path Wooded Unlock",
+    "category": [
+      "01 Kingdom"
     ],
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-2"
+    "sort-key": "row-1-3"
   },
   {
-    "count": 1,
-    "name": "Sand Kingdom Knucklotec Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Power Moon",
+    "category": [
+      "02 Power Moons, Generic"
     ],
+    "count": 75,
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-3"
+    "sort-key": "row-2-1",
+    "value": {
+      "Power": 1
+    }
   },
   {
-    "count": 1,
-    "name": "Lake Kingdom Rango Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Cascade Moon",
+    "category": [
+      "02 Power Moons, Specific"
     ],
+    "count": 5,
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-4"
+    "sort-key": "row-2-3",
+    "value": {
+      "Cascade": 1
+    }
   },
   {
-    "count": 1,
-    "name": "Wooded Kingdom Spewart Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Sand Moon",
+    "category": [
+      "02 Power Moons, Specific"
     ],
+    "count": 16,
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-5"
+    "sort-key": "row-2-4",
+    "value": {
+      "Sand": 1
+    }
   },
   {
-    "count": 1,
-    "name": "Wooded Kingdom Torkdrift Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Lake Moon",
+    "category": [
+      "02 Power Moons, Specific"
     ],
+    "count": 8,
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-6"
+    "sort-key": "row-2-5",
+    "value": {
+      "Lake": 1
+    }
   },
   {
-    "count": 1,
-    "name": "Metro Kingdom Mechawiggler Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Wooded Moon",
+    "category": [
+      "02 Power Moons, Specific"
     ],
+    "count": 16,
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-7"
+    "sort-key": "row-2-6",
+    "value": {
+      "Wooded": 1
+    }
   },
   {
-    "count": 1,
-    "name": "Metro Kingdom Festival Multi Moon",
-	"category": [
-      "Multimoons"
+    "name": "Lost Moon",
+    "category": [
+      "02 Power Moons, Specific"
+    ],
+    "count": 10,
+    "progression": true,
+    "sort-key": "row-2-8",
+    "value": {
+      "Lost": 1
+    }
+  },
+  {
+    "name": "Metro Moon",
+    "category": [
+      "02 Power Moons, Specific"
+    ],
+    "count": 20,
+    "progression": true,
+    "sort-key": "row-2-9",
+    "value": {
+      "Metro": 1
+    }
+  },
+  {
+    "name": "Frog",
+    "category": [
+      "04 Captures, Basic Capture"
     ],
     "progression": true,
-	"value": {
-      "Moons": 3
-    },
-	"sort-key": "row-2-8"
+    "sort-key": "row-4-1"
+  },
+  {
+    "name": "Spark Pylon",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-2"
+  },
+  {
+    "name": "Paragoomba",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-3"
+  },
+  {
+    "name": "Chain Chomp",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-4"
+  },
+  {
+    "name": "Big Chain Chomp",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-5"
+  },
+  {
+    "name": "Broode's Chain Chomp",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-6"
+  },
+  {
+    "name": "T-Rex",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-7"
+  },
+  {
+    "name": "Binoculars",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-8"
+  },
+  {
+    "name": "Bullet Bill",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-9"
+  },
+  {
+    "name": "Moe-Eye",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-10"
+  },
+  {
+    "name": "Cactus",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-11"
+  },
+  {
+    "name": "Goomba",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-12"
+  },
+  {
+    "name": "Knucklotec's Fist",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-13"
+  },
+  {
+    "name": "Mini Rocket",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-14"
+  },
+  {
+    "name": "Glydon",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-15"
+  },
+  {
+    "name": "Lakitu",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-16"
+  },
+  {
+    "name": "Zipper",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-17"
+  },
+  {
+    "name": "Cheep Cheep",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-18"
+  },
+  {
+    "name": "Puzzle Part (Lake)",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-19"
+  },
+  {
+    "name": "Poison Piranha Plant",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-20"
+  },
+  {
+    "name": "Uproot",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-21"
+  },
+  {
+    "name": "Fire Bro",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-22"
+  },
+  {
+    "name": "Sherm",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-23"
+  },
+  {
+    "name": "Coin Coffer",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-24"
+  },
+  {
+    "name": "Tree",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-25"
+  },
+  {
+    "name": "Boulder",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-26"
+  },
+  {
+    "name": "Picture Match Part (Goomba)",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-27"
+  },
+  {
+    "name": "Tropical Wiggler",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-28"
+  },
+  {
+    "name": "Pole",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-29"
+  },
+  {
+    "name": "Manhole",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-30"
+  },
+  {
+    "name": "Taxi",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-31"
+  },
+  {
+    "name": "RC Car",
+    "category": [
+      "04 Captures, Basic Capture"
+    ],
+    "progression": true,
+    "sort-key": "row-4-32"
   }
 ]

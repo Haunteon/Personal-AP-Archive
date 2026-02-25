@@ -1,121 +1,114 @@
 {
   "Cap Kingdom First Visit": {
-    "starting": true,
     "connects_to": [
       "Cascade Kingdom First Visit"
     ],
-    "requires": ""
-  },
-  "Cap Kingdom Post Peace": {
-    "connects_to": [],
-    "requires": ""
+    "starting": true
   },
   "Cascade Kingdom First Visit": {
     "connects_to": [
       "Cascade Kingdom Post Peace"
     ],
-    "requires": "",
     "starting": true
   },
   "Cascade Kingdom Post Peace": {
+    "requires": "|Madame Broode Multimoon|",
     "connects_to": [
       "Sand Kingdom First Visit"
-    ],
-    "requires": "|Cascade Kingdom Madame Broode Multi Moon|"
-  },
-  "Cascade Kingdom 2nd Visit": {
-    "connects_to": [],
-    "requires": ""
+    ]
   },
   "Sand Kingdom First Visit": {
+    "requires": "({ItemValue(Power:5)} or {ItemValue(Cascade:5)}) and {OptOne(|Progressive Kingdom Unlock:1|)}",
     "connects_to": [
+      "Cap Kingdom Post Peace",
+      "Cascade Kingdom Second Visit",
       "Sand Kingdom Post Hariet",
       "Lake Kingdom First Visit",
-      "Cascade Kingdom 2nd Visit",
-      "Cap Kingdom Post Peace"
-    ],
-    "requires": "{ItemValue(Moons:5)} AND |Progressive Kingdom Unlock:1|"
+      "Wooded Kingdom First Visit"
+    ]
+  },
+  "Cap Kingdom Post Peace": {
+  },
+  "Cascade Kingdom Second Visit": {
   },
   "Sand Kingdom Post Hariet": {
+    "requires": "|Hariet Multimoon|",
     "connects_to": [
       "Sand Kingdom Post Peace"
-    ],
-    "requires": "|Sand Kingdom Hariet Multi Moon|"
+    ]
   },
   "Sand Kingdom Post Peace": {
-    "connects_to": [],
-    "requires": "|Sand Kingdom Knucklotec Multi Moon|"
+    "requires": "|Knucklotec Multimoon|"
   },
   "Lake Kingdom First Visit": {
+    "requires": "(|Split Path Lake Unlock| and ({ItemValue(Power:21)} or {ItemValue(Sand:16)})) or (|Split Path Wooded Unlock| and ({ItemValue(Power:37)} or {ItemValue(Wooded:16)}))",
+    "connects_to": [
+      "Lake Kingdom Into the Lake"
+    ]
+  },
+  "Lake Kingdom Into the Lake": {
+    "requires": "{OptOne(|Zipper|)} or {YamlEnabled(capture_skip)}",
     "connects_to": [
       "Lake Kingdom Post Peace",
-	  "Wooded Kingdom First Visit"
-    ],
-    "requires": "{ItemValue(Moons:21)} AND |Progressive Kingdom Unlock:2|"
+      "Lost Kingdom First Visit"
+    ]
   },
   "Lake Kingdom Post Peace": {
-    "connects_to": [],
-    "requires": "|Lake Kingdom Rango Multi Moon|"
+    "requires": "|Rango Multimoon|"
   },
   "Wooded Kingdom First Visit": {
+    "requires": "(|Split Path Wooded Unlock| and ({ItemValue(Power:21)} or {ItemValue(Sand:16)})) or (|Split Path Lake Unlock| and ({ItemValue(Power:29)} or {ItemValue(Lake:8)}))",
+    "connects_to": [
+      "Wooded Kingdom Maze Skip"
+    ]
+  },
+  "Wooded Kingdom Maze Skip": {
+    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "connects_to": [
       "Wooded Kingdom Post Spewart",
-      "Cloud Kingdom First Visit"
-    ],
-    "requires": "{ItemValue(Moons:29)} AND |Progressive Kingdom Unlock:3|"
+      "Lost Kingdom First Visit"
+    ]
   },
   "Wooded Kingdom Post Spewart": {
+    "requires": "|Spewart Multimoon|",
+    "connects_to": [
+      "Wooded Kingdom Post Wall"
+    ]
+  },
+  "Wooded Kingdom Post Wall": {
+    "requires": "{OptAll(|Goomba| or |Sherm|)}",
     "connects_to": [
       "Wooded Kingdom Post Peace"
-    ],
-    "requires": "|Wooded Kingdom Spewart Multi Moon|"
+    ]
   },
   "Wooded Kingdom Post Peace": {
-    "connects_to": [],
-    "requires": "|Wooded Kingdom Torkdrift Multi Moon|"
-  },
-  "Cloud Kingdom First Visit": {
-    "connects_to": [
-      "Lost Kingdom First Visit"
-    ],
-    "requires": ""
-  },
-  "Cloud Kingdom Post Peace": {
-    "connects_to": [],
-    "requires": ""
+    "requires": "|Torkdrift Multimoon|"
   },
   "Lost Kingdom First Visit": {
+    "requires": "|Split Path Lake Unlock| and |Split Path Wooded Unlock| and {OptOne(|Progressive Kingdom Unlock:2|)} and ({ItemValue(Power:45)} or ({ItemValue(Lake:8)} and {ItemValue(Wooded:16)}))",
     "connects_to": [
-      "Night Metro Kingdom"
-    ],
-    "requires": "{ItemValue(Moons:45)} and |Progressive Kingdom Unlock:4|"
+      "Metro Kingdom Night"
+    ]
   },
-  "Lost Kingdom 2nd Visit": {
-    "connects_to": [],
-    "requires": ""
-  },
-  "Night Metro Kingdom": {
+  "Metro Kingdom Night": {
+    "requires": "({ItemValue(Power:55)} or {ItemValue(Lost:10)}) and {OptOne(|Progressive Kingdom Unlock:3|)}",
     "connects_to": [
-      "Day Metro Kingdom",
       "Cloud Kingdom Post Peace",
-      "Lost Kingdom 2nd Visit"
-    ],
-    "requires": "{ItemValue(Moons:55)} AND |Progressive Kingdom Unlock:5|"
+      "Lost Kingdom Second Visit",
+      "Metro Kingdom Day"
+    ]
   },
-  "Day Metro Kingdom": {
+  "Cloud Kingdom Post Peace": {
+  },
+  "Lost Kingdom Second Visit": {
+  },
+  "Metro Kingdom Day": {
+    "requires": "|Mechawiggler Multimoon|",
     "connects_to": [
-      "Metro Kingdom Post Peace"
-    ],
-    "requires": "|Metro Kingdom Mechawiggler Multi Moon|"
+      "Metro Kingdom Pre Festival"
+    ]
   },
-  "Metro Kingdom Post Peace": {
-    "connects_to": [
-      "Victory"
-    ],
-    "requires": "|Metro Kingdom Festival Multi Moon|"
-  },
-  "Victory": {
-    "connects_to": [],
-    "requires": "{ItemValue(Moons:75)}"
+  "Metro Kingdom Pre Festival": {
+    "requires": "{OptOne(|Manhole|)}"
   }
 }

@@ -1,19 +1,15 @@
 {
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-    "game": "SMO_Festival",
-    "creator": "Haunteon",
-    "filler_item_name": "Coin",
-    "Deathlink": true,
-    "starting_items": [
-        {
-            "items": [
-                "Frog",
-                "Spark Pylon",
-                "Chain Chomp",
-                "Big Chain Chomp",
-                "Broode's Chain Chomp"
-            ],
-            "_comment": "Capture Randomizer Items"
-        }
-    ]
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SMO_Festival",
+  "creator": "Haunteon",
+  "filler_item_name": "Coin",
+  "Deathlink": true,
+  "starting_items": [
+    {
+      "items": [
+        "Big Chain Chomp, Broode's Chain Chomp"
+      ],
+      "_comment": "Capture Randomizer Items"
+    }
+  ]
 }

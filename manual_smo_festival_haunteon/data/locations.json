@@ -1,1843 +1,2004 @@
 [
   {
+    "name": "Frog-Jumping Above the Fog",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Frog|)}",
+    "sort-key": "row-1-01"
+  },
+  {
+    "name": "Frog-Jumping from the Top Deck",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Frog|)}",
+    "sort-key": "row-1-02"
+  },
+  {
+    "name": "Cap Kingdom Timer Challenge 1",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "sort-key": "row-1-03"
+  },
+  {
+    "name": "Good Evening, Captain Toad!",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "sort-key": "row-1-04"
+  },
+  {
+    "name": "Shopping in Bonneton",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "sort-key": "row-1-05"
+  },
+  {
+    "name": "Skimming the Poison Tide",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Paragoomba|)}",
+    "sort-key": "row-1-06"
+  },
+  {
+    "name": "Slipping Through the Poison Tide",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Paragoomba|)}",
+    "sort-key": "row-1-07"
+  },
+  {
+    "name": "Push-Block Peril",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Spark Pylon|)}",
+    "sort-key": "row-1-08"
+  },
+  {
+    "name": "Hidden Among the Push-Blocks",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Spark Pylon|)}",
+    "sort-key": "row-1-09"
+  },
+  {
+    "name": "Searching the Frog Pond",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Frog|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-1-10"
+  },
+  {
+    "name": "Secrets of the Frog Pond",
+    "category": [
+      "01 Cap Kingdom"
+    ],
+    "region": "Cap Kingdom Post Peace",
+    "requires": "{OptOne(|Frog|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-1-11"
+  },
+  {
     "name": "Our First Power Moon",
-    "region": "Cascade Kingdom First Visit",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Chomp Through the Rocks",
     "region": "Cascade Kingdom First Visit",
-    "category": [
-      "Cascade Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Behind the Waterfall",
-    "region": "Cascade Kingdom First Visit",
-    "category": [
-      "Cascade Kingdom"
-    ],
-    "requires": ""
+    "sort-key": "row-2-01"
   },
   {
     "name": "Multi Moon Atop the Falls",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom First Visit",
+    "place_item": [
+      "Madame Broode Multimoon"
+    ],
+    "sort-key": "row-2-02"
+  },
+  {
+    "name": "Chomp Through the Rocks",
+    "category": [
+      "02 Cascade Kingdom"
+    ],
+    "region": "Cascade Kingdom First Visit",
+    "requires": "{OptAll(|T-Rex| or |Chain Chomp|)}",
+    "sort-key": "row-2-03"
+  },
+  {
+    "name": "Behind the Waterfall",
+    "category": [
+      "02 Cascade Kingdom"
+    ],
+    "region": "Cascade Kingdom First Visit",
+    "sort-key": "row-2-04"
   },
   {
     "name": "On Top of the Rubble",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-05"
   },
   {
     "name": "Treasure of the Waterfall Basin",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-06"
   },
   {
-    "name": "Above the High Cliff",
-    "region": "Cascade Kingdom Post Peace",
+    "name": "Above a High Cliff",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "requires": "{OptOne(|Chain Chomp|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-2-07"
   },
   {
     "name": "Across the Floating Isles",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-08"
   },
   {
-    "name": "Cascade Timer Challenge 1",
-    "region": "Cascade Kingdom Post Peace",
+    "name": "Cascade Kingdom Timer Challenge 1",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-09"
   },
   {
-    "name": "Cascade Timer Challenge 2",
-    "region": "Cascade Kingdom Post Peace",
+    "name": "Cascade Kingdom Timer Challenge 2",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-10"
   },
   {
-    "name": "Good Morning, Captain Toad",
-    "region": "Cascade Kingdom Post Peace",
+    "name": "Good Morning, Captain Toad!",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-11"
   },
   {
     "name": "Dinosaur Nest: Big Cleanup!",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "requires": "{OptOne(|T-Rex|)}",
+    "sort-key": "row-2-12"
   },
   {
     "name": "Dinosaur Nest: Running Wild!",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "requires": "{OptOne(|T-Rex|)}",
+    "sort-key": "row-2-13"
   },
   {
     "name": "Nice Shot with the Chain Chomp!",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "requires": "{OptOne(|Chain Chomp|)}",
+    "sort-key": "row-2-14"
   },
   {
     "name": "Very Nice Shot with the Chain Chomp!",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "requires": "{OptOne(|Chain Chomp|)}",
+    "sort-key": "row-2-15"
   },
   {
     "name": "Past the Chasm Lifts",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-16"
   },
   {
     "name": "Hidden Chasm Passage",
-    "region": "Cascade Kingdom Post Peace",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Post Peace",
+    "sort-key": "row-2-17"
   },
   {
     "name": "Rolling Rock by the Falls",
-    "region": "Cascade Kingdom 2nd Visit",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Second visit",
+    "sort-key": "row-2-20"
   },
   {
     "name": "Shopping in Fossil Falls",
-    "region": "Cascade Kingdom 2nd Visit",
     "category": [
-      "Cascade Kingdom"
+      "02 Cascade Kingdom"
     ],
-    "requires": ""
+    "region": "Cascade Kingdom Second visit",
+    "sort-key": "row-2-24"
   },
   {
     "name": "Atop the Highest Tower",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-01"
   },
   {
     "name": "Moon Shards in the Sand",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Moe-Eye|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-02"
   },
   {
     "name": "Showdown on the Inverted Pyramid",
-    "region": "Sand Kingdom Post Hariet",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "place_item": [
+      "Hariet Multimoon"
+    ],
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-03"
   },
   {
     "name": "The Hole in the Desert",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Hariet",
+    "place_item": [
+      "Knucklotec Multimoon"
+    ],
+    "requires": "{OptAll(|Bullet Bill| and |Knucklotec's Fist|)}",
+    "sort-key": "row-3-04"
   },
   {
     "name": "Overlooking the Desert Town",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-05"
   },
   {
     "name": "Alcove in the Ruins",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-06"
   },
   {
     "name": "On the Leaning Pillar",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-07"
   },
   {
     "name": "Hidden Room in the Flowing Sands",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-08"
   },
   {
     "name": "Secret of the Mural",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-09"
   },
   {
     "name": "Secret of the Inverted Mural",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-10"
   },
   {
     "name": "On Top of the Stone Archway",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)} or (|Knucklotec Multimoon| and {OptAll(|Spark Pylon| or |Glydon|)})",
+    "sort-key": "row-3-11"
   },
   {
     "name": "From a Crate in the Ruins",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-12"
   },
   {
     "name": "On the Lone Pillar",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-13"
   },
   {
     "name": "On the Statue's Tail",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-14"
   },
   {
     "name": "Hang Your Hat on the Fountain",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-15"
   },
   {
     "name": "Where the Birds Gather",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-16"
   },
   {
     "name": "Top of a Dune",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-17"
   },
   {
     "name": "Lost in the Luggage",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-18"
   },
   {
     "name": "Bullet Bill Breakthrough",
-    "region": "Sand Kingdom Post Hariet",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Hariet",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(guide_captures)}",
+    "sort-key": "row-3-19"
   },
   {
     "name": "Inside a Block Is a Hard Place",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(guide_captures)}",
+    "sort-key": "row-3-20"
   },
   {
     "name": "Bird Traveling the Desert",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-21"
   },
   {
     "name": "Bird Traveling the Wastes",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-22"
   },
   {
     "name": "The Lurker Under the Stone",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-23"
   },
   {
     "name": "The Treasure of Jaxi Ruins",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-24"
   },
   {
     "name": "Desert Gardening: Plaza Seed",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-25"
   },
   {
     "name": "Desert Gardening: Ruins Seed",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-26"
   },
   {
-    "name": "Desert Gardening: Seed on a Cliff",
-    "region": "Sand Kingdom First Visit",
+    "name": "Desert Gardening: Seed on the Cliff",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-27"
   },
   {
     "name": "Sand Kingdom Timer Challenge 1",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-28"
   },
   {
     "name": "Sand Kingdom Timer Challenge 2",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-29"
+  },
+  {
+    "name": "Sand Kingdom Timer Challenge 3",
+    "category": [
+      "03 Sand Kingdom"
+    ],
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-30"
+  },
+  {
+    "name": "Found in the Sand! Good Dog!",
+    "category": [
+      "03 Sand Kingdom"
+    ],
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-31"
   },
   {
     "name": "Taking Notes: Jump on the Palm",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-32"
   },
   {
     "name": "Herding Sheep in the Dunes",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-33"
+  },
+  {
+    "name": "Fishing in the Oasis",
+    "category": [
+      "03 Sand Kingdom"
+    ],
+    "region": "Sand Kingdom Post Peace",
+    "requires": "{OptOne(|Lakitu|)}",
+    "sort-key": "row-3-34"
   },
   {
     "name": "Love in the Heart of the Desert",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "requires": "{OptOne(|Goomba|)}",
+    "sort-key": "row-3-35"
   },
   {
     "name": "Among the Five Cactuses",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-36"
   },
   {
     "name": "You're Quite a Catch, Captain Toad!",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "requires": "{OptOne(|Lakitu|)}",
+    "sort-key": "row-3-37"
   },
   {
-    "name": "Jaxi Reunion",
-    "region": "Sand Kingdom Post Peace",
+    "name": "Jaxi Reunion!",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-38"
   },
   {
     "name": "Welcome Back, Jaxi!",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-39"
   },
   {
     "name": "Wandering Cactus",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Cactus|)}",
+    "sort-key": "row-3-40"
   },
   {
     "name": "Sand Quiz: Wonderful!",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-41"
   },
   {
     "name": "Shopping in Tostarena",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-42"
   },
   {
     "name": "Employees Only",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-43"
   },
   {
     "name": "Sand Kingdom Slots",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-44"
   },
   {
-    "name": "Walking in the Desert!",
-    "region": "Sand Kingdom Post Peace",
+    "name": "Walking the Desert!",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-45"
   },
   {
     "name": "Hidden Room in the Inverted Pyramid",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-46"
   },
   {
     "name": "Underground Treasure Chest",
-    "region": "Sand Kingdom Post Hariet",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Hariet",
+    "requires": "{OptOne(|Bullet Bill|)}",
+    "sort-key": "row-3-47"
   },
   {
     "name": "Goomba Tower Assembly",
-    "region": "Sand Kingdom Post Hariet",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Hariet",
+    "requires": "{OptOne(|Goomba|)}",
+    "sort-key": "row-3-48"
+  },
+  {
+    "name": "Under the Mummy's Curse",
+    "category": [
+      "03 Sand Kingdom"
+    ],
+    "region": "Sand Kingdom Post Peace",
+    "sort-key": "row-3-49"
   },
   {
     "name": "Ice Cave Treasure",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-50"
   },
   {
     "name": "Sphynx's Treasure Vault",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-51"
   },
   {
     "name": "A Rumble from the Sandy Floor",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-52"
   },
   {
     "name": "Dancing with New Friends",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-53"
   },
   {
     "name": "The Invisible Maze",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Moe-Eye|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-54"
   },
   {
     "name": "Skull Sign in the Transparent Maze",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Moe-Eye|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-55"
   },
   {
     "name": "The Bullet Bill Maze: Break Through!",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-56"
   },
   {
     "name": "The Bullet Bill Maze: Side Path",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-3-57"
   },
   {
     "name": "Jaxi Driver",
-    "region": "Sand Kingdom First Visit",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-58"
   },
   {
-    "name": "Jaxi Stunt Driver",
-    "region": "Sand Kingdom First Visit",
+    "name": "Jaxi Stunt Driving",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom First Visit",
+    "sort-key": "row-3-59"
   },
   {
     "name": "Strange Neighborhood",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "requires": "{OptOne(|Mini Rocket|)}",
+    "sort-key": "row-3-60"
   },
   {
     "name": "Above a Strange Neighborhood",
-    "region": "Sand Kingdom Post Peace",
     "category": [
-      "Sand Kingdom"
+      "03 Sand Kingdom"
     ],
-    "requires": ""
+    "region": "Sand Kingdom Post Peace",
+    "requires": "{OptOne(|Mini Rocket|)}",
+    "sort-key": "row-3-61"
   },
   {
     "name": "Broodals Over the Lake",
-    "region": "Lake Kingdom Post Peace",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "place_item": [
+      "Rango Multimoon"
+    ],
+    "sort-key": "row-4-01"
   },
   {
     "name": "Dorrie-Back Rider",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-02"
   },
   {
     "name": "Cheep Cheep Crossing",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-03"
   },
   {
     "name": "End of the Hidden Passage",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "requires": "{OptOne(|Zipper|)}",
+    "sort-key": "row-4-04"
   },
   {
-    "name": "What's in the Box",
-    "region": "Lake Kingdom First Visit",
+    "name": "What's in the Box?",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-05"
   },
   {
     "name": "On the Lakeshore",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom First Visit",
+    "sort-key": "row-4-06"
   },
   {
     "name": "From the Broken Pillar",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-07"
   },
   {
     "name": "Treasure in the Spiky Waterway",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-08"
+  },
+  {
+    "name": "Lake Gardening: Spiky Passage Seed",
+    "category": [
+      "04 Lake Kingdom"
+    ],
+    "region": "Lake Kingdom Post Peace",
+    "sort-key": "row-4-09"
   },
   {
     "name": "Lake Kingdom Timer Challenge 1",
-    "region": "Lake Kingdom Post Peace",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Post Peace",
+    "sort-key": "row-4-10"
   },
   {
     "name": "Lake Kingdom Timer Challenge 2",
-    "region": "Lake Kingdom Post Peace",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Post Peace",
+    "sort-key": "row-4-11"
   },
   {
     "name": "Moon Shards in the Lake",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-12"
   },
   {
     "name": "Taking Notes: Dive and Swim",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom First Visit",
+    "sort-key": "row-4-13"
   },
   {
     "name": "Taking Notes: In the Cliffside",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-14"
   },
   {
     "name": "Lake Fishing",
-    "region": "Lake Kingdom Post Peace",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Post Peace",
+    "requires": "{OptOne(|Lakitu|)}",
+    "sort-key": "row-4-15"
   },
   {
-    "name": "I Met A Lake Cheep Cheep!",
-    "region": "Lake Kingdom Post Peace",
+    "name": "I Met a Lake Cheep Cheep!",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Post Peace",
+    "requires": "{OptOne(|Cheep Cheep|)}",
+    "sort-key": "row-4-16"
   },
   {
     "name": "Our Secret Little Room",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-17"
   },
   {
     "name": "Let's Go Swimming, Captain Toad!",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "requires": "{OptOne(|Cheep Cheep|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-4-18"
   },
   {
     "name": "Shopping in Lake Lamode",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-19"
   },
   {
     "name": "A Successful Repair Job",
-    "region": "Lake Kingdom Post Peace",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Post Peace",
+    "requires": "{OptOne(|Puzzle Part (Lake)|)}",
+    "sort-key": "row-4-20"
+  },
+  {
+    "name": "I Feel Underdressed",
+    "category": [
+      "04 Lake Kingdom"
+    ],
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-21"
   },
   {
     "name": "Unzip the Chasm",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "requires": "{OptOne(|Zipper|)}",
+    "sort-key": "row-4-22"
   },
   {
     "name": "Super-Secret Zipper",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "requires": "{OptOne(|Zipper|)}",
+    "sort-key": "row-4-23"
   },
   {
     "name": "Jump, Grab, Cling, and Climb",
-    "region": "Lake Kingdom First Visit",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-24"
   },
   {
-    "name": "Jump, Grab, Cling, and Climb Some More",
-    "region": "Lake Kingdom First Visit",
+    "name": "Jump, Grab, and Climb Some More",
     "category": [
-      "Lake Kingdom"
+      "04 Lake Kingdom"
     ],
-    "requires": ""
+    "region": "Lake Kingdom Into the Lake",
+    "sort-key": "row-4-25"
+  },
+  {
+    "name": "Found with Lake Kingdom Art",
+    "category": [
+      "04 Lake Kingdom"
+    ],
+    "region": "Lake Kingdom Post Peace",
+    "sort-key": "row-4-27"
   },
   {
     "name": "Road to Sky Garden",
-    "region": "Wooded Kingdom First Visit",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": ""
+    "region": "Wooded Kingdom Maze Skip",
+    "sort-key": "row-5-01"
   },
   {
     "name": "Flower Thieves of Sky Garden",
-    "region": "Wooded Kingdom Post Spewart",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": ""
+    "region": "Wooded Kingdom Maze Skip",
+    "place_item": [
+      "Spewart Multimoon"
+    ],
+    "sort-key": "row-5-02"
   },
   {
     "name": "Path to the Secret Flower Field",
-    "region": "Wooded Kingdom Post Spewart",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": ""
+    "region": "Wooded Kingdom Post Wall",
+    "requires": "{OptOne(|Sherm|)}",
+    "sort-key": "row-5-03"
   },
   {
-    "name": "Defend the Secret Flower Field",
-    "region": "Wooded Kingdom Post Peace",
+    "name": "Defend the Secret Flower Field!",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": ""
+    "region": "Wooded Kingdom Post Wall",
+    "place_item": [
+      "Torkdrift Multimoon"
+    ],
+    "requires": "{OptOne(|Uproot|)}",
+    "sort-key": "row-5-04"
   },
   {
     "name": "Behind the Rock Wall",
-    "region": "Wooded Kingdom Post Spewart",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": ""
+    "region": "Wooded Kingdom Post Wall",
+    "requires": "{OptOne(|Sherm|)}",
+    "sort-key": "row-5-05"
   },
   {
-    "name": "Back Way up the Mountain",
+    "name": "Back Way Up the Mountain",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Wall",
+    "sort-key": "row-5-06"
   },
   {
     "name": "Rolling Rock in the Woods",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-07"
   },
   {
-    "name": "Caught Hopping in the Forest",
+    "name": "Caught Hopping in the Forest!",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-08"
   },
   {
-    "name": "Thanks for the Charge",
+    "name": "Thanks for the Charge!",
+    "category": [
+      "05 Wooded Kingdom"
+    ],
     "region": "Wooded Kingdom Post Spewart",
-    "category": [
-      "Wooded Kingdom"
-    ],
-    "requires": ""
+    "sort-key": "row-5-09"
   },
   {
     "name": "Atop the Tall Tree",
-    "region": "Wooded Kingdom First Visit",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": ""
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-10"
   },
   {
     "name": "Tucked Away Inside the Tunnel",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-11"
   },
   {
     "name": "Over the Cliff's Edge",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom Post Spewart",
+    "sort-key": "row-5-12"
   },
   {
     "name": "The Nut 'Round the Corner",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-13"
   },
   {
     "name": "Climb the Cliff to Get the Nut",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-14"
   },
   {
     "name": "The Nut in the Red Maze",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom Maze Skip",
+    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-15"
   },
   {
     "name": "The Nut at the Dead End",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom Maze Skip",
+    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-16"
   },
   {
     "name": "Cracked Nut on a Crumbling Tower",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom Maze Skip",
+    "sort-key": "row-5-17"
   },
   {
     "name": "The Nut that Grew on the Tall Fence",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Wall",
+    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-18"
   },
   {
     "name": "Fire in the Cave",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-19"
   },
   {
-    "name": "Hey Out There, Captain Toad",
+    "name": "Hey Out There, Captain Toad!",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Peace"
+    "region": "Wooded Kingdom Post Peace",
+    "requires": "{OptOne(|Glydon|)}",
+    "sort-key": "row-5-20"
   },
   {
     "name": "Love in the Forest Ruins",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Spewart",
+    "requires": "{OptOne(|Goomba|)}",
+    "sort-key": "row-5-21"
   },
   {
     "name": "Inside a Rock in the Forest",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Peace"
+    "region": "Wooded Kingdom Post Peace",
+    "requires": "{OptOne(|Sherm|)}",
+    "sort-key": "row-5-22"
   },
   {
     "name": "Shopping in Steam Gardens",
-    "region": "Wooded Kingdom First Visit",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": ""
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-23"
   },
   {
     "name": "Nut Planted in the Tower",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom Maze Skip",
+    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-24"
   },
   {
     "name": "Stretching Your Legs",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom Maze Skip",
+    "requires": "{OptOne(|Uproot|)}",
+    "sort-key": "row-5-25"
   },
   {
     "name": "Spinning-Platforms Treasure",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Wall",
+    "sort-key": "row-5-26"
+  },
+  {
+    "name": "Make the Secret Flower Field Bloom",
+    "category": [
+      "05 Wooded Kingdom"
+    ],
+    "region": "Wooded Kingdom Post Peace",
+    "sort-key": "row-5-27"
   },
   {
     "name": "Rolling Rock in the Deep Woods",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-28"
   },
   {
     "name": "Glowing in the Deep Woods",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-29"
   },
   {
     "name": "Past the Peculiar Pipes",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-30"
   },
   {
-    "name": "By the Babbling Brook in the Deep Woods",
+    "name": "By the Babbling Brook in Deep Woods",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|T-Rex|)}",
+    "sort-key": "row-5-31"
   },
   {
     "name": "The Hard Rock in Deep Woods",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|T-Rex|)}",
+    "sort-key": "row-5-32"
   },
   {
     "name": "A Treasure Made from Coins",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|Coin Coffer|)}",
+    "sort-key": "row-5-33"
   },
   {
     "name": "Beneath the Roots of the Moving Tree",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "requires": "{OptOne(|Tree|)}",
+    "sort-key": "row-5-34"
   },
   {
     "name": "Deep Woods Treasure Trap",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-35"
   },
   {
     "name": "Exploring for Treasure",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-36"
   },
   {
     "name": "Wooded Kingdom Timer Challenge 1",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Peace"
+    "region": "Wooded Kingdom Post Peace",
+    "sort-key": "row-5-37"
   },
   {
     "name": "Wooded Kingdom Timer Challenge 2",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Peace"
+    "region": "Wooded Kingdom Post Peace",
+    "sort-key": "row-5-38"
   },
   {
     "name": "Flooding Pipeway",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-39"
   },
   {
-    "name": "Flooding Pipeway Secret",
+    "name": "Flooding Pipeway Ceiling Secret",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom First Visit"
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-40"
   },
   {
     "name": "Wandering in the Fog",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Spewart",
+    "requires": "{OptAll(|Mini Rocket| and |Paragoomba|)}",
+    "sort-key": "row-5-41"
   },
   {
     "name": "Nut Hidden in the Fog",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Spewart",
+    "requires": "{OptAll(|Mini Rocket| and |Paragoomba|)}",
+    "sort-key": "row-5-42"
   },
   {
     "name": "Flower Road Run",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Wall",
+    "sort-key": "row-5-43"
   },
   {
     "name": "Flower Road Reach",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Wall",
+    "requires": "{OptOne(|Goomba|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-5-44"
   },
   {
     "name": "Elevator Escalation",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Wall",
+    "requires": "{OptOne(|Sherm|)}",
+    "sort-key": "row-5-45"
   },
   {
     "name": "Elevator Blind Spot",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Spewart"
+    "region": "Wooded Kingdom Post Wall",
+    "requires": "{OptOne(|Sherm|)}",
+    "sort-key": "row-5-46"
   },
   {
     "name": "Walking on Clouds",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Peace"
+    "region": "Wooded Kingdom Post Peace",
+    "requires": "{OptOne(|Uproot|)}",
+    "sort-key": "row-5-47"
   },
   {
     "name": "Above the Clouds",
     "category": [
-      "Wooded Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
-    "region": "Wooded Kingdom Post Peace"
+    "region": "Wooded Kingdom Post Peace",
+    "requires": "{OptOne(|Uproot|)}",
+    "sort-key": "row-5-48"
   },
   {
+    "name": "Found with Wooded Kingdom Art",
     "category": [
-      "Cloud Kingdom"
+      "05 Wooded Kingdom"
     ],
-    "requires": "",
+    "region": "Wooded Kingdom First Visit",
+    "sort-key": "row-5-50"
+  },
+  {
     "name": "Picture Match: Basically a Goomba",
-    "region": "Cloud Kingdom Post Peace"
+    "category": [
+      "06 Cloud Kingdom"
+    ],
+    "region": "Cloud Kingdom Post Peace",
+    "requires": "{OptOne(|Picture Match Part (Goomba)|)}",
+    "sort-key": "row-6-01"
   },
   {
-    "name": "Atop the Propeller Pillar",
-    "region": "Lost Kingdom First Visit",
+    "name": "Atop a Propeller Pillar",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-01"
   },
   {
     "name": "Below the Cliff's Edge",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-02"
   },
   {
     "name": "Inside the Stone Cage",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-03"
   },
   {
     "name": "On a Tree in the Swamp",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-04"
   },
   {
     "name": "Over the Fuzzies, Above the Swamp",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-05"
   },
   {
     "name": "Avoiding Fuzzies Inside the Wall",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-06"
   },
   {
     "name": "Inside the Rising Stone Pillar",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-07"
   },
   {
     "name": "Enjoying the View of Forgotten Isle",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-08"
   },
   {
     "name": "On the Mountain Road",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-09"
   },
   {
     "name": "A Propeller Pillar's Secret",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-10"
   },
   {
     "name": "Wrecked Rock Block",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-11"
   },
   {
     "name": "A Butterfly's Treasure",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-12"
   },
   {
-    "name": "Caught Hopping in the Jungle",
-    "region": "Lost Kingdom 2nd Visit",
+    "name": "Caught Hopping in the Jungle!",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom Second Visit",
+    "sort-key": "row-7-13"
   },
   {
     "name": "Cave Gardening",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-14"
   },
   {
     "name": "Moon Shards in the Jungle",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "requires": "{OptOne(|Tropical Wiggler|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-7-15"
   },
   {
     "name": "Peeking Out from Under the Bridge",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "requires": "{OptOne(|Tropical Wiggler|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-7-16"
   },
   {
     "name": "Twist 'n' Turn-Up Treasure",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "requires": "{OptOne(|Tropical Wiggler|)}",
+    "sort-key": "row-7-17"
   },
   {
     "name": "Soaring Over Forgotten Isle!",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "requires": "{OptOne(|Glydon|)}",
+    "sort-key": "row-7-18"
   },
   {
     "name": "The Caged Gold",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-19"
   },
   {
     "name": "Get Some Rest, Captain Toad",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "requires": "{OptOne(|Tropical Wiggler|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-7-20"
   },
   {
     "name": "Shopping on Forgotten Isle",
-    "region": "Lost Kingdom First Visit",
     "category": [
-      "Lost Kingdom"
+      "07 Lost Kingdom"
     ],
-    "requires": ""
+    "region": "Lost Kingdom First Visit",
+    "sort-key": "row-7-21"
   },
   {
     "name": "New Donk City's Pest Problem",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Night",
+    "place_item": [
+      "Mechawiggler Multimoon"
+    ],
+    "requires": "{OptOne(|Sherm|)}",
+    "sort-key": "row-8-01"
   },
   {
     "name": "Drummer on Board!",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-02"
   },
   {
     "name": "Guitarist on Board!",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-03"
   },
   {
     "name": "Bassist on Board!",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-04"
   },
   {
     "name": "Trumpeter on Board!",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "Check Notes",
+    "sort-key": "row-8-05"
   },
   {
     "name": "Powering Up the Station",
-    "region": "Metro Kingdom Post Peace",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Pre Festival",
+    "sort-key": "row-8-06"
   },
   {
-    "name": "A Traditional Festival",
-    "region": "Victory",
+    "name": "A Traditional Festival!",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": "",
+    "region": "Metro Kingdom Pre Festival",
+    "requires": "{ItemValue(Power:75)} or {ItemValue(Metro:20)}",
+    "sort-key": "row-8-07",
     "victory": true
   },
   {
     "name": "Inside an Iron Girder",
-    "region": "Night Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Night",
+    "sort-key": "row-8-08"
   },
   {
     "name": "Swaying in the Breeze",
-    "region": "Night Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Night",
+    "sort-key": "row-8-09"
   },
   {
     "name": "Girder Sandwich",
-    "region": "Night Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Night",
+    "requires": "Check Notes",
+    "sort-key": "row-8-10"
   },
   {
     "name": "Glittering Above the Pool",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-11"
   },
   {
     "name": "Dizzying Heights",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "region": "Day Metro Kingdom",
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-12"
   },
   {
-    "name": "Secret Girder Tunnel",
-    "region": "Day Metro Kingdom",
+    "name": "Secret Girder Tunnel!",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-13"
   },
   {
     "name": "Who Piled Garbage on This?",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-14"
   },
   {
     "name": "Hidden in the Scrap",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-15"
   },
   {
-    "name": "Left at the Cafe?",
-    "region": "Day Metro Kingdom",
+    "name": "Left at the Café?",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-16"
   },
   {
     "name": "How Do They Take Out the Trash?",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-18"
   },
   {
     "name": "City Gardening: Building Planter",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-21"
   },
   {
     "name": "City Gardening: Plaza Planter",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-22"
   },
   {
     "name": "City Gardening: Rooftop Planter",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-23"
   },
   {
-    "name": "How You Doing, Captain Toad?",
-    "region": "Day Metro Kingdom",
+    "name": "How You Doin', Captain Toad?",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-24"
   },
   {
     "name": "Free Parking: Rooftop Hop",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-25"
   },
   {
     "name": "Bench Friends",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-26"
   },
   {
     "name": "Shopping in New Donk City",
-    "region": "Night Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Night",
+    "sort-key": "row-8-27"
   },
   {
     "name": "Metro Kingdom Slots",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-28"
   },
   {
     "name": "Jump-Rope Hero",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-29"
   },
   {
     "name": "Jump-Rope Genius",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-30"
   },
   {
     "name": "Remotely Captured Car",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|RC Car|)}",
+    "sort-key": "row-8-31"
   },
   {
     "name": "RC Car Pro!",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|RC Car|)}",
+    "sort-key": "row-8-32"
   },
   {
     "name": "Taking Notes: In the Private Room",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-33"
   },
   {
-    "name": "City Hall Lost and Found",
-    "region": "Night Metro Kingdom",
+    "name": "City Hall Lost & Found",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Night",
+    "sort-key": "row-8-34"
   },
   {
     "name": "Sewer Treasure",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Pre Festival",
+    "sort-key": "row-8-35"
   },
   {
     "name": "Celebrating in the Streets!",
-    "region": "Metro Kingdom Post Peace",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Pre Festival",
+    "sort-key": "row-8-36"
   },
   {
     "name": "Pushing Through the Crowd",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-37"
   },
   {
     "name": "High Over the Crowd",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-38"
   },
   {
     "name": "Rewiring the Neighborhood",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|Spark Pylon|)}",
+    "sort-key": "row-8-39"
   },
   {
     "name": "Off the Beaten Wire",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|Spark Pylon|)}",
+    "sort-key": "row-8-40"
   },
   {
     "name": "Moon Shards Under Siege",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptAll(|Taxi| and |Sherm|)}",
+    "sort-key": "row-8-41"
   },
   {
     "name": "Sharpshooting Under Siege",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptAll(|Taxi| and |Sherm|)}",
+    "sort-key": "row-8-42"
   },
   {
     "name": "Inside the Rotating Maze",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|Manhole|)}",
+    "sort-key": "row-8-43"
   },
   {
     "name": "Outside the Rotating Maze",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|Manhole|)}",
+    "sort-key": "row-8-44"
   },
   {
-    "name": "Hanging from a High Rise",
-    "region": "Day Metro Kingdom",
+    "name": "Hanging from a High-Rise",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|Mini Rocket|)}",
+    "sort-key": "row-8-45"
   },
   {
-    "name": "Vaulting Up a High Rise",
-    "region": "Day Metro Kingdom",
+    "name": "Vaulting Up a High-Rise",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|Mini Rocket|)}",
+    "sort-key": "row-8-46"
   },
   {
     "name": "Bullet Billding",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-47"
   },
   {
-    "name": "One Man's Trash…",
-    "region": "Day Metro Kingdom",
+    "name": "One Man's Trash...",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
+    "sort-key": "row-8-48"
   },
   {
     "name": "Motor Scooter: Escape!",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-49"
   },
   {
     "name": "Big Jump: Escape!",
-    "region": "Day Metro Kingdom",
     "category": [
-      "Metro Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-50"
   },
   {
-    "name": "Frog-Jumping Above the Fog",
-    "region": "Cap Kingdom Post Peace",
+    "name": "Found with Metro Kingdom Art",
     "category": [
-      "Cap Kingdom"
+      "08 Metro Kingdom"
     ],
-    "requires": ""
-  },
-  {
-    "name": "Frog-Jumping the Top Deck",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Cap Kingdom Timer Challenge 1",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Good Evening, Captain Toad!",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Shopping in Bonneton",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Skimming the Poison Tide",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Slipping Through the Poison Tide",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Push-Block Peril",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Hidden Among the Push- Blocks",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Searching the Frog Pond",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Secrets of the Frog Pond",
-    "region": "Cap Kingdom Post Peace",
-    "category": [
-      "Cap Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Sand Kingdom Timer Challenge 3",
-    "region": "Sand Kingdom Post Peace",
-    "category": [
-      "Sand Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "I Feel Undressed",
-    "region": "Lake Kingdom First Visit",
-    "category": [
-      "Lake Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Fishing in the Oasis",
-    "region": "Sand Kingdom Post Peace",
-    "category": [
-      "Sand Kingdom"
-    ],
-    "requires": ""
-  },
-  {
-    "name": "Make the Secret Flower Field Bloom",
-    "region": "Wooded Kingdom Post Peace",
-    "category": [
-      "Wooded Kingdom"
-    ],
-    "requires": ""
+    "region": "Metro Kingdom Day",
+    "sort-key": "row-8-53"
   }
 ]
