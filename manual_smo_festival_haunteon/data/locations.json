@@ -404,7 +404,7 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom Post Hariet",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(guide_captures)}",
+    "requires": "{OptOne(|Bullet Bill|)}",
     "sort-key": "row-3-19"
   },
   {
@@ -413,7 +413,7 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(guide_captures)}",
+    "requires": "{OptOne(|Bullet Bill|)}",
     "sort-key": "row-3-20"
   },
   {
@@ -1337,7 +1337,7 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Post Wall",
-    "requires": "{OptOne(|Sherm|)} or {YamlEnabled(guide_captures)}",
+    "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-5-45"
   },
   {

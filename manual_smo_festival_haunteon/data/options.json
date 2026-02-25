@@ -41,15 +41,6 @@
       "description": [
         "Adds 32 Captures to the item pool"
       ]
-    },
-    "guide_captures": {
-      "display_name": "Guide Captures",
-      "type": "Toggle",
-      "default": false,
-      "group": "Location Options",
-      "description": [
-        "Allow Guiding Captures"
-      ]
     }
   }
 }
