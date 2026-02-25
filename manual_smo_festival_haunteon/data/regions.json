@@ -47,7 +47,6 @@
     ]
   },
   "Lake Kingdom Into the Lake": {
-    "requires": "{OptOne(|Zipper|)} or {YamlEnabled(capture_skip)}",
     "connects_to": [
       "Lake Kingdom Post Peace",
       "Lost Kingdom First Visit"
@@ -63,7 +62,6 @@
     ]
   },
   "Wooded Kingdom Maze Skip": {
-    "requires": "{OptOne(|Uproot|)} or {YamlEnabled(capture_skip)}",
     "connects_to": [
       "Wooded Kingdom Post Spewart",
       "Lost Kingdom First Visit"
@@ -82,7 +80,7 @@
     ]
   },
   "Wooded Kingdom Post Peace": {
-    "requires": "|Torkdrift Multimoon|"
+    "requires": "{OptOne(|Uproot|)} and |Torkdrift Multimoon|"
   },
   "Lost Kingdom First Visit": {
     "requires": "|Split Path Lake Unlock| and |Split Path Wooded Unlock| and {OptAll(|Progressive Kingdom Unlock:2| and (|Power Moon:45| and (|Lake Moon:8| and |Wooded Moon:16|)))}",
@@ -103,7 +101,7 @@
   "Lost Kingdom Second Visit": {
   },
   "Metro Kingdom Day": {
-    "requires": "|Mechawiggler Multimoon|",
+    "requires": "{OptOne(|Sherm|)} and |Mechawiggler Multimoon|",
     "connects_to": [
       "Metro Kingdom Pre Festival"
     ]
