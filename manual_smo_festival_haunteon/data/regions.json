@@ -38,7 +38,7 @@
     ]
   },
   "Sand Kingdom Post Peace": {
-    "requires": "|Knucklotec Multimoon|"
+    "requires": "{OptAll(|Bullet Bill| and |Knucklotec's Fist|)} and |Knucklotec Multimoon|"
   },
   "Lake Kingdom First Visit": {
     "requires": "(|Split Path Lake Unlock| and {OptAll(|Power Moon:21| and |Sand Moon:16|)}) or (|Split Path Wooded Unlock| and {OptAll(|Power Moon:37| and |Sand Moon:16| and |Wooded Moon:16|)})",
