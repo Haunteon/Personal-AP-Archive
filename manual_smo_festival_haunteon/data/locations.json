@@ -1640,7 +1640,6 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Day",
-    "requires": "Check Notes",
     "sort-key": "row-8-05"
   },
   {
@@ -1683,7 +1682,7 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Night",
-    "requires": "Check Notes",
+    "requires": "{OptOne(|Sherm|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-8-10"
   },
   {
@@ -1894,7 +1893,6 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Day",
-    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-8-39"
   },
   {
@@ -1903,7 +1901,6 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Day",
-    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-8-40"
   },
   {

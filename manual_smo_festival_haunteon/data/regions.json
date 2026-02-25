@@ -91,7 +91,7 @@
     ]
   },
   "Metro Kingdom Night": {
-    "requires": "({ItemValue(Power:55)} or {ItemValue(Lost:10)}) and {OptOne(|Progressive Kingdom Unlock:3|)}",
+    "requires": "({ItemValue(Power:55)} or {ItemValue(Lost:10)}) and {OptOne(|Progressive Kingdom Unlock:3|)} and {OptOne(|Spark Pylon|)}",
     "connects_to": [
       "Cloud Kingdom Post Peace",
       "Lost Kingdom Second Visit",
