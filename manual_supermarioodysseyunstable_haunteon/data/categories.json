@@ -19,72 +19,6 @@
 		"yaml_option": ["outfit_items"],
 		"hidden": true
 	},
-	"2D Moons": {
-		"hidden": true
-	},
-	"Treasure Chest Moons": {
-		"hidden": true
-	},
-	"Notes Moons": {
-		"hidden": true
-	},
-	"Timer Moons": {
-		"hidden": true
-	},
-	"Toad Moons": {
-		"hidden": true
-	},
-	"Peach Moons": {
-		"hidden": true
-	},
-	"Sheep Moons": {
-		"hidden": true
-	},
-	"Goombette Moons": {
-		"hidden": true
-	},
-	"Lakitu Moons": {
-		"hidden": true
-	},
-	"Seed Moons": {
-		"hidden": true
-	},
-	"Rabbit Moons": {
-		"hidden": true
-	},
-	"Hat Spin Moons": {
-		"hidden": true
-	},
-	"Bird Moons": {
-		"hidden": true
-	},
-	"Outfit Moons": {
-		"hidden": true
-	},
-	"Hat and Seek Moons": {
-		"hidden": true
-	},
-	"Jammin Moons": {
-		"hidden": true
-	},
-	"Hint Art Moons": {
-		"hidden": true
-	},
-	"Slots Moons": {
-		"hidden": true
-	},
-	"Freerunning Moons": {
-		"hidden": true
-	},
-	"Trace Walking Moons": {
-		"hidden": true
-	},
-	"Quiz Moons": {
-		"hidden": true
-	},
-	"100 Purples": {
-		"hidden": true
-	},
 	"Easy Trick Jumps": {
 		"yaml_option": ["easy_trick_jumps"],
 		"hidden": true
@@ -93,20 +27,24 @@
 		"yaml_option": ["hard_trick_jumps"],
 		"hidden": true
 	},
-	"Post Metro": {
-		"yaml_option": ["post_metro_moons"],
-		"hidden": true
-	},
 	"Post Game": {
-		"yaml_option": ["post_metro_moons", "post_game_moons"],
+		"yaml_option": ["post_game_moons"],
 		"hidden": true
 	},
 	"Moon Rock": {
-		"yaml_option": ["post_metro_moons", "post_game_moons", "moon_rock_moons"],
+		"yaml_option": ["post_game_moons", "moon_rock_moons"],
 		"hidden": true
 	},
-	"Dev": {
-		"yaml_option": ["dev_item"],
+	"Achievement": {
+		"yaml_option": ["achievement_moons"],
+		"hidden": true
+	},
+	"Generic": {
+		"yaml_option": ["generic_moons"],
+		"hidden": true
+	},
+	"Specific": {
+		"yaml_option": ["!generic_moons"],
 		"hidden": true
 	}
 }
