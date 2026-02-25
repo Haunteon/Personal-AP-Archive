@@ -22,63 +22,14 @@
         }
     },
     "user": {
-        "_commented_out_option":{
-            "type": "Toggle",
-            "default": true
-        },
-        "Example_Toggle":{
-            "display_name": "Example Toggle",
-			"type": "Toggle",
+		"generic_moons":{
+            "display_name": "Generic Moons",
 			"description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Determines if Power Moons are Kingdom Specific"
             ],
-            "default": false,
-            "group": "Example Options"
-        },
-        "Example_Choice":{
-            "display_name":  "Example Choice",
-			"type": "Choice",
-            "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
-            ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "display_name": "Example Range",
-			"type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true,
-            "group": "Example Options"
+            "default": false,
+            "group": "Item Options"
         },
 		"capture_randomizer":{
             "display_name": "Shuffle Captures",
@@ -132,16 +83,6 @@
             "default": false,
             "group": "Item Options"
         },
-		"dev_item":{
-            "display_name": "Unobtanium",
-			"description": [
-				"Item to unlock Locations that need testing."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Item Options",
-			"hidden": false
-        },
 		"outfit_moons":{
             "display_name": "Outfit Doors",
 			"description": [
@@ -151,30 +92,31 @@
             "default": false,
             "group": "Location Options"
         },
-		"post_metro_moons":{
-            "display_name": "Include Post Metro Moons",
-			"description": [
-				"Adds Post Metro moons as locations."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options"
-        },
 		"post_game_moons":{
             "display_name": "Include Post Game Moons",
 			"description": [
-				"Requires Post Metro Moons",
 				"Adds Post Game moons as locations."
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Location Options"
+            "group": "Location Options",
+			"hidden": false
         },
 		"moon_rock_moons":{
             "display_name": "Include Moon Rock Moons",
 			"description": [
 				"Requires Post Game Moons",
 				"Adds Moon Rock moons as locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options",
+			"hidden": false
+        },
+		"achievement_moons":{
+            "display_name": "Include Toadette Moons",
+			"description": [
+				"Adds Toadette moons as locations."
             ],
             "type": "Toggle",
             "default": false,
