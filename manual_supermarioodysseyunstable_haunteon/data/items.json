@@ -340,7 +340,8 @@
     "count": 1,
     "name": "Dark Side Mecha-Broodal Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Game"
     ],
     "progression": true,
 	"sort-key": "row-1-29"
@@ -839,7 +840,8 @@
     "name": "Letter",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Game"
     ],
     "progression": true,
 	"sort-key": "row-3-49"
@@ -849,7 +851,8 @@
     "name": "Puzzle Part (Metro)",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Game"
     ],
     "progression": true,
 	"sort-key": "row-3-50"
