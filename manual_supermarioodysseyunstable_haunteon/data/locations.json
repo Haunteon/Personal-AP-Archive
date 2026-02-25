@@ -32,7 +32,7 @@
       "00 Events"
     ],
     "requires": "|Goal 4|",
-    "victory": true,
+    "victory": false,
     "sort-key": "row-00-004"
   },
   {
