@@ -27,7 +27,7 @@
       "Lake Kingdom 1st Visit",
       "Wooded Kingdom 1st Visit"
     ],
-    "requires": "|Power Moon:5| AND |Progressive Kingdom Unlock:1|"
+    "requires": "{OptAll(|Power Moon:5| and |Cascade Moon:5| and |Progressive Kingdom Unlock:1|)}"
   },
   "Cap Kingdom Post Peace": {
     "connects_to": [],
@@ -51,7 +51,7 @@
     "connects_to": [
       "Lake Kingdom Into the Lake"
     ],
-    "requires": "(|Power Moon:21| AND |Kingdom Split Path Lake Kingdom|) OR (|Power Moon:37| AND (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and |Hold/Throw|)))"
+    "requires": "({OptAll(|Power Moon:21| and |Sand Moon:16|)} and |Kingdom Split Path Lake Kingdom|) or ({OptAll(|Power Moon:37| and |Sand Moon:16| and |Wooded Moon:16|)} and (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and |Hold/Throw|)))"
   },
   "Lake Kingdom Into the Lake": {
     "connects_to": [
@@ -69,7 +69,7 @@
       "Wooded Kingdom Deep Woods",
       "Wooded Kingdom Maze Skip"
     ],
-    "requires": "(|Power Moon:21| AND |Kingdom Split Path Wooded Kingdom|) OR (|Power Moon:29| AND |Into the Lake|)"
+    "requires": "({OptAll(|Power Moon:21| and |Sand Moon:16|)} and |Kingdom Split Path Wooded Kingdom|) or ({OptAll(|Power Moon:29| and |Sand Moon:16| and |Lake Moon:8|)} and |Into the Lake|)"
   },
   "Wooded Kingdom Deep Woods": {
     "connects_to": [],
@@ -102,13 +102,13 @@
     "connects_to": [
       "Lost Kingdom 1st Visit"
     ],
-    "requires": "|Power Moon:45| AND |Progressive Kingdom Unlock:2| AND |Kingdom Split Path Lake Kingdom| AND |Kingdom Split Path Wooded Kingdom|"
+    "requires": "{OptAll(|Power Moon:45| and |Lake Moon:8| and |Wooded Moon:16| and |Progressive Kingdom Unlock:2| and |Ground Pound|)} and |Kingdom Split Path Lake Kingdom| and |Kingdom Split Path Wooded Kingdom|"
   },
   "Lost Kingdom 1st Visit": {
     "connects_to": [
       "Metro Kingdom Night"
     ],
-    "requires": "|Progressive Kingdom Unlock:3| AND {OptOne(|Ground Pound|)}"
+    "requires": ""
   },
   "Metro Kingdom Night": {
     "connects_to": [
@@ -116,7 +116,7 @@
       "Lost Kingdom 2nd Visit",
       "Metro Kingdom Day"
     ],
-    "requires": "|Power Moon:55| AND |Progressive Kingdom Unlock:4| and {OptOne(|Spark Pylon|)}"
+    "requires": "{OptAll(|Power Moon:55| and |Lost Moon:10| and |Progressive Kingdom Unlock:3| and |Spark Pylon|)}"
   },
   "Cloud Kingdom Post Peace": {
     "connects_to": [],
@@ -143,7 +143,7 @@
       "Snow Kingdom Post Peace",
       "Luncheon Kingdom 1st Visit"
     ],
-    "requires": "(|Power Moon:75| AND |Kingdom Split Path Snow Kingdom|) OR (|Power Moon:85| AND |Kingdom Split Path Seaside Kingdom|)"
+    "requires": "({OptAll(|Power Moon:75| and |Metro Moon:20|)} and |Kingdom Split Path Snow Kingdom|) or ({OptAll(|Power Moon:85| and |Seaside Moon:10| and |Metro Moon:20|)} and |Kingdom Split Path Seaside Kingdom|)"
   },
   "Snow Kingdom Post Peace": {
     "connects_to": [],
@@ -154,7 +154,7 @@
       "Seaside Kingdom Post Peace",
       "Luncheon Kingdom 1st Visit"
     ],
-    "requires": "(|Power Moon:75| AND |Kingdom Split Path Seaside Kingdom|) OR (|Power Moon:85| AND |Kingdom Split Path Snow Kingdom|)"
+    "requires": "({OptAll(|Power Moon:75| and |Metro Moon:20|)} and |Kingdom Split Path Seaside Kingdom|) or ({OptAll(|Power Moon:85| and |Snow Moon:10| and |Metro Moon:20|)} and |Kingdom Split Path Snow Kingdom|)"
   },
   "Seaside Kingdom Post Peace": {
     "connects_to": [],
@@ -164,7 +164,7 @@
     "connects_to": [
       "Luncheon Kingdom Post Spewart"
     ],
-    "requires": "|Power Moon:95| AND |Progressive Kingdom Unlock:5| AND |Kingdom Split Path Snow Kingdom| AND |Kingdom Split Path Seaside Kingdom|"
+    "requires": "{OptAll(|Power Moon:95| and |Snow Moon:10| and |Seaside Moon:10| and |Progressive Kingdom Unlock:4|)} and |Kingdom Split Path Snow Kingdom| and |Kingdom Split Path Seaside Kingdom|"
   },
   "Luncheon Kingdom Post Spewart": {
     "connects_to": [
@@ -199,7 +199,7 @@
     "connects_to": [
       "Ruined Kingdom Post Peace"
     ],
-    "requires": "|Power Moon:113| AND |Progressive Kingdom Unlock:6|"
+    "requires": "{OptAll(|Power Moon:113| and |Luncheon Moon:18| and |Progressive Kingdom Unlock:5|)}"
   },
   "Ruined Kingdom Post Peace": {
     "connects_to": [
@@ -211,7 +211,7 @@
     "connects_to": [
       "Bowser Kingdom Courtyards"
     ],
-    "requires": "|Power Moon:116| AND |Progressive Kingdom Unlock:7|"
+    "requires": "{OptAll(|Power Moon:116| and |Ruined Moon:3| and |Progressive Kingdom Unlock:6|)}"
   },
   "Bowser Kingdom Courtyards": {
     "connects_to": [
@@ -241,7 +241,7 @@
     "connects_to": [
       "Moon Kingdom Post Moon Cave"
     ],
-    "requires": "|Power Moon:124| AND |Progressive Kingdom Unlock:8|"
+    "requires": "{OptAll(|Power Moon:124| and |Bowser Moon:8| and |Progressive Kingdom Unlock:7|)}"
   },
   "Moon Kingdom Post Moon Cave": {
     "connects_to": [
