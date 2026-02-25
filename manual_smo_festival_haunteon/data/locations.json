@@ -277,7 +277,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "region": "Sand Kingdom First Visit",
+    "region": "Sand Kingdom Post Hariet",
     "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-03"
   },
@@ -286,7 +286,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "region": "Sand Kingdom Post Hariet",
+    "region": "Sand Kingdom Post Peace",
     "requires": "{OptAll(|Bullet Bill| and |Knucklotec's Fist|)}",
     "sort-key": "row-3-04"
   },
@@ -772,7 +772,7 @@
     "category": [
       "04 Lake Kingdom"
     ],
-    "region": "Lake Kingdom Into the Lake",
+    "region": "Lake Kingdom Post Peace",
     "sort-key": "row-4-01"
   },
   {
@@ -995,7 +995,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "region": "Wooded Kingdom Maze Skip",
+    "region": "Wooded Kingdom Post Spewart",
     "sort-key": "row-5-02"
   },
   {
@@ -1012,7 +1012,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "region": "Wooded Kingdom Post Wall",
+    "region": "Wooded Kingdom Post Peace",
     "requires": "{OptAll(|Sherm| and |Uproot|)}",
     "sort-key": "row-5-04"
   },
@@ -1587,7 +1587,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "region": "Metro Kingdom Night",
+    "region": "Metro Kingdom Day",
     "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-8-01"
   },
@@ -1637,7 +1637,7 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Pre Festival",
-    "requires": "{OptAll(|Power Moon:75| or |Metro Moon:20|)}",
+    "requires": "{OptAll(|Power Moon:75| and |Metro Moon:20|)}",
     "sort-key": "row-8-07",
     "victory": true
   },
