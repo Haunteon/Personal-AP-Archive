@@ -1813,7 +1813,7 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Day",
-	"requires": "{OptOne(|Manhole|)}"
+	"requires": "{OptOne(|Manhole|)}",
     "sort-key": "row-8-35"
   },
   {

@@ -84,6 +84,18 @@
     }
   },
   {
+    "name": "Festival Multimoon",
+    "category": [
+      "03 Multimoon"
+    ],
+    "progression": true,
+    "sort-key": "row-3-8",
+    "value": {
+      "Power": 3,
+      "Metro": 3
+    }
+  },
+  {
     "name": "Progressive Kingdom Unlock",
     "category": [
       "01 Kingdom",
