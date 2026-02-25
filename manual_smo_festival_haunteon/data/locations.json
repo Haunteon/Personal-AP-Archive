@@ -278,9 +278,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom First Visit",
-    "place_item": [
-      "Hariet Multimoon"
-    ],
     "requires": "{OptOne(|Bullet Bill|)} or {YamlEnabled(capture_skip)}",
     "sort-key": "row-3-03"
   },
@@ -290,9 +287,6 @@
       "03 Sand Kingdom"
     ],
     "region": "Sand Kingdom Post Hariet",
-    "place_item": [
-      "Knucklotec Multimoon"
-    ],
     "requires": "{OptAll(|Bullet Bill| and |Knucklotec's Fist|)}",
     "sort-key": "row-3-04"
   },
@@ -779,9 +773,6 @@
       "04 Lake Kingdom"
     ],
     "region": "Lake Kingdom Into the Lake",
-    "place_item": [
-      "Rango Multimoon"
-    ],
     "sort-key": "row-4-01"
   },
   {
@@ -1005,9 +996,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Maze Skip",
-    "place_item": [
-      "Spewart Multimoon"
-    ],
     "sort-key": "row-5-02"
   },
   {
@@ -1025,9 +1013,6 @@
       "05 Wooded Kingdom"
     ],
     "region": "Wooded Kingdom Post Wall",
-    "place_item": [
-      "Torkdrift Multimoon"
-    ],
     "requires": "{OptAll(|Sherm| and |Uproot|)}",
     "sort-key": "row-5-04"
   },
@@ -1603,9 +1588,6 @@
       "08 Metro Kingdom"
     ],
     "region": "Metro Kingdom Night",
-    "place_item": [
-      "Mechawiggler Multimoon"
-    ],
     "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-8-01"
   },
