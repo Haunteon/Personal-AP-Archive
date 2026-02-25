@@ -3909,7 +3909,7 @@
     "category": [
       "09 Snow Kingdom"
     ],
-    "requires": "{OptAll(|After Gusty Barrier| and |Shiverian Racer|)}",
+    "requires": "{OptOne(|Shiverian Racer|)} and |After Gusty Barrier|",
     "place_item": [
       "Snow Kingdom Bound Bowl Grand Prix Multimoon"
     ],
