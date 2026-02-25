@@ -8,16 +8,28 @@ The player settings page for this game is located <a href="../player-settings">h
 you need to configure and export a config file.
 
 ## What does randomization do to this game?
-You specify your list of "items" and "locations", and Archipelago will randomize your items across your world and others, and items from this world and others into your locations. Essentially, anything you can use or that progresses your goal can be an item. Anything you can check can be a location. If multiple people are playing the same game as a Manual game, they can all have different items and locations.
 
-## What is the goal of a Manual game when randomized?
-The goal is to achieve a "Victory" condition, which is available in the location list in the client. What that Victory condition is... is up to you! It can be beating the game, beating a subset of the game, checking all locations, race to get to an important objective, etc.
+Every moon you collect is a check.
+
+Items you can receive are:
+- Generic or Kingdom Specific Power Moons
+- Multimoons which unlock the next world state of each Kingdom
+- Boss Unlocks to fight bosses
+- Outfits that unlock Outfit doors
+- Ability to Captures specific characters
+- Kingdom Unlocks to keep the game more multiworld compatible 
+
+## What is the goal of Manual Super Mario Odyssey Festival?
+
+The goal for this manual is to complete the Festival in Metro Kingdom and collect the multimoon.
 
 ## Which items can be in another player's world?
-All of the items that you specify in your item list can be in another player's world.
+
+All items listed above can be found in other players worlds, except Multimoons which I placed at their respective bosses
 
 ## What if I have items, unlocks, or locations that I'd like to not have randomized?
-It's all manual. Just exclude them from either the item or location list. 
+
+You can set starting items, and exclude locations.
 
 ## How do I install the mod for a Manual game?
 You don't. There is no mod. The tasks of marking locations as checked and limiting your items used based on items received is all performed by you (the player) while using the Manual client and its accompanying tracker.
