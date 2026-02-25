@@ -102,7 +102,7 @@
     "connects_to": [
       "Lost Kingdom 1st Visit"
     ],
-    "requires": "{OptAll(|Power Moon:45| and |Lake Moon:8| and |Wooded Moon:16| and |Progressive Kingdom Unlock:2| and |Ground Pound|)} and |Kingdom Split Path Lake Kingdom| and |Kingdom Split Path Wooded Kingdom|"
+    "requires": "{OptAll(|Power Moon:45| and |Lake Moon:8| and |Wooded Moon:16| and |Progressive Kingdom Unlock:2| and |Ground Pound|)} and |Maze Skip| and |Into the Lake| and |Kingdom Split Path Lake Kingdom| and |Kingdom Split Path Wooded Kingdom|"
   },
   "Lost Kingdom 1st Visit": {
     "connects_to": [
