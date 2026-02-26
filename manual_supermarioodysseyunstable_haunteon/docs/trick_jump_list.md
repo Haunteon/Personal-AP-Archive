@@ -1,6 +1,6 @@
-#Easy Trick Jumps
+# Easy Trick Jumps
 
-#Hard Trick Jumps
+# Hard Trick Jumps
 
-#Moon Cave Skip
+# Moon Cave Skip
 
