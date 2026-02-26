@@ -1,11 +1,11 @@
-Super Mario odyssey Manual AP world for use with Archipelago Multiworld Randomizer
+# Super Mario odyssey Manual AP world for use with Archipelago Multiworld Randomizer
 
-Goals
+## Goals
 - Festival
 - Bowser
 - World Peace
 
-Current features
+## Current features
 - Generic Moons
 - Specific Moons
 - Outfit Doors
@@ -16,15 +16,14 @@ Current features
   - Captures are given as items. If you don't have the item for it, immediately uncapture.
 - Warp Painting Logic
 
-What do you need to go to the next kingdom?
+## What do you need to go to the next kingdom?
 - Enough Power Moons
 - Progressive Kingdom Unlocks
   - Split Paths are their own items.
 
 
-How many moons do you need to leave a kingdom?
-
-For generic moons:
+## How many moons do you need to leave a kingdom?
+### Generic moons:
 - Cascade: 5
 - Sand: 21
 - Lake/Wooded: 45
@@ -34,8 +33,7 @@ For generic moons:
 - Luncheon: 113
 - Ruined: 116
 - Bowser's: 124
-
-For specific moons:
+### Specific moons:
 - Cascade: 5
 - Sand: 16
 - Lake: 8
