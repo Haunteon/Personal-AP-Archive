@@ -10,11 +10,11 @@
 ## Above the Lake
 
 # Moon Kingdom
-## Parabons Skip
+## Parabones Skip
 - Parabones
 - Dive and Cap Jump and (Long Jump or Triple Jump)
 ## Moon Cave Gauntlet
-- Parabons Skip
+- Parabones Skip
 - Banzai Bill
 - Spark Pylon (Starting Inv)
 ## Moon Cave Skip
