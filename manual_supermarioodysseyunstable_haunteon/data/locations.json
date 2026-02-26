@@ -29,7 +29,8 @@
   {
     "name": "Darker Side",
     "category": [
-      "00 Events"
+      "00 Events",
+	  "Post Game"
     ],
     "requires": "|Goal 4|",
     "victory": false,
@@ -277,7 +278,7 @@
       "01 Cap Kingdom",
       "Moon Rock"
     ],
-    "requires": "{OptAll(|Paragoomba| or ((|Long Jump| or |Triple Jump|) and |Cap Vault|))}",
+    "requires": "({YamlEnabled(capture_randomizer)} and {OptOne(|Paragoomba|)}) or ({YamlEnabled(action_randomizer)} and {OptAll(|Long Jump| or |Triple Jump|)} and |Cap Vault|) or ({YamlDisabled(action_randomizer)} and {YamlDisabled(capture_randomizer)})",
     "sort-key": "row-01-023"
   },
   {
@@ -450,7 +451,7 @@
     "category": [
       "02 Cascade Kingdom"
     ],
-    "requires": "{OptAll(|High Jump| or |Spin| or (|Wall Jump| and |Dive|))}",
+    "requires": "((|High Jump| or {OptOne(|Spin|)}) or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-02-010"
   },
   {
@@ -810,7 +811,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Bullet Bill| or |Cap Vault| or (|Glydon| and |Sand Kingdom Knucklotec Multimoon|))}",
+    "requires": "{OptOne(|Bullet Bill|)} or |Cap Vault| or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-007"
   },
   {
@@ -846,7 +847,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Bullet Bill| or (|High Jump| and |Cap Vault|) or ((|Glydon| or |Spark Pylon|) and |Sand Kingdom Knucklotec Multimoon|))}",
+    "requires": "({OptOne(|Bullet Bill|)}) or (|High Jump| and |Cap Vault|) or ({OptAll(|Glydon| or |Spark Pylon|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-011"
   },
   {
@@ -855,7 +856,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Bullet Bill| or |Long Jump| or (|Triple Jump| and |Dive|) or |Cap Vault| or (|Glydon| and |Sand Kingdom Knucklotec Multimoon|))}",
+    "requires": "{OptOne(|Bullet Bill|)} or {OptOne(|Long Jump|)} or {OptAll(|Triple Jump| and |Dive|)} or |Cap Vault| or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-012"
   },
   {
@@ -864,7 +865,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Pyramid Skip| and (|Long Jump| or |Cap Vault|))} or {OptAll(|Glydon| and |Sand Kingdom Knucklotec Multimoon|)}",
+  "requires": "(|Pyramid Skip| and (|Cap Vault| or {OptOne(|Long Jump|)})) or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-013"
   },
   {
@@ -891,7 +892,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Ground Pound| or (|Lakitu| and |Sand Kingdom Knucklotec Multimoon|))}",
+    "requires": "{OptOne(|Ground Pound|)} or ({OptOne(|Lakitu|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-016"
   },
   {
@@ -1039,7 +1040,7 @@
     "sort-key": "row-03-032"
   },
   {
-    "name": "Herding Sheep in the Dunes***",
+    "name": "Herding Sheep in the Dunes",
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom"
@@ -1147,7 +1148,7 @@
     "sort-key": "row-03-044"
   },
   {
-    "name": "Walking the Desert!***",
+    "name": "Walking the Desert!",
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom"
@@ -2068,7 +2069,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin|)))}",
+    "requires": "{OptOne(|Uproot|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)})))}",
     "sort-key": "row-05-010"
   },
   {
@@ -2800,7 +2801,7 @@
     "sort-key": "row-07-002"
   },
   {
-    "name": "Inside the Stone Cage***",
+    "name": "Inside the Stone Cage",
     "region": "Lost Kingdom 1st Visit",
     "category": [
       "07 Lost Kingdom"
@@ -2940,11 +2941,11 @@
     "category": [
       "07 Lost Kingdom"
     ],
-    "requires": "{OptAll(|View of Lost| and |Glydon|)}",
+    "requires": "{OptOne(|Glydon|)} and |View of Lost|",
     "sort-key": "row-07-018"
   },
   {
-    "name": "The Caged Gold***",
+    "name": "The Caged Gold",
     "region": "Lost Kingdom 1st Visit",
     "category": [
       "07 Lost Kingdom"
@@ -3159,7 +3160,7 @@
     "sort-key": "row-08-005"
   },
   {
-    "name": "Powering Up the Station***",
+    "name": "Powering Up the Station",
     "region": "Metro Kingdom Day",
     "category": [
       "08 Metro Kingdom"
@@ -3203,7 +3204,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll((|Wall Jump| and (|Sherm| or |Cap Vault|)) or (|Metro Kingdom Mechawiggler Multimoon| and |Spark Pylon|))}",
+    "requires": "{OptAll((|Wall Jump| and (|Sherm| or |Cap Vault|)) or (|Metro Kingdom Mechawiggler Multimoon| and {OptOne(|Spark Pylon|)})",
     "sort-key": "row-08-010"
   },
   {
@@ -3426,7 +3427,7 @@
     "sort-key": "row-08-034"
   },
   {
-    "name": "Sewer Treasure***",
+    "name": "Sewer Treasure",
     "region": "Metro Kingdom Day",
     "category": [
       "08 Metro Kingdom"
@@ -3904,7 +3905,7 @@
       "09 Snow Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Ty-foo| or (|Dive| and (|Long Jump| or |Triple Jump| or |Cap Jump|)))}",
+    "requires": "{OptOne(|Ty-foo|)} or ({OptOne(|Dive|)} and ({OptOne(|Long Jump|)} or {OptOne(|Triple Jump|)} or {OptOne(|Cap Jump|)}))",
     "sort-key": "row-09-003"
   },
   {
@@ -6947,7 +6948,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Yoshi| OR |Cap Vault|)}",
     "sort-key": "row-15-001"
@@ -6957,7 +6958,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-002"
@@ -6967,7 +6968,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-003"
@@ -6977,7 +6978,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-15-004"
@@ -6987,7 +6988,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-15-005"
@@ -6997,7 +6998,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-15-006"
@@ -7007,7 +7008,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Hold/Throw| AND |Swim|)}",
     "sort-key": "row-15-007"
@@ -7017,7 +7018,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Spin Throw|)}",
     "sort-key": "row-15-008"
@@ -7027,7 +7028,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Motor Scooter| OR |Roll|)}",
     "sort-key": "row-15-009"
@@ -7037,7 +7038,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-15-010"
@@ -7047,7 +7048,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Dash (2D)|)}",
     "sort-key": "row-15-011"
@@ -7057,7 +7058,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-012"
@@ -7067,7 +7068,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-013"
@@ -7077,7 +7078,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Yoshi)}",
     "sort-key": "row-15-014"
@@ -7087,7 +7088,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-015"
@@ -7097,7 +7098,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-15-016"
@@ -7107,7 +7108,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-15-017"
@@ -7117,7 +7118,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-018"
@@ -7127,7 +7128,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-019"
@@ -7137,7 +7138,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-020"
@@ -7147,7 +7148,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-021"
@@ -7157,7 +7158,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-022"
@@ -7167,7 +7168,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Picture Match Part (Mario)|)}",
     "sort-key": "row-15-023"
@@ -7177,7 +7178,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Picture Match Part (Mario)|)}",
     "sort-key": "row-15-024"
@@ -7187,7 +7188,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-025"
@@ -7197,7 +7198,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-15-026"
@@ -7207,7 +7208,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Mario 64 Cap| and |Mario 64 Suit|)}",
     "sort-key": "row-15-027"
@@ -7217,7 +7218,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Mario 64 Cap| and |Mario 64 Suit|)}",
     "sort-key": "row-15-028"
@@ -7227,7 +7228,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-029"
@@ -7237,7 +7238,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-030"
@@ -7247,7 +7248,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Dash (2D)|)}",
     "sort-key": "row-15-031"
@@ -7257,7 +7258,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-032"
@@ -7267,7 +7268,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Knucklotec's Fist|)}",
     "sort-key": "row-15-033"
@@ -7277,7 +7278,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptAll(|Uproot| and (|Hold/Throw| or |Yoshi| or (|Dive| and |Wall Jump| and (|Goomba| or (|Cap Jump| and (|Back Flip| or (|Ground Pound| and |Ground Pound Jump|)))))))}",
     "sort-key": "row-15-034"
@@ -7287,7 +7288,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-15-035"
@@ -7297,7 +7298,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-15-036"
@@ -7307,7 +7308,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-15-037"
@@ -7317,7 +7318,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-038"
@@ -7327,7 +7328,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "|Lava Bubble|",
     "sort-key": "row-15-039"
@@ -7347,7 +7348,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-15-041"
@@ -7357,7 +7358,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "|Peach Mushroom|",
     "sort-key": "row-15-042"
@@ -7367,7 +7368,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+	  "Post Game"
     ],
     "requires": "|Peach Mushroom|",
     "sort-key": "row-15-043"

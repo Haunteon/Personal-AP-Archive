@@ -51,7 +51,7 @@
     "connects_to": [
       "Lake Kingdom Into the Lake"
     ],
-    "requires": "({OptAll(|Power Moon:21| and |Sand Moon:16|)} and |Kingdom Split Path Lake Kingdom|) or ({OptAll(|Power Moon:37| and |Sand Moon:16| and |Wooded Moon:16|)} and (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and |Hold/Throw|)))"
+    "requires": "({OptAll(|Power Moon:21| and |Sand Moon:16|)} and |Kingdom Split Path Lake Kingdom|) or ({OptAll(|Power Moon:37| and |Sand Moon:16| and |Wooded Moon:16|)} and (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and {OptOne(|Hold/Throw|)})))"
   },
   "Lake Kingdom Into the Lake": {
     "connects_to": [

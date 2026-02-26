@@ -176,7 +176,7 @@
     "count": "1",
     "name": "Travel Guide",
     "category": [
-      "00 Events",
+      "00 NPC",
 	  "Post Metro"
     ],
     "progression": true,
@@ -186,7 +186,7 @@
     "count": "1",
     "name": "Suitcase",
     "category": [
-      "00 Events",
+      "00 NPC",
 	  "Post Metro"
     ],
     "progression": true,
@@ -369,7 +369,7 @@
     "count": 1,
     "name": "Moon Power",
     "category": [
-      "00 Events", "Moon Rock"
+      "00 NPC", "Moon Rock"
     ],
     "progression": true,
 	"sort-key": "row-0-03"

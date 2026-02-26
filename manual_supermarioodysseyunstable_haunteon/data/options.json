@@ -1,167 +1,173 @@
 {
-    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
-    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
-    "core": {
-        "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
-            "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
-            "hidden": false
-        },
-        "death_link": {
-            "default": false
-        },
-        "filler_traps": {
-            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
-            "values": {
-                "recommended": 20
-            }
-        }
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+  "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+  "core": {
+    "goal": {
+      "_comment": [
+        "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+      ],
+      "display_name": "The End Objective",
+      "description": "How to End your Randomized playthrough.",
+      "aliases": {
+        "easiest": 0
+      },
+      "hidden": false
     },
-    "user": {
-		"generic_moons":{
-            "display_name": "Generic Moons",
-			"description": [
-                "Determines if Power Moons are Kingdom Specific"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Item Options"
-        },
-		"capture_randomizer":{
-            "display_name": "Shuffle Captures",
-			"description": [
-                "Adds all 52 Captures to the item pool.",
-                "If you don't have the item for it, immediately uncapture."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Item Options"
-        },
-		"capture_randomizer_extra":{
-            "display_name": "Shuffle Extra Captures",
-			"description": [
-                "Requires Shuffle Captures.",
-                "Adds Slingshot and Scarecrow to the item pool."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Item Options",
-			"hidden": true
-        },
-		"action_randomizer":{
-            "display_name": "Shuffle Actions",
-			"description": [
-                "Adds all basic actions from the action guide to the item pool.",
-                "Try your best to not use moves you don't have."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Item Options"
-        },
-		"action_randomizer_extra":{
-            "display_name": "Shuffle Extra Actions",
-			"description": [
-                "Requires Shuffle Actions.",
-                "Adds Ledge Grab, Climb, Swing, and Crouch to the item pool."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Item Options",
-			"hidden": true
-        },
-		"outfit_items":{
-            "display_name": "Shuffle Outfits",
-			"description": [
-                "Requires Outfit Doors.",
-				"Adds Outfits to the item pool."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Item Options"
-        },
-		"outfit_moons":{
-            "display_name": "Outfit Doors",
-			"description": [
-				"Adds Outfit Door moons as locations."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options"
-        },
-		"post_metro_moons":{
-            "display_name": "Exclude Post Metro Moons",
-			"description": [
-				"Only turn on for festival goal",
-				"Removes Post Metro moons from locations list"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options",
-			"hidden": false
-        },
-		"post_game_moons":{
-            "display_name": "Include Post Game Moons",
-			"description": [
-				"Adds Post Game moons as locations."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options",
-			"hidden": false
-        },
-		"moon_rock_moons":{
-            "display_name": "Include Moon Rock Moons",
-			"description": [
-				"Requires Post Game Moons",
-				"Adds Moon Rock moons as locations."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options",
-			"hidden": true
-        },
-		"achievement_moons":{
-            "display_name": "Include Toadette Moons",
-			"description": [
-				"Adds Toadette moons as locations."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Location Options",
-			"hidden": true
-        },
-		"easy_trick_jumps":{
-            "display_name": "Easy Trick Jumps",
-			"description": [
-				"Adds Easy Trick Jumps as possible logic."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Trick Jumps",
-			"hidden": true
-        },
-		"hard_trick_jumps":{
-            "display_name": "Hard Trick jumps",
-			"description": [
-				"Adds Hard Trick Jumps as possible logic."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Trick Jumps",
-			"hidden": true
-        },
-		"moon_cave_skip":{
-            "display_name": "Moon Cave Skip",
-			"description": [
-				"Adds Moon Cave Skip as possible logic."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Trick Jumps"
-        }
+    "death_link": {
+      "default": false
+    },
+    "filler_traps": {
+      "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+      "values": {
+        "recommended": 20
+      }
     }
+  },
+  "user": {
+    "generic_moons": {
+      "display_name": "Generic Moons",
+      "description": [
+        "Determines if Power Moons are Kingdom Specific"
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Item Options"
+    },
+    "capture_randomizer": {
+      "display_name": "Shuffle Captures",
+      "description": [
+        "Adds all 52 Captures to the item pool.",
+        "If you don't have the item for it, immediately uncapture."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Item Options"
+    },
+    "capture_randomizer_extra": {
+      "display_name": "Shuffle Extra Captures",
+      "description": [
+        "Requires Shuffle Captures.",
+        "Adds Slingshot and Scarecrow to the item pool."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Item Options",
+      "hidden": true
+    },
+    "action_randomizer": {
+      "display_name": "Shuffle Actions",
+      "description": [
+        "Adds all basic actions from the action guide to the item pool.",
+        "Try your best to not use moves you don't have."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Item Options"
+    },
+    "action_randomizer_extra": {
+      "display_name": "Shuffle Extra Actions",
+      "description": [
+        "Requires Shuffle Actions.",
+        "Adds Ledge Grab, Climb, Swing, and Crouch to the item pool."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Item Options",
+      "hidden": true
+    },
+    "outfit_items": {
+      "display_name": "Shuffle Outfits",
+      "description": [
+        "Requires Outfit Doors.",
+        "Adds Outfits to the item pool."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Item Options"
+    },
+    "outfit_moons": {
+      "display_name": "Outfit Doors",
+      "description": [
+        "Adds Outfit Door moons as locations."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options"
+    },
+    "post_metro_moons": {
+      "display_name": "Exclude Post Metro Moons",
+      "description": [
+        "Only turn on for festival goal",
+        "Removes Post Metro moons from locations list and items associated"
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options",
+      "hidden": false
+    },
+    "post_game_moons": {
+      "display_name": "Include Post Game Moons",
+      "description": [
+        "Requires Exclude Post Metro = FALSE",
+		"Adds Post Game moons as locations."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options",
+      "hidden": false
+    },
+    "moon_rock_moons": {
+      "display_name": "Include Moon Rock Moons",
+      "description": [
+        "Requires Exclude Post Metro = FALSE",
+		"Requires Post Game Moons = TRUE",
+        "Adds Moon Rock moons as locations."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options",
+      "hidden": true
+    },
+    "achievement_moons": {
+      "display_name": "Include Toadette Moons",
+      "description": [
+        "Requires Exclude Post Metro = FALSE",
+		"Requires Post Game Moons = TRUE",
+		"Adds Toadette moons as locations."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options",
+      "hidden": true
+    },
+    "easy_trick_jumps": {
+      "display_name": "Easy Trick Jumps",
+      "description": [
+        "Adds Easy Trick Jumps as possible logic."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Trick Jumps",
+      "hidden": true
+    },
+    "hard_trick_jumps": {
+      "display_name": "Hard Trick jumps",
+      "description": [
+        "Adds Hard Trick Jumps as possible logic."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Trick Jumps",
+      "hidden": true
+    },
+    "moon_cave_skip": {
+      "display_name": "Moon Cave Skip",
+      "description": [
+        "Adds Moon Cave Skip as possible logic."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Trick Jumps"
+    }
+  }
 }
