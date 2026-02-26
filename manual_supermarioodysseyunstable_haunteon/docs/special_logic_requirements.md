@@ -27,23 +27,23 @@
 # Sand Kingdom
 ## Pyramid Skip (Need one)
 - Bullet Bill
-- **Cap Vault** and (Long Jump or Triple Jump)
+- ***Cap Vault*** and (Long Jump or Triple Jump)
 # Lake Kingdom
 ## Into the Lake (Need one)
 - Zipper and Swim
-- **Cap Vault** and (High Jump or Long Jump or (Triple Jump and Wall Jump))
+- ***Cap Vault*** and (***High Jump*** or Long Jump or (Triple Jump and Wall Jump))
 - Cap Jump and Triple Jump and Wall Jump and Goomba
 ## Above the Lake (Need one)
 - Cheep Cheep
 - Swim
-- **Cap Vault**
+- ***Cap Vault***
 # Wooded Kingdom
 ## Maze Skip (Need one)
 - Uproot
-- **Cap Vault**
+- ***Cap Vault***
 ## To the Wall (Need one)
 - Hold/Throw
-- **Cap Vault** and **High Jump**
+- ***Cap Vault*** and ***High Jump***
 - Uproot and Dive
 ## Sherm Wall (Need one and To the Wall)
 - Sherm
@@ -58,16 +58,16 @@
 - |Dive| and (Triple Jump or Cap Jump or (Ground Pound and Ground Pound Jump))
 ## Get to Meat (Need One)
 - Volbonan (Fork)
-- (High Jump or Spin) and Wall Jump and Dive
-- (High Jump and (Cap Jump or **Cap Vault**
+- (***High Jump*** or Spin) and Wall Jump and Dive
+- (***High Jump*** and (Cap Jump or ***Cap Vault***
 # Bowser Kingdom
 ## Enter the Courtyard
 - Pokio
 - Dive and (Back Flip or Wall Jump or (Ground Pound Jump and Ground Pound
 ## Over the Moat
 - Pokio
-- High Jump and **Cap Vault**
-- YamlEnabled(easy_trick_jumps) and **Cap Vault**
+- ***High Jump*** and ***Cap Vault***
+- YamlEnabled(easy_trick_jumps) and ***Cap Vault***
 # Moon Kingdom
 ## Parabones Skip (Need one)
 - Parabones
