@@ -50,12 +50,6 @@
 - Enter Pipe
 - Cap Throw and Hold
 - Jump/Double Jump
-## Other Starting Inventory (Potentially)
-- Slingshot
-- Scarecrow
-- Cappy Return Jump
-- Cappy Return Air Stall
-- Ledge Grab
 # Roadmap
 - Action Shuffle
   - Extra actions not in Action Guide
