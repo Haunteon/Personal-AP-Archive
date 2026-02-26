@@ -15,8 +15,7 @@
 - Warp Painting Logic
 ## What do you need to go to the next kingdom?
 - Enough Power Moons
-- Progressive Kingdom Unlocks
-  - Split Paths are their own items.
+- Kingdom Unlock Item
 ## How many moons do you need to leave a kingdom?
 ### Generic moons:
 - Cascade: 5
