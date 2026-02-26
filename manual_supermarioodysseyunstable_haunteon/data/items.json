@@ -74,7 +74,8 @@
     "name": "Snow Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+	  "Specific",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-07"
@@ -84,7 +85,8 @@
     "name": "Seaside Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+	  "Specific",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-08"
@@ -94,7 +96,8 @@
     "name": "Luncheon Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+	  "Specific",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-09"
@@ -104,7 +107,8 @@
     "name": "Ruined Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+	  "Specific",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-10"
@@ -114,7 +118,8 @@
     "name": "Bowser Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+	  "Specific",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-11"
@@ -151,7 +156,8 @@
     "count": 1,
     "name": "Kingdom Split Path Snow Kingdom",
     "category": [
-      "02 Kingdoms"
+      "02 Kingdoms",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-2-04"
@@ -160,7 +166,8 @@
     "count": 1,
     "name": "Kingdom Split Path Seaside Kingdom",
     "category": [
-      "02 Kingdoms"
+      "02 Kingdoms",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-2-05"
@@ -169,7 +176,8 @@
     "count": "1",
     "name": "Travel Guide",
     "category": [
-      "00 Events"
+      "00 Events",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-0-01"
@@ -178,7 +186,8 @@
     "count": "1",
     "name": "Suitcase",
     "category": [
-      "00 Events"
+      "00 Events",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-0-02"
@@ -250,7 +259,8 @@
     "count": 1,
     "name": "Metro Kingdom Festival Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-19"
@@ -259,7 +269,8 @@
     "count": 1,
     "name": "Snow Kingdom Bound Bowl Grand Prix Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-20"
@@ -268,7 +279,8 @@
     "count": 1,
     "name": "Seaside Kingdom Mollusque-Lanceur Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-21"
@@ -277,7 +289,8 @@
     "count": 1,
     "name": "Luncheon Kingdom Spewart Story Moon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-22"
@@ -286,7 +299,8 @@
     "count": 1,
     "name": "Luncheon Kingdom Cheese Story Moon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-23"
@@ -295,7 +309,8 @@
     "count": 1,
     "name": "Luncheon Kingdom Big Pot Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-24"
@@ -304,7 +319,8 @@
     "count": 1,
     "name": "Luncheon Kingdom Cave Story Moon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-25"
@@ -313,7 +329,8 @@
     "count": 1,
     "name": "Luncheon Kingdom Cookatiel Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-26"
@@ -322,7 +339,8 @@
     "count": 1,
     "name": "Ruined Kingdom Dragon Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-27"
@@ -331,7 +349,8 @@
     "count": 1,
     "name": "Bowser Kingdom Mecha-Broodal Multimoon",
     "category": [
-      "01 Moons"
+      "01 Moons",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-1-28"
@@ -350,7 +369,7 @@
     "count": 1,
     "name": "Moon Power",
     "category": [
-      "00 Events", "Moon Rock" 
+      "00 Events", "Moon Rock"
     ],
     "progression": true,
 	"sort-key": "row-0-03"
@@ -680,7 +699,8 @@
     "name": "Ty-foo",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-33"
@@ -690,7 +710,8 @@
     "name": "Shiverian Racer",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-34"
@@ -700,7 +721,8 @@
     "name": "Cheep Cheep (Snow)",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-35"
@@ -710,7 +732,8 @@
     "name": "Gushen",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-36"
@@ -720,7 +743,8 @@
     "name": "Lava Bubble",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-37"
@@ -730,7 +754,8 @@
     "name": "Volbonan",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-38"
@@ -740,7 +765,8 @@
     "name": "Hammer Bro",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-39"
@@ -750,7 +776,8 @@
     "name": "Meat",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-40"
@@ -760,7 +787,8 @@
     "name": "Fire Piranha Plant",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-41"
@@ -770,7 +798,8 @@
     "name": "Pokio",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-42"
@@ -780,7 +809,8 @@
     "name": "Jizo",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-43"
@@ -790,7 +820,8 @@
     "name": "Bowser Statue",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-44"
@@ -800,7 +831,8 @@
     "name": "Parabones",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-45"
@@ -810,7 +842,8 @@
     "name": "Banzai Bill",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-46"
@@ -820,7 +853,8 @@
     "name": "Chargin' Chuck",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-47"
@@ -830,7 +864,8 @@
     "name": "Bowser",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-48"
@@ -862,7 +897,8 @@
     "name": "Picture Match Part (Mario)",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-51"
@@ -872,7 +908,8 @@
     "name": "Yoshi",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+	  "Basic Captures",
+	  "Post Metro"
     ],
     "progression": true,
 	"sort-key": "row-3-52"

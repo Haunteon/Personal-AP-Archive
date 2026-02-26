@@ -27,16 +27,20 @@
 		"yaml_option": ["hard_trick_jumps"],
 		"hidden": true
 	},
+	"Post Metro": {
+		"yaml_option": ["!post_metro_moons"],
+		"hidden": true
+	},
 	"Post Game": {
-		"yaml_option": ["post_game_moons"],
+		"yaml_option": ["!post_metro_moons", "post_game_moons"],
 		"hidden": true
 	},
 	"Moon Rock": {
-		"yaml_option": ["post_game_moons", "moon_rock_moons"],
+		"yaml_option": ["!post_metro_moons", "post_game_moons", "moon_rock_moons"],
 		"hidden": true
 	},
 	"Achievement": {
-		"yaml_option": ["achievement_moons"],
+		"yaml_option": ["!post_metro_moons", "post_game_moons", "achievement_moons"],
 		"hidden": true
 	},
 	"Generic": {

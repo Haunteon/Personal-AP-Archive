@@ -92,6 +92,17 @@
             "default": false,
             "group": "Location Options"
         },
+		"post_metro_moons":{
+            "display_name": "Exclude Post Metro Moons",
+			"description": [
+				"Only turn on for festival goal",
+				"Removes Post Metro moons from locations list"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options",
+			"hidden": false
+        },
 		"post_game_moons":{
             "display_name": "Include Post Game Moons",
 			"description": [
