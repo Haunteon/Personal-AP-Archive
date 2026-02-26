@@ -1,7 +1,7 @@
 # Moon Kingdom
 
 ## Moon Cave Gauntlet
-- Parabones or (|Dive| and |Cap Jump| and (|Long Jump| or |Triple Jump|))
+- Parabones or (Dive and Cap Jump and (Long Jump or Triple Jump))
 - Banzai Bill
 - Spark Pylon (Starting Inv)
 
