@@ -1,5 +1,12 @@
-# Moon Kingdom
+# Sand Kingdom
+## Pyramid Skip
+- Bullet Bill or (Dive and Cap Jump and (Long Jump or Triple Jump))
+# Lake Kingdom
+## Into the Lake
 
+## Above the Lake
+
+# Moon Kingdom
 ## Moon Cave Gauntlet
 - Parabones or (Dive and Cap Jump and (Long Jump or Triple Jump))
 - Banzai Bill
