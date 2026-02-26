@@ -134,6 +134,26 @@
             "group": "Location Options",
 			"hidden": true
         },
+		"easy_trick_jumps":{
+            "display_name": "Easy Trick Jumps",
+			"description": [
+				"Adds Easy Trick Jumps as possible logic."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Trick Jumps",
+			"hidden": true
+        },
+		"hard_trick_jumps":{
+            "display_name": "Hard Trick jumps",
+			"description": [
+				"Adds Hard Trick Jumps as possible logic."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Trick Jumps",
+			"hidden": true
+        },
 		"moon_cave_skip":{
             "display_name": "Moon Cave Skip",
 			"description": [
