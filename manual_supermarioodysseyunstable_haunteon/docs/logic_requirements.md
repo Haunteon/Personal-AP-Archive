@@ -1,9 +1,12 @@
 # Sand Kingdom
 ## Pyramid Skip
-- Bullet Bill or (Dive and Cap Jump and (Long Jump or Triple Jump))
+- Bullet Bill
+  or
+- Dive and Cap Jump and (Long Jump or Triple Jump))
 # Lake Kingdom
 ## Into the Lake
-
+- Zipper and Swim
+- 
 ## Above the Lake
 
 # Moon Kingdom
@@ -11,7 +14,6 @@
 - Parabones or (Dive and Cap Jump and (Long Jump or Triple Jump))
 - Banzai Bill
 - Spark Pylon (Starting Inv)
-
 ## Moon Cave Skip
 - Back Flip or Ground Pound Jump (+ Ground Pound)
 - Cap Jump
