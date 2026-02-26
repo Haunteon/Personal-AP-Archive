@@ -1,7 +1,7 @@
 # Sand Kingdom
 ## Pyramid Skip
 - Bullet Bill
-- -OR-
+' -OR-
 - Dive
 - Cap Jump
 - Long Jump or Triple Jump
