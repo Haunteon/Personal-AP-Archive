@@ -15,11 +15,11 @@
 ## Tourist (Steps must be done in order)
 - Begin: Defeat Knucklotec
 - Metro: Complete Festival
-- Cascade:
+- Cascade: (Already Completed)
 - Luncheon: Defeat Cookatiel
 - Moon: Defeat Bowser
-- Mushroom:
-- Sand: 
+- Mushroom: (Already Completed)
+- Sand: (Already Completed)
 ## Princess Peach (Steps must be done in order)
 - Begin: Talk with Toad in Mushroom Kingdom (Story pillar of light)
 - Moon: Speak with Peach in all previous Kingdoms
