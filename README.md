@@ -39,13 +39,13 @@
 - Luncheon: 18
 - Ruined: 3
 - Bowser's: 8
-## Capture Sanity Starting Items
+## Starting Captures
 - Frog
 - Spark Pylon (Wire)
 - Chain Chomp
 - Big Chain Chomp
 - Broode's Chain Chomp (Golden)
-## Action Rando Starting Actions
+## Starting Actions
 - Capture
 - Enter Pipe
 - Cap Throw and Hold
