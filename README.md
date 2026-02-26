@@ -1,10 +1,8 @@
 # Super Mario odyssey Manual AP world for use with Archipelago Multiworld Randomizer
-
 ## Goals
 - Festival
 - Bowser
 - World Peace
-
 ## Current features
 - Generic Moons
 - Specific Moons
@@ -15,13 +13,10 @@
 - Capture Shuffle
   - Captures are given as items. If you don't have the item for it, immediately uncapture.
 - Warp Painting Logic
-
 ## What do you need to go to the next kingdom?
 - Enough Power Moons
 - Progressive Kingdom Unlocks
   - Split Paths are their own items.
-
-
 ## How many moons do you need to leave a kingdom?
 ### Generic moons:
 - Cascade: 5
@@ -45,31 +40,27 @@
 - Luncheon: 18
 - Ruined: 3
 - Bowser's: 8
-
-Roadmap
+## Capture Sanity Starting Items
+- Frog
+- Spark Pylon (Wire)
+- Chain Chomp
+- Big Chain Chomp
+- Broode's Chain Chomp (Golden)
+## Action Rando Starting Actions
+- Capture
+- Enter Pipe
+- Cap Throw and Hold
+- Jump/Double Jump
+## Other Starting Inventory (Potentially)
+- Slingshot
+- Scarecrow
+- Cappy Return Jump
+- Cappy Return Air Stall
+- Ledge Grab
+# Roadmap
 - Action Shuffle
   - Extra actions not in Action Guide
 - Capture Shuffle
   - Extra Captures 
 - Regional Coin Checks
   - Just enough to get you all the Outfit Door Moons
-
-Capture Sanity Starting Items
-- Frog
-- Spark Pylon (Wire)
-- Chain Chomp
-- Big Chain Chomp
-- Broode's Chain Chomp (Golden)
-
-Action Rando Starting Actions
-- Capture
-- Enter Pipe
-- Cap Throw and Hold
-- Jump/Double Jump
-
-Other Starting Inventory
-- Slingshot
-- Scarecrow
-- Cappy Return Jump
-- Cappy Return Air Stall
-- Ledge Grab
