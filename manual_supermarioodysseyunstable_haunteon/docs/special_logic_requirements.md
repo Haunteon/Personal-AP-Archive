@@ -11,6 +11,19 @@
 ## Cap Vault (Need Both)
 - Dive
 - Cap Jump
+# NPC
+## Tourist (Steps must be done in order)
+- Begin: Defeat Knucklotec
+- Metro: Complete Festival
+- Cascade:
+- Luncheon: Defeat Cookatiel
+- Moon: Defeat Bowser
+- Mushroom:
+- Sand: 
+## Princess Peach (Steps must be done in order)
+- Begin: Talk with Toad in Mushroom Kingdom (Story pillar of light)
+- Moon: Speak with Peach in all previous Kingdoms
+- Mushroom: Speak with Peach in Moon Kingdom
 # Sand Kingdom
 ## Pyramid Skip (Need one)
 - Bullet Bill
