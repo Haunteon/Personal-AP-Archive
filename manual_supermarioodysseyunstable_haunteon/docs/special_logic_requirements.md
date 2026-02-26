@@ -67,7 +67,6 @@
 ## Over the Moat
 - Pokio
 - ***High Jump*** and ***Cap Vault***
-- YamlEnabled(easy_trick_jumps) and ***Cap Vault***
 # Moon Kingdom
 ## Parabones Skip (Need one)
 - Parabones
