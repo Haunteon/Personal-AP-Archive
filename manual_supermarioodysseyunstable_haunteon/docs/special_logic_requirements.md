@@ -11,6 +11,7 @@
 ## Cap Vault (Need Both)
 - Dive
 - Cap Jump
+# Sand Kingdom
 ## Pyramid Skip (Need one)
 - Bullet Bill
 - **Cap Vault** and (Long Jump or Triple Jump)
