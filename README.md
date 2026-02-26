@@ -4,23 +4,22 @@ Goals
 - Festival
 - Bowser
 - World Peace
-- Darker Side
 
 Current features
 - Generic Moons
+- Specific Moons
 - Outfit Doors
   - Outfits can be shuffled seperately
-- Yaml Options
-- Action Rando
+- Action Shuffle
   - Basic actions in Action Guide
-- Capture Sanity
+- Capture Shuffle
   - Captures are given as items. If you don't have the item for it, immediately uncapture.
 - Warp Painting Logic
 
 What do you need to go to the next kingdom?
 - Enough Power Moons
 - Progressive Kingdom Unlocks
-  - Split Paths are their own items. both are needed to enter
+  - Split Paths are their own items.
 
 
 How many moons do you need to leave a kingdom?
@@ -50,15 +49,12 @@ For specific moons:
 - Bowser's: 8
 
 Roadmap
-- Make Proper Yaml
-- Specific Moons Option
-- Action Rando
+- Action Shuffle
   - Extra actions not in Action Guide
-- Capture Sanity
+- Capture Shuffle
   - Extra Captures 
 - Regional Coin Checks
   - Just enough to get you all the Outfit Door Moons
-- Sort-Key Items in their Categories 
 
 Capture Sanity Starting Items
 - Frog
