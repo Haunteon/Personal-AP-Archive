@@ -42,17 +42,25 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
     logging.info(get_option_value(multiworld, player, "goal"))
-    if get_option_value(multiworld, player, "goal") == 0:
+    if get_option_value(multiworld, player, "goal") == 0: """Festival"""
         multiworld.worlds[player].options.post_metro_moons.value = 1
         multiworld.worlds[player].options.post_game_moons.value = 0
-    if get_option_value(multiworld, player, "goal") == 1:
+        multiworld.worlds[player].options.moon_rock_moons.value = 0
+        multiworld.worlds[player].options.achievement_moons.value = 0
+    if get_option_value(multiworld, player, "goal") == 1: """Bowser"""
         multiworld.worlds[player].options.post_metro_moons.value = 0
         multiworld.worlds[player].options.post_game_moons.value = 0
-    if get_option_value(multiworld, player, "goal") == 2:
+        multiworld.worlds[player].options.moon_rock_moons.value = 0
+        multiworld.worlds[player].options.achievement_moons.value = 0
+    if get_option_value(multiworld, player, "goal") == 2: """World Peace"""
         multiworld.worlds[player].options.post_metro_moons.value = 0
-    if get_option_value(multiworld, player, "goal") == 3:
+        multiworld.worlds[player].options.moon_rock_moons.value = 0
+        multiworld.worlds[player].options.achievement_moons.value = 0
+    if get_option_value(multiworld, player, "goal") == 3: """Darker Side"""
         multiworld.worlds[player].options.post_metro_moons.value = 0
         multiworld.worlds[player].options.post_game_moons.value = 1
+        multiworld.worlds[player].options.achievement_moons.value = 0
+        
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     pass
