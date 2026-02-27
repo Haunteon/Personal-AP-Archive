@@ -451,7 +451,7 @@
     "category": [
       "02 Cascade Kingdom"
     ],
-    "requires": "((|High Jump| or {OptOne(|Spin|)}) or ({OptAll(|Wall Jump| and |Dive|)})",
+    "requires": "(|High Jump| or {OptOne(|Spin|)}) or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-02-010"
   },
   {
@@ -838,7 +838,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Bullet Bill| or |Cap Vault|)}",
+    "requires": "{OptOne(|Bullet Bill|)} or |Cap Vault|",
     "sort-key": "row-03-010"
   },
   {
@@ -856,7 +856,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptOne(|Bullet Bill|)} or {OptOne(|Long Jump|)} or {OptAll(|Triple Jump| and |Dive|)} or |Cap Vault| or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
+    "requires": "{OptOne(|Bullet Bill|)} or {OptOne(|Long Jump|)} or ({OptAll(|Triple Jump| and |Dive|)}) or |Cap Vault| or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-012"
   },
   {
@@ -1252,7 +1252,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Bullet Bill| or (|Wall Jump| or |Dive|))}",
+    "requires": "{OptOne(|Bullet Bill|)} or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-03-056"
   },
   {
@@ -1261,7 +1261,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Bullet Bill| or (|Wall Jump| or |Dive|))}",
+    "requires": "{OptOne(|Bullet Bill|)} or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-03-057"
   },
   {
@@ -1678,7 +1678,7 @@
     "category": [
       "04 Lake Kingdom"
     ],
-    "requires": "|Above the Lake| and {OptAll(  )}",
+    "requires": "(|High Jump| or {OptOne(|Spin|)}) or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-04-011"
   },
   {
@@ -2069,7 +2069,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Uproot|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)})))}",
+    "requires": "{OptOne(|Uproot|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)}))",
     "sort-key": "row-05-010"
   },
   {
@@ -2078,7 +2078,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or |Fire Bro| or |Cap Vault| or (|High Jump| and |Wall Jump| and |Dive|))}",
+    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or |Cap Vault| or (|High Jump| and {OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-05-011"
   },
   {
@@ -2096,7 +2096,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or ({YamlEnabled(easy_trick_jumps)} and |Wall Jump| and Dive) or (|High Jump| and |Dive| and (|Wall Jump| or |Cap Jump|)))}",
+    "requires": "{OptOne(|Uproot|)} or |Cap Vault| or ({YamlEnabled(easy_trick_jumps)} and |Wall Jump| and Dive) or (|High Jump| and {OptAll(|Dive| and |Wall Jump|)})",
     "sort-key": "row-05-013"
   },
   {
@@ -2105,7 +2105,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or |Fire Bro| or (|Wall Jump| and |Dive|) or |Cap Vault| or (|High Jump| and |Cap Jump|))}",
+    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or |Cap Vault| or ({OptAll(|Wall Jump| and |Dive|)}) or |High Jump|))}",
     "sort-key": "row-05-014"
   },
   {
@@ -2114,7 +2114,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Uproot| or (|Wall Jump| and |Ground Pound|))}",
+    "requires": "{OptOne(|Uproot|)} or ({OptAll(|Wall Jump| and |Ground Pound|)})",
     "sort-key": "row-05-015"
   },
   {
@@ -2348,7 +2348,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Mini Rocket| and (|Paragoomba| or |Cap Vault|))} and |To the Wall|",
+    "requires": "|To the Wall| and {OptAll(|Mini Rocket| and |Paragoomba|)}",
     "sort-key": "row-05-041"
   },
   {
@@ -2357,7 +2357,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Mini Rocket|)} and |To the Wall|",
+    "requires": "|To the Wall| and {OptAll(|Mini Rocket| and |Paragoomba|)}",
     "sort-key": "row-05-042"
   },
   {
@@ -2375,7 +2375,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Goomba| or (|Cap Vault| or (|Wall Jump| and |Dive|)))}",
+    "requires": "{OptOne(|Goomba|)} or |Cap Vault| or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-05-044"
   },
   {
@@ -2914,7 +2914,7 @@
     "category": [
       "07 Lost Kingdom"
     ],
-    "requires": "{OptAll(|Tropical Wiggler| and |Homing Cap Throw|)}",
+    "requires": "{OptAll(|Tropical Wiggler| or |Homing Cap Throw|)}",
     "sort-key": "row-07-015"
   },
   {
@@ -3204,7 +3204,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll((|Wall Jump| and (|Sherm| or |Cap Vault|)) or (|Metro Kingdom Mechawiggler Multimoon| and {OptOne(|Spark Pylon|)})",
+    "requires": "{OptOne(|Wall Jump|)} or {OptOne(|Long Jump|)} or |Cap Vault| or (|Metro Kingdom Mechawiggler Multimoon| and {OptOne(|Spark Pylon|)})",
     "sort-key": "row-08-010"
   },
   {
@@ -3213,7 +3213,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Spark Pylon| and |Long Jump|)}",
+    "requires": "{OptAll(|Long Jump| or |Dive)} or (|Post Game| and {OptOne(|Volbonan|)})",
     "sort-key": "row-08-011"
   },
   {
@@ -3277,7 +3277,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Triple Jump| or |Long Jump|)}",
+    "requires": "{OptAll(|Long Jump| or |Dive)}",
     "sort-key": "row-08-018"
   },
   {
