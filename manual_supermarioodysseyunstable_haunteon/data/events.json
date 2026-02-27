@@ -2,230 +2,273 @@
   {
     "name": "High Jump",
     "requires": "{OptOne(|Triple Jump|)} or {OptOne(|Back Flip|)} or {OptOne(|Side Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})",
-     "visible": true
+    "category": "06 Events",
+    "visible": true
   },
   {
     "name": "Momentum",
     "requires": "{OptOne(|Long Jump|)} or {OptOne(|Roll|)} or {OptOne(|Dive|)}",
- 	"visible": true
+    "category": "06 Events",
+	"visible": true
   },
   {
     "name": "Cap Vault",
     "requires": "{OptAll(|Dive|)} and {OptOne(|Cap Jump|)}",
- 	"visible": true
+    "category": "06 Events",
+	"visible": true
   },
   {
     "name": "Pyramid Skip",
     "region": "Sand Kingdom 1st Visit",
     "requires": "({OptOne(|Bullet Bill|)} or (|Cap Vault| and ({OptOne(|Long Jump|)} or {OptOne(|Triple Jump|)})))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Into the Lake",
     "region": "Lake Kingdom 1st Visit",
     "requires": "(({OptAll(|Zipper| and |Swim|)}) or (|Cap Vault| and (|High Jump| or ({OptOne(|Long Jump|)} or ({OptOne(Triple Jump)} and {OptOne(|Wall Jump|)})))) or ({OptAll(|Cap Jump| and |Triple Jump| and |Wall Jump| and |Goomba|)}))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Above the Lake",
     "region": "Lake Kingdom Into the Lake",
     "requires": "{OptOne(|Cheep Cheep|)} or {OptOne(|Swim|)} or |Cap Vault|",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Maze Skip",
     "region": "Wooded Kingdom 1st Visit",
     "requires": "{OptOne(|Uproot|)} or |Cap Vault|",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "To the Wall",
     "region": "Wooded Kingdom Post Spewart",
     "requires": "{OptOne(|Hold/Throw|)} or (|High Jump| and |Cap Vault|) or ({OptAll(|Uproot| and |Dive|)})",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Sherm Wall",
     "region": "Wooded Kingdom Post Spewart",
     "requires": "|To the Wall| and ({OptOne(|Sherm|)} or ({OptAll(|Goomba| and |Wall Jump| and |Dive|)}))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "View of Lost",
     "region": "Lost Kingdom 1st Visit",
     "requires": "{OptAll(|Ground Pound| and |Wall Jump|)}",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "After Gusty Barrier",
     "copy_location": "The Gusty Barrier",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Get to Cheese",
     "region": "Luncheon Kingdom Post Spewart",
     "requires": "{OptOne(|Lava Bubble|)} or ({OptOne(|Dive|)} and ({OptOne(|Triple Jump|)} or {OptOne(|Cap Jump|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Get to Meat",
     "region": "Luncheon Kingdom Post Cheese",
     "requires": "{OptOne(|Volbonan|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)})) or (|High Jump| and ({OptOne(|Cap Jump|)} or |Cap Vault|))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Enter the Courtyard",
     "region": "Bowser Kingdom 1st Visit",
     "requires": "{OptOne(|Pokio|)} or ({OptOne(|Dive|)} and ({OptOne(|Back Flip|)} or {OptOne(|Wall Jump|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Over the Moat",
     "region": "Bowser Kingdom Courtyards",
-    "requires": "{OptOne(|Pokio|)} or (|High Jump| and |Cap Vault|) or (|High Jump| and {OptAll(|Wall Jump| and |Dive|)})",
- 	"visible": true
+    "requires": "{OptOne(|Pokio|)} or (|High Jump| and |Cap Vault|) or ({YamlEnabled(easy_trick_jumps)} and |Cap Vault|))",
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Parabones Skip",
     "region": "Moon Kingdom 1st Visit",
     "requires": "{OptOne(|Parabones|)} or (|Cap Vault| and ({OptAll(|Long Jump| or |Triple Jump|)}))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Moon Cave Gauntlet",
     "region": "Moon Kingdom 1st Visit",
     "requires": "(|Parabones Skip| and {OptAll(|Banzai Bill| and |Spark Pylon|)})",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Moon Cave Skip",
     "region": "Moon Kingdom 1st Visit",
     "requires": "{YamlEnabled(moon_cave_skip)} and {OptOne(|Cap Jump|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Tourist 1",
     "copy_location": "A Tourist in the Metro Kingdom!",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Tourist 2",
     "copy_location": "A Tourist in the Cascade Kingdom!",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Tourist 3",
     "copy_location": "A Tourist in the Luncheon Kingdom!",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Tourist 4",
     "copy_location": "A Tourist in the Moon Kingdom!",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Tourist 5",
     "copy_location": "A Tourist in the Mushroom Kingdom!",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Cap",
     "copy_location": "Peach in the Cap Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Cascade",
     "copy_location": "Peach in the Cascade Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Sand",
     "copy_location": "Peach in the Sand Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Lake",
     "copy_location": "Peach in the Lake Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Wooded",
     "copy_location": "Peach in the Wooded Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Cloud",
     "copy_location": "Peach in the Cloud Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Lost",
     "copy_location": "Peach in the Lost Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Metro",
     "copy_location": "Peach in the Metro Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Snow",
     "copy_location": "Peach in the Snow Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Seaside",
     "copy_location": "Peach in the Seaside Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Luncheon",
     "copy_location": "Peach in the Luncheon Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Ruined",
     "copy_location": "Peach in the Ruined Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Bowser",
     "copy_location": "Peach in Bowser's Kingdom",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Moon",
     "requires": "|Peach Cap| and |Peach Cascade| and |Peach Sand| and |Peach Lake| and |Peach Wooded| and |Peach Cloud| and |Peach Lost| and |Peach Metro| and |Peach Snow| and |Peach Seaside| and |Peach Luncheon| and |Peach Ruined| and |Peach Bowser|",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Peach Mushroom",
     "requires": "|Peach Moon|",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Goal 1",
     "copy_location": "A Traditional Festival!",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Goal 2",
     "copy_location": "Rescue Princess Peach",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Goal 3",
     "copy_location": "Achieve World Peace",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Goal 4",
     "copy_location": "Long Journey's End",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   },
   {
     "name": "Post Game",
     "copy_location": "Rescue Princess Peach",
- 	"visible": true
+    "category": "06 Events",
+	"visible": false
   }
 ]

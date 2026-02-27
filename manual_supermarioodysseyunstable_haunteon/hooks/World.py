@@ -14,7 +14,6 @@ from ..Data import game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat, remove_specific_item
-
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
 
@@ -42,8 +41,16 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
-    pass
-
+    logging.info(get_option_value(multiworld, player, "goal"))
+    if get_option_value(multiworld, player, "goal") == 0:
+        multiworld.worlds[player].options.post_game_moons.value = 0
+        multiworld.worlds[player].options.post_metro_moons.value = 0
+    if get_option_value(multiworld, player, "goal") == 1:
+        multiworld.worlds[player].options.post_game_moons.value = 0
+        multiworld.worlds[player].options.post_metro_moons.value = 0
+    if get_option_value(multiworld, player, "goal") == 2:
+        multiworld.worlds[player].options.post_game_moons.value = 0
+        multiworld.worlds[player].options.post_metro_moons.value = 0
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     pass
