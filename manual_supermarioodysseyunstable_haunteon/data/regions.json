@@ -27,14 +27,16 @@
       "Lake Kingdom 1st Visit",
       "Wooded Kingdom 1st Visit"
     ],
-    "requires": "{OptAll(|Power Moon:5| and |Cascade Moon:5| and |Progressive Kingdom Unlock:1|)}"
+    "requires": "{BeatCascade()} and {OptOne(|Progressive Kingdom Unlock:1|)}"
   },
   "Cap Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": ""
   },
   "Cascade Kingdom 2nd Visit": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": ""
   },
   "Sand Kingdom Post Hariet": {
@@ -44,14 +46,15 @@
     "requires": "|Sand Kingdom Hariet Multimoon|"
   },
   "Sand Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Sand Kingdom Knucklotec Multimoon|"
   },
   "Lake Kingdom 1st Visit": {
     "connects_to": [
       "Lake Kingdom Into the Lake"
     ],
-    "requires": "({OptAll(|Power Moon:21| and |Sand Moon:16|)} and |Kingdom Split Path Lake Kingdom|) or ({OptAll(|Power Moon:37| and |Sand Moon:16| and |Wooded Moon:16|)} and (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and {OptOne(|Hold/Throw|)})))"
+    "requires": "({BeatSand()} and |Kingdom Split Path Lake Kingdom|) or ({BeatSand()} and {BeatWooded()} and (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and {OptOne(|Hold/Throw|)})))"
   },
   "Lake Kingdom Into the Lake": {
     "connects_to": [
@@ -61,7 +64,8 @@
     "requires": "|Into the Lake|"
   },
   "Lake Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Lake Kingdom Rango Multimoon|"
   },
   "Wooded Kingdom 1st Visit": {
@@ -69,10 +73,11 @@
       "Wooded Kingdom Deep Woods",
       "Wooded Kingdom Maze Skip"
     ],
-    "requires": "({OptAll(|Power Moon:21| and |Sand Moon:16|)} and |Kingdom Split Path Wooded Kingdom|) or ({OptAll(|Power Moon:29| and |Sand Moon:16| and |Lake Moon:8|)} and |Into the Lake|)"
+    "requires": "({Beat Sand()} and |Kingdom Split Path Wooded Kingdom|) or ({BeatSand()} and {BeatLake()} and |Into the Lake|)"
   },
   "Wooded Kingdom Deep Woods": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "{OptOne(|Hold/Throw|)}"
   },
   "Wooded Kingdom Maze Skip": {
@@ -95,14 +100,15 @@
     "requires": "|Sherm Wall|"
   },
   "Wooded Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Wooded Kingdom Torkdrift Multimoon|"
   },
   "Cloud Kingdom 1st Visit": {
     "connects_to": [
       "Lost Kingdom 1st Visit"
     ],
-    "requires": "{OptAll(|Power Moon:45| and |Lake Moon:8| and |Wooded Moon:16| and |Progressive Kingdom Unlock:2| and |Ground Pound|)} and |Maze Skip| and |Into the Lake| and |Kingdom Split Path Lake Kingdom| and |Kingdom Split Path Wooded Kingdom|"
+    "requires": "{BeatLake()} and {BeatWooded()} and {OptAll(|Progressive Kingdom Unlock:2| and |Ground Pound|)} and |Maze Skip| and |Into the Lake| and |Kingdom Split Path Lake Kingdom| and |Kingdom Split Path Wooded Kingdom|"
   },
   "Lost Kingdom 1st Visit": {
     "connects_to": [
@@ -116,14 +122,16 @@
       "Lost Kingdom 2nd Visit",
       "Metro Kingdom Day"
     ],
-    "requires": "{OptAll(|Power Moon:55| and |Lost Moon:10| and |Progressive Kingdom Unlock:3| and |Spark Pylon|)}"
+    "requires": "{BeatLost()} and {OptAll(|Progressive Kingdom Unlock:3| and |Spark Pylon|)}"
   },
   "Cloud Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": ""
   },
   "Lost Kingdom 2nd Visit": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": ""
   },
   "Metro Kingdom Day": {
@@ -135,7 +143,8 @@
     "requires": "|Metro Kingdom Mechawiggler Multimoon|"
   },
   "Metro Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Metro Kingdom Festival Multimoon|"
   },
   "Snow Kingdom 1st Visit": {
@@ -143,10 +152,11 @@
       "Snow Kingdom Post Peace",
       "Luncheon Kingdom 1st Visit"
     ],
-    "requires": "({OptAll(|Power Moon:75| and |Metro Moon:20|)} and |Kingdom Split Path Snow Kingdom|) or ({OptAll(|Power Moon:85| and |Seaside Moon:10| and |Metro Moon:20|)} and |Kingdom Split Path Seaside Kingdom|)"
+    "requires": "({BeatMetro()} and |Kingdom Split Path Snow Kingdom|) or ({BeatMetro()} and {BeatSeaside()} and |Kingdom Split Path Seaside Kingdom|)"
   },
   "Snow Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Snow Kingdom Bound Bowl Grand Prix Multimoon|"
   },
   "Seaside Kingdom 1st Visit": {
@@ -154,17 +164,18 @@
       "Seaside Kingdom Post Peace",
       "Luncheon Kingdom 1st Visit"
     ],
-    "requires": "({OptAll(|Power Moon:75| and |Metro Moon:20|)} and |Kingdom Split Path Seaside Kingdom|) or ({OptAll(|Power Moon:85| and |Snow Moon:10| and |Metro Moon:20|)} and |Kingdom Split Path Snow Kingdom|)"
+    "requires": "({BeatMetro()} and |Kingdom Split Path Seaside Kingdom|) or ({BeatMetro()} and {BeatSnow()} and |Kingdom Split Path Snow Kingdom|)"
   },
   "Seaside Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Seaside Kingdom Mollusque-Lanceur Multimoon|"
   },
   "Luncheon Kingdom 1st Visit": {
     "connects_to": [
       "Luncheon Kingdom Post Spewart"
     ],
-    "requires": "{OptAll(|Power Moon:95| and |Snow Moon:10| and |Seaside Moon:10| and |Progressive Kingdom Unlock:4|)} and |Kingdom Split Path Snow Kingdom| and |Kingdom Split Path Seaside Kingdom|"
+    "requires": "{BeatSnow()} and {BeatSeaside()} and {OptOne(|Progressive Kingdom Unlock:4|)} and |Kingdom Split Path Snow Kingdom| and |Kingdom Split Path Seaside Kingdom|"
   },
   "Luncheon Kingdom Post Spewart": {
     "connects_to": [
@@ -192,14 +203,15 @@
     "requires": "|Luncheon Kingdom Cave Story Moon|"
   },
   "Luncheon Kingdom Post Peace": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Luncheon Kingdom Cookatiel Multimoon|"
   },
   "Ruined Kingdom 1st Visit": {
     "connects_to": [
       "Ruined Kingdom Post Peace"
     ],
-    "requires": "{OptAll(|Power Moon:113| and |Luncheon Moon:18| and |Progressive Kingdom Unlock:5|)}"
+    "requires": "{BeatLuncheon()} and {OptOne(|Progressive Kingdom Unlock:5|)}"
   },
   "Ruined Kingdom Post Peace": {
     "connects_to": [
@@ -211,7 +223,7 @@
     "connects_to": [
       "Bowser Kingdom Courtyards"
     ],
-    "requires": "{OptAll(|Power Moon:116| and |Ruined Moon:3| and |Progressive Kingdom Unlock:6|)}"
+    "requires": "{BeatRuined()} and {OptOne(|Progressive Kingdom Unlock:6|)}"
   },
   "Bowser Kingdom Courtyards": {
     "connects_to": [
@@ -241,7 +253,7 @@
     "connects_to": [
       "Moon Kingdom Post Moon Cave"
     ],
-    "requires": "{OptAll(|Power Moon:124| and |Bowser Moon:8| and |Progressive Kingdom Unlock:7|)}"
+    "requires": "{BeatBowser()} and {OptOne(|Progressive Kingdom Unlock:7|)}"
   },
   "Moon Kingdom Post Moon Cave": {
     "connects_to": [
@@ -277,7 +289,8 @@
     "requires": ""
   },
   "Cap Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power| and {OptOne(|Paragoomba|)}"
   },
   "Cascade Kingdom Post Game": {
@@ -287,7 +300,8 @@
     "requires": ""
   },
   "Cascade Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Sand Kingdom Post Game": {
@@ -297,7 +311,8 @@
     "requires": "|Sand Kingdom Knucklotec Multimoon|"
   },
   "Sand Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Lake Kingdom Post Game": {
@@ -307,7 +322,8 @@
     "requires": "|Lake Kingdom Rango Multimoon|"
   },
   "Lake Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Wooded Kingdom Post Game": {
@@ -317,7 +333,8 @@
     "requires": "|Wooded Kingdom Torkdrift Multimoon|"
   },
   "Wooded Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Cloud Kingdom Post Game": {
@@ -327,7 +344,8 @@
     "requires": ""
   },
   "Cloud Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Lost Kingdom Post Game": {
@@ -337,7 +355,8 @@
     "requires": ""
   },
   "Lost Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Metro Kingdom Post Game": {
@@ -347,7 +366,8 @@
     "requires": "|Metro Kingdom Festival Multimoon|"
   },
   "Metro Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Snow Kingdom Post Game": {
@@ -357,7 +377,8 @@
     "requires": "|Snow Kingdom Bound Bowl Grand Prix Multimoon|"
   },
   "Snow Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Seaside Kingdom Post Game": {
@@ -367,7 +388,8 @@
     "requires": "|Seaside Kingdom Mollusque-Lanceur Multimoon|"
   },
   "Seaside Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Luncheon Kingdom Post Game": {
@@ -377,7 +399,8 @@
     "requires": "|Luncheon Kingdom Cookatiel Multimoon|"
   },
   "Luncheon Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Ruined Kingdom Post Game": {
@@ -387,7 +410,8 @@
     "requires": ""
   },
   "Ruined Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Bowser Kingdom Post Game": {
@@ -397,7 +421,8 @@
     "requires": ""
   },
   "Bowser Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Moon Kingdom Post Game": {
@@ -407,7 +432,8 @@
     "requires": ""
   },
   "Moon Kingdom Moon Rock": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Moon Power|"
   },
   "Dark Side": {
@@ -417,11 +443,13 @@
     "requires": "|Power Moon:250|"
   },
   "Dark Side Post Mech": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Dark Side Mecha-Broodal Multimoon|"
   },
   "Darker Side": {
-    "connects_to": [],
+    "connects_to": [
+    ],
     "requires": "|Power Moon:500|"
   }
 }

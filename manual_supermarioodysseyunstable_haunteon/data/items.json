@@ -1,6 +1,6 @@
 [
   {
-    "count": "124",
+    "count": "248",
     "name": "Power Moon",
     "category": [
       "01 Moons",
@@ -10,7 +10,7 @@
 	"sort-key": "row-1-01"
   },
   {
-    "count": "5",
+    "count": "10",
     "name": "Cascade Moon",
     "category": [
       "01 Moons",
@@ -20,7 +20,7 @@
 	"sort-key": "row-1-01"
   },
   {
-    "count": "16",
+    "count": "32",
     "name": "Sand Moon",
     "category": [
       "01 Moons",
@@ -30,7 +30,7 @@
 	"sort-key": "row-1-02"
   },
   {
-    "count": "8",
+    "count": "16",
     "name": "Lake Moon",
     "category": [
       "01 Moons",
@@ -40,7 +40,7 @@
 	"sort-key": "row-1-03"
   },
   {
-    "count": "16",
+    "count": "32",
     "name": "Wooded Moon",
     "category": [
       "01 Moons",
@@ -50,7 +50,7 @@
 	"sort-key": "row-1-04"
   },
   {
-    "count": "10",
+    "count": "20",
     "name": "Lost Moon",
     "category": [
       "01 Moons",
@@ -60,7 +60,7 @@
 	"sort-key": "row-1-05"
   },
   {
-    "count": "20",
+    "count": "40",
     "name": "Metro Moon",
     "category": [
       "01 Moons",
@@ -70,7 +70,7 @@
 	"sort-key": "row-1-06"
   },
   {
-    "count": "10",
+    "count": "20",
     "name": "Snow Moon",
     "category": [
       "01 Moons",
@@ -81,7 +81,7 @@
 	"sort-key": "row-1-07"
   },
   {
-    "count": "10",
+    "count": "20",
     "name": "Seaside Moon",
     "category": [
       "01 Moons",
@@ -92,7 +92,7 @@
 	"sort-key": "row-1-08"
   },
   {
-    "count": "18",
+    "count": "36",
     "name": "Luncheon Moon",
     "category": [
       "01 Moons",
@@ -103,7 +103,7 @@
 	"sort-key": "row-1-09"
   },
   {
-    "count": "3",
+    "count": "6",
     "name": "Ruined Moon",
     "category": [
       "01 Moons",
@@ -114,7 +114,7 @@
 	"sort-key": "row-1-10"
   },
   {
-    "count": "8",
+    "count": "16",
     "name": "Bowser Moon",
     "category": [
       "01 Moons",
@@ -125,7 +125,7 @@
 	"sort-key": "row-1-11"
   },
   {
-    "count": "8",
+    "count": "7",
     "name": "Progressive Kingdom Unlock",
     "category": [
       "02 Kingdoms",
@@ -135,7 +135,7 @@
 	"sort-key": "row-2-01"
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Kingdom Split Path Lake Kingdom",
     "category": [
       "02 Kingdoms"
@@ -144,7 +144,7 @@
 	"sort-key": "row-2-02"
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Kingdom Split Path Wooded Kingdom",
     "category": [
       "02 Kingdoms"
@@ -153,7 +153,7 @@
 	"sort-key": "row-2-03"
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Kingdom Split Path Snow Kingdom",
     "category": [
       "02 Kingdoms",
@@ -163,7 +163,7 @@
 	"sort-key": "row-2-04"
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Kingdom Split Path Seaside Kingdom",
     "category": [
       "02 Kingdoms",

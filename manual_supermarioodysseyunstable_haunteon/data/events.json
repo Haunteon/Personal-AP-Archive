@@ -96,7 +96,7 @@
   {
     "name": "Over the Moat",
     "region": "Bowser Kingdom Courtyards",
-    "requires": "{OptOne(|Pokio|)} or (|High Jump| and |Cap Vault|) or ({YamlEnabled(easy_trick_jumps)} and |Cap Vault|))",
+    "requires": "{OptOne(|Pokio|)} or (|High Jump| and |Cap Vault|)",
     "category": "06 Events",
 	"visible": false
   },

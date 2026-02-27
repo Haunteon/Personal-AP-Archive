@@ -33,7 +33,7 @@ def BeatLake(world: World, multiworld: MultiWorld, state: CollectionState, playe
         return True
     return False
 
-def BeatWood(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+def BeatWooded(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """can the player reach the Lake and wooded."""
     if (state.count("Wooded Moon", player) >= get_option_value(multiworld, player, "moonsreqforwooded")):
         return True
@@ -64,7 +64,7 @@ def BeatSnow(world: World, multiworld: MultiWorld, state: CollectionState, playe
     if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow")):
         return True
     return False
-def BeatSea(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+def BeatSeaside(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """can the player reach the end of Snow."""
     if (state.count("Seaside Moon", player) >= get_option_value(multiworld, player, "moonsreqforseaside")):
         return True
