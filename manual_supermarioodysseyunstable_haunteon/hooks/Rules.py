@@ -11,7 +11,7 @@ import re
 # You can also pass an argument to your function, like {function_name(15)}
 # Note that all arguments are strings, so you'll need to convert them to ints if you want to do math.
 def BeatCascade(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of cascade."""
+    """can the player leave cascade."""
     if (state.count("Cascade Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade")):
         return True
     if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade")):
@@ -19,7 +19,7 @@ def BeatCascade(world: World, multiworld: MultiWorld, state: CollectionState, pl
     return False
 
 def BeatSand(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of Sand."""
+    """can the player leave sand."""
     if (state.count("Sand Moon", player) >= get_option_value(multiworld, player, "moonsreqforsand")):
         return True
     if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand")):
@@ -27,14 +27,15 @@ def BeatSand(world: World, multiworld: MultiWorld, state: CollectionState, playe
     return False
 
 def BeatLake(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """can the player leave lake."""
     if (state.count("Lake Moon", player) >= get_option_value(multiworld, player, "moonsreqforlake")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake")):
         return True
     return False
 
 def BeatWooded(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the Lake and wooded."""
+    """can the player leave wooded."""
     if (state.count("Wooded Moon", player) >= get_option_value(multiworld, player, "moonsreqforwooded")):
         return True
     if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforwooded")):
@@ -42,53 +43,55 @@ def BeatWooded(world: World, multiworld: MultiWorld, state: CollectionState, pla
     return False
 
 def BeatLost(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of Lost."""
+    """can the player leave lost."""
     if (state.count("Lost Moon", player) >= get_option_value(multiworld, player, "moonsreqforlost")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost")):
         return True
     return False
 
 def BeatMetro(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of Metro."""
+    """can the player leave metro."""
     if (state.count("Metro Moon", player) >= get_option_value(multiworld, player, "moonsreqformetro")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro")):
         return True
     return False
 
 def BeatSnow(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of Snow."""
+    """can the player leave snow."""
     if (state.count("Snow Moon", player) >= get_option_value(multiworld, player, "moonsreqforsnow")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow")):
         return True
     return False
+    
 def BeatSeaside(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of Snow."""
+    """can the player leave seaside."""
     if (state.count("Seaside Moon", player) >= get_option_value(multiworld, player, "moonsreqforseaside")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforseaside")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforseaside")):
         return True
+        
 def BeatLuncheon(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of Luncheon."""
+    """can the player leave luncheon."""
     if (state.count("Luncheon Moon", player) >= get_option_value(multiworld, player, "moonsreqforluncheon")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon")):
         return True
     return False
 
 def BeatRuined(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player start Ruined."""
+    """can the player leave ruined."""
     if (state.count("Ruined Moon", player) >= get_option_value(multiworld, player, "moonsreqforruined")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon") + get_option_value(multiworld, player, "moonsreqforruined")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon") + get_option_value(multiworld, player, "moonsreqforruined")):
         return True
     return False
 
 def BeatBowser(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """can the player reach the end of Bowser."""
+    """can the player leave bowser."""
     if (state.count("Bowser Moon", player) >= get_option_value(multiworld, player, "moonsreqforbowser")):
         return True
-    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon") + get_option_value(multiworld, player, "moonsreqforruined") + get_option_value(multiworld, player, "moonsreqforbowser")):
+    if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon") + get_option_value(multiworld, player, "moonsreqforruined") + get_option_value(multiworld, player, "moonsreqforbowser")):
         return True
