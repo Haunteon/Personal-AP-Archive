@@ -103,12 +103,12 @@
       "type": "Toggle",
       "default": false,
       "group": "Location Options",
-      "hidden": false
+      "hidden": true
     },
     "post_game_moons": {
       "display_name": "Include Post Game Moons",
       "description": [
-        "Requires Exclude Post Metro = FALSE",
+        "Only change if doing World Peace Goal",
 		"Adds Post Game moons as locations."
       ],
       "type": "Toggle",
