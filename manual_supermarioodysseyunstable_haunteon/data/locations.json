@@ -33,7 +33,7 @@
 	  "Post Game"
     ],
     "requires": "|Goal 4|",
-    "victory": false,
+    "victory": true,
     "sort-key": "row-00-004"
   },
   {
