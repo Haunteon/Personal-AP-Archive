@@ -278,7 +278,7 @@
       "01 Cap Kingdom",
       "Moon Rock"
     ],
-    "requires": "({YamlEnabled(capture_randomizer)} and {OptOne(|Paragoomba|)}) or ({YamlEnabled(action_randomizer)} and {OptAll(|Long Jump| or |Triple Jump|)} and |Cap Vault|) or ({YamlDisabled(action_randomizer)} and {YamlDisabled(capture_randomizer)})",
+    "requires": "{OptOne(|Paragoomba|)} or (|Cap Vault| and ({OptAll(|Long Jump| or |Triple Jump|)}))",
     "sort-key": "row-01-023"
   },
   {
@@ -856,7 +856,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptOne(|Bullet Bill|)} or {OptOne(|Long Jump|)} or ({OptAll(|Triple Jump| and |Dive|)}) or |Cap Vault| or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
+    "requires": "{OptOne(|Bullet Bill|)} or {OptOne(|Long Jump|)} or ({OptAll(|Triple Jump| and |Dive|)}) or |Cap Vault| or ({OptAll(|Glydon| or |Spark Pylon|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-012"
   },
   {
@@ -1018,7 +1018,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "{OptAll(|Jaxi| or (|Long Jump| and |Roll|)}",
+    "requires": "{OptOne(|Jaxi|)} or ({OptAll(|Long Jump| and |Roll|)})",
     "sort-key": "row-03-030"
   },
   {
@@ -2339,7 +2339,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Swim| and |Wall Jump|)}",
+    "requires": "{OptAll(|Swim| and |Wall Jump|)} and (|Cap Vault| or {OptOne(|Side Flip|)} or {OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))",
     "sort-key": "row-05-040"
   },
   {
@@ -2887,7 +2887,7 @@
     "category": [
       "07 Lost Kingdom"
     ],
-    "requires": "{OptAll(|View of Lost| or (|Wall Jump| and |Dive|) or |Cap Jump|)}",
+    "requires": "|View of Lost| or ({OptAll(|Wall Jump| and |Dive|)}) or {OptOne(|Cap Jump|)}",
     "sort-key": "row-07-012"
   },
   {
@@ -2905,7 +2905,7 @@
     "category": [
       "07 Lost Kingdom"
     ],
-    "requires": "{OptAll(|Spin Throw| and (|View of Lost| or (|Wall Jump| and |Dive|) or |Cap Jump|))}",
+    "requires": "{OptOne(|Spin Throw|)} and (|View of Lost| or ({OptAll(|Wall Jump| and |Dive|)}) or {OptOne(|Cap Jump|)})",
     "sort-key": "row-07-014"
   },
   {
@@ -3156,7 +3156,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Spark Pylon| and |Ground Pound|)}",
+    "requires": "",
     "sort-key": "row-08-005"
   },
   {
@@ -3468,7 +3468,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Builder Helmet| and |Builder Outfit| and |Spark Pylon|)}",
+    "requires": "{OptAll(|Builder Helmet| and |Builder Outfit|)}",
     "sort-key": "row-08-039"
   },
   {
@@ -3477,7 +3477,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Builder Helmet| and |Builder Outfit| and |Spark Pylon|)}",
+    "requires": "{OptAll(|Builder Helmet| and |Builder Outfit|)}",
     "sort-key": "row-08-040"
   },
   {
@@ -3531,7 +3531,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Mini Rocket| and (|Wall Jump| or |Dive|))}",
+    "requires": "{OptOne(|Mini Rocket|)} and ({OptAll(|Wall Jump| or |Dive|)})",
     "sort-key": "row-08-046"
   },
   {
@@ -3549,7 +3549,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Bullet Bill| or |Cap Vault|)}",
+    "requires": "{OptOne(|Bullet Bill|)} or |Cap Vault|",
     "sort-key": "row-08-048"
   },
   {
@@ -3675,7 +3675,7 @@
       "08 Metro Kingdom",
       "Post Game"
     ],
-    "requires": "{OptAll(|Spark Pylon| and (|Volbonan| or |Long Jump|))}",
+    "requires": "{OptAll(|Volbonan| or |Long Jump|)}",
     "sort-key": "row-08-061"
   },
   {
@@ -4500,7 +4500,7 @@
       "10 Seaside Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Gushen| or (|Wall Jump| and (|Cap Vault| or ({YamlEnabled(hard_trick_jumps)} and |High Jump| and |Cap Jump|))))}",
+    "requires": "{OptOne(|Gushen|)} or ({OptOne(|Wall Jump|)} and |Cap Vault|)",
     "sort-key": "row-10-007"
   },
   {
@@ -4530,7 +4530,7 @@
       "10 Seaside Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Cheep Cheep| or (|Swim| and |Ground Pound|))}",
+    "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Swim| and |Ground Pound|)})",
     "sort-key": "row-10-010"
   },
   {
@@ -4590,7 +4590,7 @@
       "10 Seaside Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Cheep Cheep| or (|Swim| and |Ground Pound|))}",
+    "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Swim| and |Ground Pound|)})",
     "sort-key": "row-10-016"
   },
   {
@@ -4620,7 +4620,7 @@
       "10 Seaside Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Cheep Cheep| or (|Swim| and |Ground Pound|))}",
+    "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Swim| and |Ground Pound|)})",
     "sort-key": "row-10-019"
   },
   {
@@ -5235,7 +5235,7 @@
       "11 Luncheon Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))} and |Get to Cheese|",
+    "requires": "|Get to Cheese| and ({OptOne(|Hammer Bro|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)} or {OptOne(|Cap Jump|)})))",
     "sort-key": "row-11-008"
   },
   {
@@ -5275,7 +5275,7 @@
       "11 Luncheon Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Ground Pound| or (|Lava Bubble| and |Cap Vault|))}",
+    "requires": "{OptOne(|Ground Pound|)} and ({OptOne(|Lava Bubble|)} or {OptOne(|Cap Vault|)})",
     "sort-key": "row-11-012"
   },
   {
@@ -5285,7 +5285,7 @@
       "11 Luncheon Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll((|Wall Jump| and |Dive|) or |Cap Vault|)} or |Luncheon Kingdom Cheese Story Moon|",
+    "requires": "({OptAll(|Wall Jump| and |Dive|)}) or |Cap Vault| or {OptOne(|Hammer Bro|)}",
     "sort-key": "row-11-013"
   },
   {
@@ -5315,7 +5315,7 @@
       "11 Luncheon Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptOne(|Hold/Throw|)} and {OptAll(|Hammer Bro| or (|Wall Jump| and |Dive| and (|High Jump| or |Spin| or |Cap Jump|)))} and |Get to Cheese|",
+    "requires": "{OptOne(|Hold/Throw|)} and |Get to Cheese| and ({OptOne(|Hammer Bro|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)} or {OptOne(|Cap Jump|)})))",
     "sort-key": "row-11-016"
   },
   {
@@ -5645,7 +5645,7 @@
       "11 Luncheon Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll(|Cheep Cheep| or (|Ground Pound| and |Swim|))}",
+    "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Ground Pound| and |Swim|)})",
     "sort-key": "row-11-049"
   },
   {
@@ -6051,7 +6051,7 @@
       "13 Bowser Kingdom",
 	  "Post Metro"
     ],
-    "requires": "{OptAll((|Long Jump| and |Dive|) or (|Lakitu| and |Slingshot| and |Bowser Kingdom Mecha-Broodal Multimoon|))}",
+    "requires": "({OptAll(|Long Jump| and |Dive|)}) or ({OptAll(|Lakitu| and |Slingshot|)} and |Bowser Kingdom Mecha-Broodal Multimoon|)",
     "sort-key": "row-13-011"
   },
   {
@@ -6780,7 +6780,7 @@
       "14 Moon Kingdom",
       "Post Game"
     ],
-    "requires": "{OptAll(|Wall Jump| AND |Momentum|)}",
+    "requires": "{OptOne(|Wall Jump|)} AND |Momentum|",
     "sort-key": "row-14-022"
   },
   {
@@ -7280,7 +7280,7 @@
       "15 Mushroom Kingdom",
 	  "Post Game"
     ],
-    "requires": "{OptAll(|Uproot| and (|Hold/Throw| or |Yoshi| or (|Dive| and |Wall Jump| and (|Goomba| or (|Cap Jump| and (|Back Flip| or (|Ground Pound| and |Ground Pound Jump|)))))))}",
+    "requires": "{OptOne(|Uproot|)} and ({OptOne(|Hold/Throw|)} or {OptOne(|Yoshi|)} or ({OptOne(|Dive|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Goomba|)} or ({OptOne(|Cap Jump|)} and ({OptOne(|Back Flip|)} or ({OptAlive(|Ground Pound| and |Ground Pound Jump|)}))))))",
     "sort-key": "row-15-034"
   },
   {
@@ -7716,7 +7716,7 @@
       "15 Mushroom Kingdom",
       "Achievement"
     ],
-    "requires": "|Peach Mushroom| or |Moon Power|",
+    "requires": "|Peach Mushroom|",
     "sort-key": "row-15-077"
   },
   {
@@ -8182,7 +8182,7 @@
       "16 Dark Side",
       "Post Game"
     ],
-    "requires": "{OptAll(|Ground Pound| AND |After Gusty Barrier| and |Dive| AND (|High Jump| OR |Spin| OR |Wall Jump| OR |Cap Jump|))}",
+    "requires": "{OptOne(|Ground Pound|)} and |After Gusty Barrier| and {OptOne(|Dive|)} AND ({OptAll(|High Jump| OR |Spin| OR |Wall Jump| OR |Cap Jump|)})",
     "sort-key": "row-16-019"
   },
   {
