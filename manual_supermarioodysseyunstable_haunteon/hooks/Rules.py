@@ -88,7 +88,7 @@ def BeatRuined(world: World, multiworld: MultiWorld, state: CollectionState, pla
 
 def BeatBowser(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """can the player reach the end of Bowser."""
-    if (state.count("Bowser's Moon", player) >= get_option_value(multiworld, player, "moonsreqforbowser")):
+    if (state.count("Bowser Moon", player) >= get_option_value(multiworld, player, "moonsreqforbowser")):
         return True
     if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon") + get_option_value(multiworld, player, "moonsreqforruined") + get_option_value(multiworld, player, "moonsreqforbowser")):
         return True
