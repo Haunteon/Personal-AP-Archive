@@ -2096,7 +2096,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Uproot|)} or |Cap Vault| or ({YamlEnabled(easy_trick_jumps)} and |Wall Jump| and Dive) or (|High Jump| and {OptAll(|Dive| and |Wall Jump|)})",
+    "requires": "{OptOne(|Uproot|)} or |Cap Vault| or ({YamlEnabled(easy_trick_jumps)} and |Wall Jump| and |Dive|) or (|High Jump| and {OptAll(|Dive| and |Wall Jump|)})",
     "sort-key": "row-05-013"
   },
   {
@@ -2105,7 +2105,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or |Cap Vault| or ({OptAll(|Wall Jump| and |Dive|)}) or |High Jump|))}",
+    "requires": "{OptOne(|Uproot|)} or {OptOne(|Fire Bro|)} or |Cap Vault| or ({OptAll(|Wall Jump| and |Dive|)}) or |High Jump|",
     "sort-key": "row-05-014"
   },
   {
@@ -3213,7 +3213,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Long Jump| or |Dive)} or (|Post Game| and {OptOne(|Volbonan|)})",
+    "requires": "{OptAll(|Long Jump| or |Dive|)} or (|Post Game| and {OptOne(|Volbonan|)})",
     "sort-key": "row-08-011"
   },
   {
@@ -3277,7 +3277,7 @@
     "category": [
       "08 Metro Kingdom"
     ],
-    "requires": "{OptAll(|Long Jump| or |Dive)}",
+    "requires": "{OptAll(|Long Jump| or |Dive|)}",
     "sort-key": "row-08-018"
   },
   {
@@ -7280,7 +7280,7 @@
       "15 Mushroom Kingdom",
 	  "Post Game"
     ],
-    "requires": "{OptOne(|Uproot|)} and ({OptOne(|Hold/Throw|)} or {OptOne(|Yoshi|)} or ({OptOne(|Dive|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Goomba|)} or ({OptOne(|Cap Jump|)} and ({OptOne(|Back Flip|)} or ({OptAlive(|Ground Pound| and |Ground Pound Jump|)}))))))",
+    "requires": "{OptOne(|Uproot|)} and ({OptOne(|Hold/Throw|)} or {OptOne(|Yoshi|)} or ({OptOne(|Dive|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Goomba|)} or ({OptOne(|Cap Jump|)} and ({OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))))))",
     "sort-key": "row-15-034"
   },
   {

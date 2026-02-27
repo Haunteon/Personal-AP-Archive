@@ -23,17 +23,95 @@ from typing import Type, Any
 
 
 # To add an option, use the before_options_defined hook below and something like this:
-#   options["total_characters_to_win_with"] = TotalCharactersToWinWith
-#
-class TotalCharactersToWinWith(Range):
-    """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""
-    display_name = "Number of characters to beat the game with before victory"
-    range_start = 10
-    range_end = 50
-    default = 50
+class MoonsRequiredForCascade(Range):
+    """During Specific moons this is how many cascade moons you need to leave cascade. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required moons for cascade"
+    range_start = 0
+    range_end = 10
+    default = 5
 
+class MoonsRequiredForSand(Range):
+    """During Specific moons this is how many sand moons you need to leave sand. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required moons for sand"
+    range_start = 0
+    range_end = 32
+    default = 16
+
+class MoonsRequiredForLake(Range):
+    """During Specific moons this is how many lake moons you need to enter lake and wooded. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Lake moons"
+    range_start = 0
+    range_end = 16
+    default = 8
+
+class MoonsRequiredForWooded(Range):
+    """During Specific moons this is how many wooded moons you need to enter lake and wooded. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Wooded moons"
+    range_start = 0
+    range_end = 32
+    default = 16
+
+class MoonsRequiredForLost(Range):
+    """During Specific moons this is how many lost moons you need to leave lost. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Lost moons"
+    range_start = 0
+    range_end = 20
+    default = 10
+
+class MoonsRequiredForMetro(Range):
+    """During Specific moons this is how many Metro moons you need to leave lost. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Metro moons"
+    range_start = 0
+    range_end = 40
+    default = 20
+
+class MoonsRequiredForSnow(Range):
+    """During Specific moons this is how many Snow moons you need to enter snow and seaside. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Snow moons"
+    range_start = 0
+    range_end = 20
+    default = 10
+
+class MoonsRequiredForSeaside(Range):
+    """During Specific moons this is how many Seaside moons you need to enter snow and seaside. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Seaside moons"
+    range_start = 0
+    range_end = 20
+    default = 10
+
+class MoonsRequiredForLuncheon(Range):
+    """During Specific moons this is how many Luncheon moons you need to leave Luncheon. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Luncheon moons"
+    range_start = 0
+    range_end = 36
+    default = 18
+
+class MoonsRequiredForRuined(Range):
+    """During Specific moons this is how many Ruined moons you need to leave Ruined. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Ruined moons"
+    range_start = 0
+    range_end = 6
+    default = 3
+
+class MoonsRequiredForBowser(Range):
+    """During Specific moons this is how many Bowser moons you need to leave Bowser. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Bowser moons"
+    range_start = 0
+    range_end = 16
+    default = 8
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["moonsreqforcascade"] = MoonsRequiredForCascade
+    options["moonsreqforsand"] = MoonsRequiredForSand
+    options["moonsreqforlake"] = MoonsRequiredForLake
+    options["moonsreqforwooded"] = MoonsRequiredForWooded
+    options["moonsreqforlost"] = MoonsRequiredForLost
+    options["moonsreqformetro"] = MoonsRequiredForMetro
+    options["moonsreqforsnow"] = MoonsRequiredForSnow
+    options["moonsreqforseaside"] = MoonsRequiredForSeaside
+    options["moonsreqforluncheon"] = MoonsRequiredForLuncheon
+    options["moonsreqforruined"] = MoonsRequiredForRuined
+    options["moonsreqforbowser"] = MoonsRequiredForBowser
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
