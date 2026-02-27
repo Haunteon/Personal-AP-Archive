@@ -4,135 +4,171 @@
     "name": "Power Moon",
     "category": [
       "01 Moons",
-	  "Generic"
+      "Generic"
     ],
     "progression": true,
-	"sort-key": "row-1-01"
+    "sort-key": "row-1-01",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "10",
     "name": "Cascade Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+      "Specific"
     ],
     "progression": true,
-	"sort-key": "row-1-01"
+    "sort-key": "row-1-01",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "32",
     "name": "Sand Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+      "Specific"
     ],
     "progression": true,
-	"sort-key": "row-1-02"
+    "sort-key": "row-1-02",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "16",
     "name": "Lake Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+      "Specific"
     ],
     "progression": true,
-	"sort-key": "row-1-03"
+    "sort-key": "row-1-03",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "32",
     "name": "Wooded Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+      "Specific"
     ],
     "progression": true,
-	"sort-key": "row-1-04"
+    "sort-key": "row-1-04",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "20",
     "name": "Lost Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+      "Specific"
     ],
     "progression": true,
-	"sort-key": "row-1-05"
+    "sort-key": "row-1-05",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "40",
     "name": "Metro Moon",
     "category": [
       "01 Moons",
-	  "Specific"
+      "Specific"
     ],
     "progression": true,
-	"sort-key": "row-1-06"
+    "sort-key": "row-1-06",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "20",
     "name": "Snow Moon",
     "category": [
       "01 Moons",
-	  "Specific",
-	  "Post Metro"
+      "Specific",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-07"
+    "sort-key": "row-1-07",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "20",
     "name": "Seaside Moon",
     "category": [
       "01 Moons",
-	  "Specific",
-	  "Post Metro"
+      "Specific",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-08"
+    "sort-key": "row-1-08",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "36",
     "name": "Luncheon Moon",
     "category": [
       "01 Moons",
-	  "Specific",
-	  "Post Metro"
+      "Specific",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-09"
+    "sort-key": "row-1-09",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "6",
     "name": "Ruined Moon",
     "category": [
       "01 Moons",
-	  "Specific",
-	  "Post Metro"
+      "Specific",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-10"
+    "sort-key": "row-1-10",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "16",
     "name": "Bowser Moon",
     "category": [
       "01 Moons",
-	  "Specific",
-	  "Post Metro"
+      "Specific",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-11"
+    "sort-key": "row-1-11",
+    "value": {
+      "Darker": 1
+    }
   },
   {
     "count": "7",
     "name": "Progressive Kingdom Unlock",
     "category": [
       "02 Kingdoms",
-	  "Generic"
+      "Generic"
     ],
     "progression": true,
-	"sort-key": "row-2-01"
+    "sort-key": "row-2-01"
   },
   {
     "count": "1",
@@ -141,7 +177,7 @@
       "02 Kingdoms"
     ],
     "progression": true,
-	"sort-key": "row-2-02"
+    "sort-key": "row-2-02"
   },
   {
     "count": "1",
@@ -150,47 +186,47 @@
       "02 Kingdoms"
     ],
     "progression": true,
-	"sort-key": "row-2-03"
+    "sort-key": "row-2-03"
   },
   {
     "count": "1",
     "name": "Kingdom Split Path Snow Kingdom",
     "category": [
       "02 Kingdoms",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-2-04"
+    "sort-key": "row-2-04"
   },
   {
     "count": "1",
     "name": "Kingdom Split Path Seaside Kingdom",
     "category": [
       "02 Kingdoms",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-2-05"
+    "sort-key": "row-2-05"
   },
   {
     "count": "1",
     "name": "Travel Guide",
     "category": [
       "00 NPC",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-0-01"
+    "sort-key": "row-0-01"
   },
   {
     "count": "1",
     "name": "Suitcase",
     "category": [
       "00 NPC",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-0-02"
+    "sort-key": "row-0-02"
   },
   {
     "count": 1,
@@ -199,7 +235,10 @@
       "01 Moons"
     ],
     "progression": true,
-	"sort-key": "row-1-12"
+    "sort-key": "row-1-12",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
@@ -208,7 +247,10 @@
       "01 Moons"
     ],
     "progression": true,
-	"sort-key": "row-1-13"
+    "sort-key": "row-1-13",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
@@ -217,7 +259,10 @@
       "01 Moons"
     ],
     "progression": true,
-	"sort-key": "row-1-14"
+    "sort-key": "row-1-14",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
@@ -226,7 +271,10 @@
       "01 Moons"
     ],
     "progression": true,
-	"sort-key": "row-1-15"
+    "sort-key": "row-1-15",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
@@ -235,7 +283,10 @@
       "01 Moons"
     ],
     "progression": true,
-	"sort-key": "row-1-16"
+    "sort-key": "row-1-16",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
@@ -244,7 +295,10 @@
       "01 Moons"
     ],
     "progression": true,
-	"sort-key": "row-1-17"
+    "sort-key": "row-1-17",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
@@ -253,1295 +307,1332 @@
       "01 Moons"
     ],
     "progression": true,
-	"sort-key": "row-1-18"
+    "sort-key": "row-1-18",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Metro Kingdom Festival Multimoon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-19"
+    "sort-key": "row-1-19",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Snow Kingdom Bound Bowl Grand Prix Multimoon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-20"
+    "sort-key": "row-1-20",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Seaside Kingdom Mollusque-Lanceur Multimoon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-21"
+    "sort-key": "row-1-21",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Luncheon Kingdom Spewart Story Moon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-22"
+    "sort-key": "row-1-22",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Luncheon Kingdom Cheese Story Moon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-23"
+    "sort-key": "row-1-23",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Luncheon Kingdom Big Pot Multimoon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-24"
+    "sort-key": "row-1-24",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Luncheon Kingdom Cave Story Moon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-25"
+    "sort-key": "row-1-25",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Luncheon Kingdom Cookatiel Multimoon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-26"
+    "sort-key": "row-1-26",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Ruined Kingdom Dragon Multimoon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-27"
+    "sort-key": "row-1-27",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Bowser Kingdom Mecha-Broodal Multimoon",
     "category": [
       "01 Moons",
-	  "Post Metro"
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-1-28"
+    "sort-key": "row-1-28",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Dark Side Mecha-Broodal Multimoon",
     "category": [
       "01 Moons",
-	  "Post Game"
+      "Post Game"
     ],
     "progression": true,
-	"sort-key": "row-1-29"
+    "sort-key": "row-1-29",
+    "value": {
+      "Darker": 3
+    }
   },
   {
     "count": 1,
     "name": "Moon Power",
     "category": [
-      "00 NPC", "Moon Rock"
+      "00 NPC",
+      "Moon Rock"
     ],
     "progression": true,
-	"sort-key": "row-0-03"
+    "sort-key": "row-0-03"
   },
   {
     "count": 1,
     "name": "Frog",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-01"
+    "sort-key": "row-3-01"
   },
   {
     "count": 1,
     "name": "Spark Pylon",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-02"
+    "sort-key": "row-3-02"
   },
   {
     "count": 1,
     "name": "Paragoomba",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-03"
+    "sort-key": "row-3-03"
   },
   {
     "count": 1,
     "name": "Chain Chomp",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-04"
+    "sort-key": "row-3-04"
   },
   {
     "count": 1,
     "name": "Big Chain Chomp",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-05"
+    "sort-key": "row-3-05"
   },
   {
     "count": 1,
     "name": "Broode's Chain Chomp",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-06"
+    "sort-key": "row-3-06"
   },
   {
     "count": 1,
     "name": "T-Rex",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-07"
+    "sort-key": "row-3-07"
   },
   {
     "count": 1,
     "name": "Binoculars",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-08"
+    "sort-key": "row-3-08"
   },
   {
     "count": 1,
     "name": "Bullet Bill",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-09"
+    "sort-key": "row-3-09"
   },
   {
     "count": 1,
     "name": "Moe-Eye",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-10"
+    "sort-key": "row-3-10"
   },
   {
     "count": 1,
     "name": "Cactus",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-11"
+    "sort-key": "row-3-11"
   },
   {
     "count": 1,
     "name": "Goomba",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-12"
+    "sort-key": "row-3-12"
   },
   {
     "count": 1,
     "name": "Knucklotec's Fist",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-13"
+    "sort-key": "row-3-13"
   },
   {
     "count": 1,
     "name": "Mini Rocket",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-14"
+    "sort-key": "row-3-14"
   },
   {
     "count": 1,
     "name": "Glydon",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-15"
+    "sort-key": "row-3-15"
   },
   {
     "count": 1,
     "name": "Lakitu",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-16"
+    "sort-key": "row-3-16"
   },
   {
     "count": 1,
     "name": "Zipper",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-17"
+    "sort-key": "row-3-17"
   },
   {
     "count": 1,
     "name": "Cheep Cheep",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-18"
+    "sort-key": "row-3-18"
   },
   {
     "count": 1,
     "name": "Puzzle Part (Lake)",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-19"
+    "sort-key": "row-3-19"
   },
   {
     "count": 1,
     "name": "Poison Piranha Plant",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-20"
+    "sort-key": "row-3-20"
   },
   {
     "count": 1,
     "name": "Uproot",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-21"
+    "sort-key": "row-3-21"
   },
   {
     "count": 1,
     "name": "Fire Bro",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-22"
+    "sort-key": "row-3-22"
   },
   {
     "count": 1,
     "name": "Sherm",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-23"
+    "sort-key": "row-3-23"
   },
   {
     "count": 1,
     "name": "Coin Coffer",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-24"
+    "sort-key": "row-3-24"
   },
   {
     "count": 1,
     "name": "Tree",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-25"
+    "sort-key": "row-3-25"
   },
   {
     "count": 1,
     "name": "Boulder",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-26"
+    "sort-key": "row-3-26"
   },
   {
     "count": 1,
     "name": "Picture Match Part (Goomba)",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-27"
+    "sort-key": "row-3-27"
   },
   {
     "count": 1,
     "name": "Tropical Wiggler",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-28"
+    "sort-key": "row-3-28"
   },
   {
     "count": 1,
     "name": "Pole",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-29"
+    "sort-key": "row-3-29"
   },
   {
     "count": 1,
     "name": "Manhole",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-30"
+    "sort-key": "row-3-30"
   },
   {
     "count": 1,
     "name": "Taxi",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-31"
+    "sort-key": "row-3-31"
   },
   {
     "count": 1,
     "name": "RC Car",
     "category": [
       "03 Captures",
-	  "Basic Captures"
+      "Basic Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-32"
+    "sort-key": "row-3-32"
   },
   {
     "count": 1,
     "name": "Ty-foo",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-33"
+    "sort-key": "row-3-33"
   },
   {
     "count": 1,
     "name": "Shiverian Racer",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-34"
+    "sort-key": "row-3-34"
   },
   {
     "count": 1,
     "name": "Cheep Cheep (Snow)",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-35"
+    "sort-key": "row-3-35"
   },
   {
     "count": 1,
     "name": "Gushen",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-36"
+    "sort-key": "row-3-36"
   },
   {
     "count": 1,
     "name": "Lava Bubble",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-37"
+    "sort-key": "row-3-37"
   },
   {
     "count": 1,
     "name": "Volbonan",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-38"
+    "sort-key": "row-3-38"
   },
   {
     "count": 1,
     "name": "Hammer Bro",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-39"
+    "sort-key": "row-3-39"
   },
   {
     "count": 1,
     "name": "Meat",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-40"
+    "sort-key": "row-3-40"
   },
   {
     "count": 1,
     "name": "Fire Piranha Plant",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-41"
+    "sort-key": "row-3-41"
   },
   {
     "count": 1,
     "name": "Pokio",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-42"
+    "sort-key": "row-3-42"
   },
   {
     "count": 1,
     "name": "Jizo",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-43"
+    "sort-key": "row-3-43"
   },
   {
     "count": 1,
     "name": "Bowser Statue",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-44"
+    "sort-key": "row-3-44"
   },
   {
     "count": 1,
     "name": "Parabones",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-45"
+    "sort-key": "row-3-45"
   },
   {
     "count": 1,
     "name": "Banzai Bill",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-46"
+    "sort-key": "row-3-46"
   },
   {
     "count": 1,
     "name": "Chargin' Chuck",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-47"
+    "sort-key": "row-3-47"
   },
   {
     "count": 1,
     "name": "Bowser",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-48"
+    "sort-key": "row-3-48"
   },
   {
     "count": 1,
     "name": "Letter",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Game"
+      "Basic Captures",
+      "Post Game"
     ],
     "progression": true,
-	"sort-key": "row-3-49"
+    "sort-key": "row-3-49"
   },
   {
     "count": 1,
     "name": "Puzzle Part (Metro)",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Game"
+      "Basic Captures",
+      "Post Game"
     ],
     "progression": true,
-	"sort-key": "row-3-50"
+    "sort-key": "row-3-50"
   },
   {
     "count": 1,
     "name": "Picture Match Part (Mario)",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-51"
+    "sort-key": "row-3-51"
   },
   {
     "count": 1,
     "name": "Yoshi",
     "category": [
       "03 Captures",
-	  "Basic Captures",
-	  "Post Metro"
+      "Basic Captures",
+      "Post Metro"
     ],
     "progression": true,
-	"sort-key": "row-3-52"
+    "sort-key": "row-3-52"
   },
   {
     "count": 1,
     "name": "Slingshot",
     "category": [
       "03 Captures",
-	  "Extra Captures"
+      "Extra Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-53"
+    "sort-key": "row-3-53"
   },
   {
     "count": 1,
     "name": "Scarecrow",
     "category": [
       "03 Captures",
-	  "Extra Captures"
+      "Extra Captures"
     ],
     "progression": true,
-	"sort-key": "row-3-54"
+    "sort-key": "row-3-54"
   },
   {
     "count": 1,
     "name": "Long Jump",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-01"
+    "sort-key": "row-4-01"
   },
   {
     "count": 1,
     "name": "Roll",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-02"
+    "sort-key": "row-4-02"
   },
   {
     "count": 1,
     "name": "Ground Pound",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-03"
+    "sort-key": "row-4-03"
   },
   {
     "count": 1,
     "name": "Dive",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-04"
+    "sort-key": "row-4-04"
   },
   {
     "count": 1,
     "name": "Ground Pound Jump",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-05"
+    "sort-key": "row-4-05"
   },
   {
     "count": 1,
     "name": "Capture",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-06"
+    "sort-key": "row-4-06"
   },
   {
     "count": 1,
     "name": "Up Throw",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-07"
+    "sort-key": "row-4-07"
   },
   {
     "count": 1,
     "name": "Down Throw",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-08"
+    "sort-key": "row-4-08"
   },
   {
     "count": 1,
     "name": "Spin Throw",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-09"
+    "sort-key": "row-4-09"
   },
   {
     "count": 1,
     "name": "Cap Throw/Hold",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-10"
+    "sort-key": "row-4-10"
   },
   {
     "count": 1,
     "name": "Cap Jump",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-11"
+    "sort-key": "row-4-11"
   },
   {
     "count": 1,
     "name": "Homing Cap Throw",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-12"
+    "sort-key": "row-4-12"
   },
   {
     "count": 1,
     "name": "Back Flip",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-13"
+    "sort-key": "row-4-13"
   },
   {
     "count": 1,
     "name": "Side Flip",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-14"
+    "sort-key": "row-4-14"
   },
   {
     "count": 1,
     "name": "Triple Jump",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-15"
+    "sort-key": "row-4-15"
   },
   {
     "count": 1,
     "name": "Wall Jump",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-16"
+    "sort-key": "row-4-16"
   },
   {
     "count": 1,
     "name": "Hold/Throw",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-17"
+    "sort-key": "row-4-17"
   },
   {
     "count": 1,
     "name": "Swim",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-18"
+    "sort-key": "row-4-18"
   },
   {
     "count": 1,
     "name": "Quick Swim",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-19"
+    "sort-key": "row-4-19"
   },
   {
     "count": 1,
     "name": "Spin",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-20"
+    "sort-key": "row-4-20"
   },
   {
     "count": 1,
     "name": "Dash (2D)",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-21"
+    "sort-key": "row-4-21"
   },
   {
     "count": 1,
     "name": "Enter Pipe",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-22"
+    "sort-key": "row-4-22"
   },
   {
     "count": 1,
     "name": "Jaxi",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-23"
+    "sort-key": "row-4-23"
   },
   {
     "count": 1,
     "name": "Motor Scooter",
     "category": [
       "04 Actions",
-	  "Basic Actions"
+      "Basic Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-24"
+    "sort-key": "row-4-24"
   },
   {
     "count": 1,
     "name": "Ledge Grab",
     "category": [
       "04 Actions",
-	  "Extra Actions"
+      "Extra Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-25"
+    "sort-key": "row-4-25"
   },
   {
     "count": 1,
     "name": "Climb",
     "category": [
       "04 Actions",
-	  "Extra Actions"
+      "Extra Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-26"
+    "sort-key": "row-4-26"
   },
   {
     "count": 1,
     "name": "Crouch",
     "category": [
       "04 Actions",
-	  "Extra Actions"
+      "Extra Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-27"
+    "sort-key": "row-4-27"
   },
   {
     "count": 1,
     "name": "Swing",
     "category": [
       "04 Actions",
-	  "Extra Actions"
+      "Extra Actions"
     ],
     "progression": true,
-	"sort-key": "row-4-28"
+    "sort-key": "row-4-28"
   },
   {
     "count": 1,
     "name": "Caveman Headwear",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-01"
+    "sort-key": "row-5-01"
   },
   {
     "count": 1,
     "name": "Caveman Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-02"
+    "sort-key": "row-5-02"
   },
   {
     "count": 1,
     "name": "Sombrero",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-03"
+    "sort-key": "row-5-03"
   },
   {
     "count": 1,
     "name": "Poncho",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-04"
+    "sort-key": "row-5-04"
   },
   {
     "count": 1,
     "name": "Cowboy Hat",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-05"
+    "sort-key": "row-5-05"
   },
   {
     "count": 1,
     "name": "Cowboy Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-06"
+    "sort-key": "row-5-06"
   },
   {
     "count": 1,
     "name": "Swim Goggles",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-07"
+    "sort-key": "row-5-07"
   },
   {
     "count": 1,
     "name": "Swimwear",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-08"
+    "sort-key": "row-5-08"
   },
   {
     "count": 1,
     "name": "Explorer Hat",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-09"
+    "sort-key": "row-5-09"
   },
   {
     "count": 1,
     "name": "Explorer Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-10"
+    "sort-key": "row-5-10"
   },
   {
     "count": 1,
     "name": "Builder Helmet",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-11"
+    "sort-key": "row-5-11"
   },
   {
     "count": 1,
     "name": "Builder Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-12"
+    "sort-key": "row-5-12"
   },
   {
     "count": 1,
     "name": "Snow Hood",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-13"
+    "sort-key": "row-5-13"
   },
   {
     "count": 1,
     "name": "Snow Suit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-14"
+    "sort-key": "row-5-14"
   },
   {
     "count": 1,
     "name": "Resort Hat",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-15"
+    "sort-key": "row-5-15"
   },
   {
     "count": 1,
     "name": "Resort Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-16"
+    "sort-key": "row-5-16"
   },
   {
     "count": 1,
     "name": "Chef Hat",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-17"
+    "sort-key": "row-5-17"
   },
   {
     "count": 1,
     "name": "Chef Suit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-18"
+    "sort-key": "row-5-18"
   },
   {
     "count": 1,
     "name": "Samurai Helmet",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-19"
+    "sort-key": "row-5-19"
   },
   {
     "count": 1,
     "name": "Samurai Armor",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-20"
+    "sort-key": "row-5-20"
   },
   {
     "count": 1,
     "name": "Space Helmet",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-21"
+    "sort-key": "row-5-21"
   },
   {
     "count": 1,
     "name": "Space Suit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-22"
+    "sort-key": "row-5-22"
   },
   {
     "count": 1,
     "name": "Mario 64 Cap",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-23"
+    "sort-key": "row-5-23"
   },
   {
     "count": 1,
     "name": "Mario 64 Suit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-24"
+    "sort-key": "row-5-24"
   },
   {
     "count": 1,
     "name": "Boxer Shorts",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-25"
+    "sort-key": "row-5-25"
   },
   {
     "count": 1,
     "name": "Mechanic Cap",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-26"
+    "sort-key": "row-5-26"
   },
   {
     "count": 1,
     "name": "Mechanic Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-27"
+    "sort-key": "row-5-27"
   },
   {
     "count": 1,
     "name": "Pirate Hat",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-28"
+    "sort-key": "row-5-28"
   },
   {
     "count": 1,
     "name": "Pirate Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-29"
+    "sort-key": "row-5-29"
   },
   {
     "count": 1,
     "name": "Clown Hat",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-30"
+    "sort-key": "row-5-30"
   },
   {
     "count": 1,
     "name": "Clown Suit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-31"
+    "sort-key": "row-5-31"
   },
   {
     "count": 1,
     "name": "Doctor Headwear",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-32"
+    "sort-key": "row-5-32"
   },
   {
     "count": 1,
     "name": "Doctor Outfit",
     "category": [
       "05 Outfits",
-	  "Outfit Items"
+      "Outfit Items"
     ],
     "progression": true,
-	"sort-key": "row-5-33"
+    "sort-key": "row-5-33"
   }
 ]

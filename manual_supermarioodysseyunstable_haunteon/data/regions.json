@@ -440,7 +440,7 @@
     "connects_to": [
       "Dark Side Post Mech"
     ],
-    "requires": "|Power Moon:250|"
+    "requires": "{ItemValue(Darker:250)}"
   },
   "Dark Side Post Mech": {
     "connects_to": [
@@ -450,6 +450,6 @@
   "Darker Side": {
     "connects_to": [
     ],
-    "requires": "|Power Moon:500|"
+    "requires": "{ItemValue(Darker:500)}"
   }
 }
