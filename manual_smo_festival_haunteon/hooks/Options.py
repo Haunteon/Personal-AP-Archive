@@ -23,14 +23,47 @@ from typing import Type, Any
 
 
 # To add an option, use the before_options_defined hook below and something like this:
-#   options["total_characters_to_win_with"] = TotalCharactersToWinWith
-#
-class TotalCharactersToWinWith(Range):
-    """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""
-    display_name = "Number of characters to beat the game with before victory"
-    range_start = 10
-    range_end = 50
-    default = 50
+class MoonsRequiredForCascade(Range):
+    """During Specific moons this is how many cascade moons you need to leave cascade. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required moons for cascade"
+    range_start = 0
+    range_end = 10
+    default = 5
+
+class MoonsRequiredForSand(Range):
+    """During Specific moons this is how many sand moons you need to leave sand. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required moons for sand"
+    range_start = 0
+    range_end = 32
+    default = 16
+
+class MoonsRequiredForLake(Range):
+    """During Specific moons this is how many lake moons you need to enter lake and wooded. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Lake moons"
+    range_start = 0
+    range_end = 16
+    default = 8
+
+class MoonsRequiredForWooded(Range):
+    """During Specific moons this is how many wooded moons you need to enter lake and wooded. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Wooded moons"
+    range_start = 0
+    range_end = 32
+    default = 16
+
+class MoonsRequiredForLost(Range):
+    """During Specific moons this is how many lost moons you need to leave lost. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Lost moons"
+    range_start = 0
+    range_end = 20
+    default = 10
+
+class MoonsRequiredForMetro(Range):
+    """During Specific moons this is how many Metro moons you need to leave lost. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
+    display_name = "Required Metro moons"
+    range_start = 0
+    range_end = 40
+    default = 20
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
