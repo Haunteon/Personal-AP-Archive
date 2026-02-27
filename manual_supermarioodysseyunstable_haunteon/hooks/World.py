@@ -14,6 +14,7 @@ from ..Data import game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value, format_state_prog_items_key, ProgItemsCat, remove_specific_item
+
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
 
