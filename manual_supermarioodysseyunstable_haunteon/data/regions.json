@@ -73,7 +73,7 @@
       "Wooded Kingdom Deep Woods",
       "Wooded Kingdom Maze Skip"
     ],
-    "requires": "({Beat Sand()} and |Kingdom Split Path Wooded Kingdom|) or ({BeatSand()} and {BeatLake()} and |Into the Lake|)"
+    "requires": "({BeatSand()} and |Kingdom Split Path Wooded Kingdom|) or ({BeatSand()} and {BeatLake()} and |Into the Lake|)"
   },
   "Wooded Kingdom Deep Woods": {
     "connects_to": [
