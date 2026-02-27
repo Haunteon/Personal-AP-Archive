@@ -25,14 +25,14 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 class MoonsRequiredForCascade(Range):
     """During Specific moons this is how many cascade moons you need to leave cascade. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
-    display_name = "Required moons for cascade"
+    display_name = "Required Cascade moons"
     range_start = 0
     range_end = 10
     default = 5
 
 class MoonsRequiredForSand(Range):
     """During Specific moons this is how many sand moons you need to leave sand. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
-    display_name = "Required moons for sand"
+    display_name = "Required Sand moons"
     range_start = 0
     range_end = 32
     default = 16
