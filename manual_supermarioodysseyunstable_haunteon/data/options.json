@@ -126,7 +126,7 @@
       "type": "Toggle",
       "default": false,
       "group": "Location Options",
-      "hidden": true
+      "hidden": false
     },
     "achievement_moons": {
       "display_name": "Include Toadette Moons",
@@ -138,7 +138,7 @@
       "type": "Toggle",
       "default": false,
       "group": "Location Options",
-      "hidden": true
+      "hidden": false
     },
     "easy_trick_jumps": {
       "display_name": "Easy Trick Jumps",
