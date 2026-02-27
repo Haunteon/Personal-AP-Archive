@@ -29,8 +29,7 @@
   {
     "name": "Darker Side",
     "category": [
-      "00 Events",
-	  "Post Game"
+      "00 Events"
     ],
     "requires": "|Goal 4|",
     "victory": true,
@@ -881,7 +880,8 @@
     "name": "Hang Your Hat on the Fountain",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-015"
@@ -944,7 +944,8 @@
     "name": "Bird Traveling the Wastes",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-022"
@@ -953,7 +954,8 @@
     "name": "The Lurker Under the Stone",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-03-023"
@@ -998,7 +1000,8 @@
     "name": "Sand Kingdom Timer Challenge 1",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptAll(|Roll| and |Wall Jump|)}",
     "sort-key": "row-03-028"
@@ -1007,7 +1010,8 @@
     "name": "Sand Kingdom Timer Challenge 2",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-029"
@@ -1016,7 +1020,8 @@
     "name": "Sand Kingdom Timer Challenge 3",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Jaxi|)} or ({OptAll(|Long Jump| and |Roll|)})",
     "sort-key": "row-03-030"
@@ -1025,7 +1030,8 @@
     "name": "Found in the Sand! Good Dog!",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-03-031"
@@ -1043,7 +1049,8 @@
     "name": "Herding Sheep in the Dunes",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-033"
@@ -1052,7 +1059,8 @@
     "name": "Fishing in the Oasis",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-03-034"
@@ -1061,7 +1069,8 @@
     "name": "Love in the Heart of the Desert",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-03-035"
@@ -1079,7 +1088,8 @@
     "name": "You're Quite a Catch, Captain Toad!",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-03-037"
@@ -1088,7 +1098,8 @@
     "name": "Jaxi Reunion!",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Jaxi|)}",
     "sort-key": "row-03-038"
@@ -1097,7 +1108,8 @@
     "name": "Welcome Back, Jaxi!",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Jaxi|)}",
     "sort-key": "row-03-039"
@@ -1151,7 +1163,8 @@
     "name": "Walking the Desert!",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-045"
@@ -1187,7 +1200,8 @@
     "name": "Under the Mummy's Curse",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-049"
@@ -1286,7 +1300,8 @@
     "name": "Strange Neighborhood",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Mini Rocket|)}",
     "sort-key": "row-03-060"
@@ -1295,7 +1310,8 @@
     "name": "Above a Strange Neighborhood",
     "region": "Sand Kingdom Post Peace",
     "category": [
-      "03 Sand Kingdom"
+      "03 Sand Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Mini Rocket|)}",
     "sort-key": "row-03-061"
@@ -1658,7 +1674,8 @@
     "name": "Lake Gardening: Spiky Passage Seed",
     "region": "Lake Kingdom Post Peace",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptAll(|Swim| and |Hold/Throw|)}",
     "sort-key": "row-04-009"
@@ -1667,7 +1684,8 @@
     "name": "Lake Kingdom Timer Challenge 1",
     "region": "Lake Kingdom Post Peace",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-04-010"
@@ -1676,7 +1694,8 @@
     "name": "Lake Kingdom Timer Challenge 2",
     "region": "Lake Kingdom Post Peace",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom",
+	  "Post Peace"
     ],
     "requires": "(|High Jump| or {OptOne(|Spin|)}) or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-04-011"
@@ -1712,7 +1731,8 @@
     "name": "Lake Fishing",
     "region": "Lake Kingdom Post Peace",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-04-015"
@@ -1721,7 +1741,8 @@
     "name": "I Met a Lake Cheep Cheep!",
     "region": "Lake Kingdom Post Peace",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Cheep Cheep|)}",
     "sort-key": "row-04-016"
@@ -1757,7 +1778,8 @@
     "name": "A Successful Repair Job",
     "region": "Lake Kingdom Post Peace",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Puzzle Part (Lake)|)}",
     "sort-key": "row-04-020"
@@ -1821,7 +1843,8 @@
     "name": "Found with Lake Kingdom Art",
     "region": "Lake Kingdom Post Peace",
     "category": [
-      "04 Lake Kingdom"
+      "04 Lake Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-04-027"
@@ -2157,7 +2180,8 @@
     "name": "Hey Out There, Captain Toad!",
     "region": "Wooded Kingdom Post Peace",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Glydon|)}",
     "sort-key": "row-05-020"
@@ -2175,7 +2199,8 @@
     "name": "Inside a Rock in the Forest",
     "region": "Wooded Kingdom Post Peace",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-05-022"
@@ -2220,7 +2245,8 @@
     "name": "Make the Secret Flower Field Bloom",
     "region": "Wooded Kingdom Post Peace",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Spin Throw|)}",
     "sort-key": "row-05-027"
@@ -2310,7 +2336,8 @@
     "name": "Wooded Kingdom Timer Challenge 1",
     "region": "Wooded Kingdom Post Peace",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Down Throw|)}",
     "sort-key": "row-05-037"
@@ -2319,7 +2346,8 @@
     "name": "Wooded Kingdom Timer Challenge 2",
     "region": "Wooded Kingdom Post Peace",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom",
+	  "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-05-038"
@@ -2400,7 +2428,8 @@
     "name": "Walking on Clouds",
     "region": "Wooded Kingdom Post Peace",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptAll(|Uproot| and |Hold/Throw|)}",
     "sort-key": "row-05-047"
@@ -2409,7 +2438,8 @@
     "name": "Above the Clouds",
     "region": "Wooded Kingdom Post Peace",
     "category": [
-      "05 Wooded Kingdom"
+      "05 Wooded Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptAll(|Uproot| and |Hold/Throw|)}",
     "sort-key": "row-05-048"
@@ -2697,7 +2727,8 @@
     "name": "Picture Match: Basically a Goomba",
     "region": "Cloud Kingdom Post Peace",
     "category": [
-      "06 Cloud Kingdom"
+      "06 Cloud Kingdom",
+	  "Post Peace"
     ],
     "requires": "{OptOne(|Picture Match Part (Goomba)|)}",
     "sort-key": "row-06-001"
@@ -3266,6 +3297,7 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Pole|)}",
@@ -3285,6 +3317,7 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -3295,6 +3328,7 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Motor Scooter|)}",
@@ -3584,6 +3618,7 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "|Travel Guide|",
@@ -3976,6 +4011,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4006,6 +4042,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4016,6 +4053,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4026,6 +4064,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4036,6 +4075,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4046,6 +4086,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Lakitu|)}",
@@ -4076,6 +4117,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Boxer Shorts|)}",
@@ -4096,6 +4138,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4106,6 +4149,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Shiverian Racer|)}",
@@ -4116,6 +4160,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4126,6 +4171,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4136,6 +4182,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
@@ -4146,6 +4193,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
@@ -4156,6 +4204,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Ty-foo|)}",
@@ -4186,6 +4235,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
@@ -4196,6 +4246,7 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
@@ -4578,6 +4629,7 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4708,6 +4760,7 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
@@ -4718,6 +4771,7 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
@@ -4758,6 +4812,7 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Glydon|)}",
@@ -4798,6 +4853,7 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -4808,6 +4864,7 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -5353,6 +5410,7 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptAll(|High Jump| or |Spin|)}",
@@ -5503,6 +5561,7 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -5513,6 +5572,7 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
@@ -5633,6 +5693,7 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "|Tourist 2|",
@@ -5866,6 +5927,7 @@
     "region": "Ruined Kingdom Post Peace",
     "category": [
       "12 Ruined Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Spark Pylon|)}",
@@ -5876,6 +5938,7 @@
     "region": "Ruined Kingdom Post Peace",
     "category": [
       "12 Ruined Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Spark Pylon|)}",
@@ -6029,6 +6092,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -6039,6 +6103,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptAll(|Lakitu| and |Slingshot|)}",
@@ -6089,6 +6154,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -6109,6 +6175,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -6169,6 +6236,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
@@ -6209,6 +6277,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Lakitu|)}",
@@ -6239,6 +6308,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "",
@@ -6269,6 +6339,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
@@ -6279,6 +6350,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
@@ -6289,6 +6361,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptAll(|Jizo| and |Wall Jump|)}",
@@ -6299,6 +6372,7 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
+	  "Post Peace",
 	  "Post Metro"
     ],
     "requires": "{OptAll(|Jizo| and |Wall Jump|)}",

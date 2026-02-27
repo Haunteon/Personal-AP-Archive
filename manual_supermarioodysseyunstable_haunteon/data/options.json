@@ -105,7 +105,18 @@
       "group": "Location Options",
       "hidden": true
     },
-    "post_game_moons": {
+    "post_peace_moons": {
+      "display_name": "Include Post Peace Moons",
+      "description": [
+        "Only change if doing World Peace Goal",
+		"Adds Post Game moons as locations."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options",
+      "hidden": true
+    },
+	"post_game_moons": {
       "display_name": "Include Post Game Moons",
       "description": [
         "Only change if doing World Peace Goal",
@@ -114,7 +125,7 @@
       "type": "Toggle",
       "default": false,
       "group": "Location Options",
-      "hidden": false
+      "hidden": true
     },
     "moon_rock_moons": {
       "display_name": "Include Moon Rock Moons",

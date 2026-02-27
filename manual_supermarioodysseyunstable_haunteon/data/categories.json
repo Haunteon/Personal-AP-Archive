@@ -31,16 +31,20 @@
 		"yaml_option": ["!post_metro_moons"],
 		"hidden": true
 	},
+	"Post Peace": {
+		"yaml_option": ["!post_metro_moons", "post_peace_moons"],
+		"hidden": true
+	},
 	"Post Game": {
-		"yaml_option": ["!post_metro_moons", "post_game_moons"],
+		"yaml_option": ["!post_metro_moons", "post_peace_moons", "post_game_moons"],
 		"hidden": true
 	},
 	"Moon Rock": {
-		"yaml_option": ["!post_metro_moons", "post_game_moons", "moon_rock_moons"],
+		"yaml_option": ["!post_metro_moons", "post_peace_moons", "post_game_moons", "moon_rock_moons"],
 		"hidden": true
 	},
 	"Achievement": {
-		"yaml_option": ["!post_metro_moons", "post_game_moons", "achievement_moons"],
+		"yaml_option": ["!post_metro_moons", "post_peace_moons", "post_game_moons", "achievement_moons"],
 		"hidden": true
 	},
 	"Generic": {
