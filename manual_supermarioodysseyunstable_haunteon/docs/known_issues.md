@@ -1,2 +1,0 @@
-- (Trick Jump) Metro Kingdom 1st Visit - Girder Sandwich - Movement: Dive only (Jumping from top of City Hall, before fighting Mech)
-- (Hard Trick Jump) Metro Kingdom 1st Visit - Girder Sandwich - Movement: Jump only (Same as before but with a good vector)
