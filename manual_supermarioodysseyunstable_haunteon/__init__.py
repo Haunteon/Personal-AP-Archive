@@ -22,7 +22,7 @@ from .Helpers import is_item_enabled, get_option_value, remove_specific_item, re
 from .container import APManualFile
 
 from BaseClasses import CollectionState, ItemClassification, Item
-from Options import PerGameCommonOptions
+from Options import PerGameCommonOptions, OptionGroup
 from worlds.AutoWorld import World
 
 from .hooks.World import \
@@ -39,7 +39,21 @@ class ManualWorld(World):
     __doc__ = world_description
     game: ClassVar[str] = game_name
     web = world_webworld
-
+    option_groups = [
+        OptionGroup("Moon requirements", [
+            Options.MoonsRequiredForCascade,
+            Options.MoonsRequiredForSand,
+            Options.MoonsRequiredForLake,
+            Options.MoonsRequiredForWooded,
+            Options.MoonsRequiredForLost,
+            Options.MoonsRequiredForMetro,
+            Options.MoonsRequiredForSnow,
+            Options.MoonsRequiredForSeaside,
+            Options.MoonsRequiredForLuncheon,
+            Options.MoonsRequiredForRuined,
+            Options.MoonsRequiredForBowser
+        ]),
+    ]
     options_dataclass = manual_options_data
     data_version = 2
     required_client_version = (0, 3, 4)
