@@ -40,7 +40,7 @@ class ManualWorld(World):
     game: ClassVar[str] = game_name
     web = world_webworld
     option_groups = [
-        OptionGroup("Moon requirements", [
+        OptionGroup("Moon Requirements", [
             Options.MoonsRequiredForCascade,
             Options.MoonsRequiredForSand,
             Options.MoonsRequiredForLake,
@@ -51,7 +51,7 @@ class ManualWorld(World):
             Options.MoonsRequiredForSeaside,
             Options.MoonsRequiredForLuncheon,
             Options.MoonsRequiredForRuined,
-            Options.MoonsRequiredForBowser
+            Options.MoonsRequiredForBowser,
         ]),
     ]
     options_dataclass = manual_options_data
